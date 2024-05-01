@@ -51,15 +51,15 @@ def rsaEncrypt(publicKey, aesKey):
     return aesCipherKey
 
 
-# RSA 공개키(Public Key) 조회 함수
-def getPublicKey(request):
-    headers = {'Content-Type': 'application/json'}
-    response = requests.get(apiHost + "/api/Auth/GetPublicKey?APIkey=" + apiKey, headers=headers)
-    rsaPublicKey=response.json()['PublicKey']
-    return rsaPublicKey
+# # RSA 공개키(Public Key) 조회 함수
+# def getPublicKey(request):
+#     headers = {'Content-Type': 'application/json'}
+#     response = requests.get(apiHost + "/api/Auth/GetPublicKey?APIkey=" + apiKey, headers=headers)
+#     rsaPublicKey=response.json()['PublicKey']
+#     return rsaPublicKey
 
 # RSA Public Key 조회
-rsaPublicKey = getPublicKey(requests)
+rsaPublicKey = "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAliB+NjGN7C4rohPd/8rHmIKT/Xbxsv+8IrjvySBalWrv15YYDVMfKpX7bRVmWL4XUM5cuNe65Zkbjcx2TdjZl0Ii+54ol7D/OaP+RDqJ3JPU34zIFOI6hNs0SZoPAn/zvCmvLcCm0e6XsV7Zhni7fBmyp/Pq0JaCJWNtm6ninsM4mLCREtnC5fsjrgXzHqq7In/q9MEFDRMqYLv/obUc3FQaG2/vq1UegnO+DmjGcaykStjdwEqFPjEKiE9tUduiDvTiMHw8mhoo7kl6DE30NwayrDvSnYj1ZEDHLOinIj2q/FXwMpuydvt88RQ5mJXdZipJPuP64xQcIZph5SjChQIDAQAB"
 print(f"rsaPublicKey: {rsaPublicKey}")#f는 포맷임
 
 # AES Secret Key 및 IV 생성
@@ -106,7 +106,8 @@ print(f"UniqueNo: {UniqueNo}")
 url         = apiHost + "/api/v1.0/iros/risuretrieve"
 iros_id = "ham1209"
 iros_pw = "euna0825."
-emoney_pwd="hameuna1209"
+emoney_pwd="euna0825"
+#전자민원캐시 비밀번호 : hameuna1209
 
 # API 요청 파라미터 설정
 options     = {
@@ -135,7 +136,7 @@ options     = {
 
 # API 호출
 res = requests.post(url, headers=options['headers'], json=options['json'])
-print(f"res: {res.json()}")
+print(f"res 등기부등본 xml: {res.json()}")
 t_Key=base64.b64decode(res.json()["TransactionKey"]).decode("utf-8") # 트랜잭션 키 획득
 print(f"res: {res.json()}")
 # 파일 저장
