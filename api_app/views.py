@@ -8,8 +8,7 @@ from Crypto.PublicKey import RSA
 from Crypto.Cipher import PKCS1_v1_5, AES
 from django.http import JsonResponse
 
-apiHost = 'https://api.tilko.net/'
-apiKey  = 'd4cd43b9abe844909fe998677d50931a'
+
 
 
 # AES 암호화 함수
@@ -58,7 +57,10 @@ def rsaEncrypt(publicKey, aesKey):
 #     rsaPublicKey=response.json()['PublicKey']
 #     return rsaPublicKey
 
+
+apiKey="d4cd43b9abe844909fe998677d50931a"
 # RSA Public Key 조회
+apiHost="https://api.tilko.net/"
 rsaPublicKey = "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAliB+NjGN7C4rohPd/8rHmIKT/Xbxsv+8IrjvySBalWrv15YYDVMfKpX7bRVmWL4XUM5cuNe65Zkbjcx2TdjZl0Ii+54ol7D/OaP+RDqJ3JPU34zIFOI6hNs0SZoPAn/zvCmvLcCm0e6XsV7Zhni7fBmyp/Pq0JaCJWNtm6ninsM4mLCREtnC5fsjrgXzHqq7In/q9MEFDRMqYLv/obUc3FQaG2/vq1UegnO+DmjGcaykStjdwEqFPjEKiE9tUduiDvTiMHw8mhoo7kl6DE30NwayrDvSnYj1ZEDHLOinIj2q/FXwMpuydvt88RQ5mJXdZipJPuP64xQcIZph5SjChQIDAQAB"
 print(f"rsaPublicKey: {rsaPublicKey}")#f는 포맷임
 
@@ -83,11 +85,11 @@ options     = {
     },
     
     "json": {
-        "Address"                : "경상북도 포항시 남구 동해면 약전리 366-3",
+        "Address"                : "서울특별시 관악구 보라매로 62 보라매삼성아파트 102동 1505호",
         "Sangtae"              : "0",
         "KindClsFlag"             : "0",
         "Region"        : "0",
-        "Page"            : "2",
+        "Page"            : "1",
 
     },
 }
@@ -133,12 +135,43 @@ options     = {
 
 
 
-
-# API 호출
+# xml API 호출
 res = requests.post(url, headers=options['headers'], json=options['json'])
 print(f"res 등기부등본 xml: {res.json()}")
-t_Key=base64.b64decode(res.json()["TransactionKey"]).decode("utf-8") # 트랜잭션 키 획득
-print(f"res: {res.json()}")
-# 파일 저장
-with open("D:\\result", "w") as f:
-    f.write(base64.b64decode(res.json()["TransactionKey"]))
+#t_Key=base64.b64decode(res.json()["TransactionKey"]).decode("utf-8") # 트랜잭션 키 획득
+t_Key = res.json()["TransactionKey"]
+print(f"t_Key: {t_Key}")
+
+
+#pdf 변환 api 호출
+get_pdf=apiHost +"api/v1.0/iros/GetPdfFile"
+options     = {
+    "headers": {
+        "Content-Type"          : "application/json",
+        "API-KEY"               : apiKey,
+        "ENC-KEY"               : aesCipherKey
+    },
+    
+    "json": {
+        "TransactionKey"                : t_Key,
+        "IsSummary"              : "Y",
+        
+    },
+}
+getpdf_res = requests.post(get_pdf, headers=options['headers'], json=options['json'])
+pdf_string = getpdf_res.json()["Message"]
+print(f"getpdf_res: {pdf_string}")
+
+
+pdf_string = getpdf_res.json()["Message"]
+
+# Base64 디코딩하여 바이너리 데이터로 변환
+pdf_binary_data = base64.b64decode(pdf_string)
+
+# PDF 파일로 저장
+with open("output.pdf", "wb") as pdf_file:
+    pdf_file.write(pdf_binary_data)
+
+# # 파일 저장
+# with open("D:\\result", "w") as f:
+#     f.write(base64.b64decode(res.json()["TransactionKey"]))
