@@ -1,5 +1,8 @@
+import time
 from django.shortcuts import render
-
+import json
+import xmltodict
+import xml.etree.ElementTree as ET
 # Create your views here.
 import os, json, base64
 import requests
@@ -7,10 +10,28 @@ from Crypto import PublicKey
 from Crypto.PublicKey import RSA
 from Crypto.Cipher import PKCS1_v1_5, AES
 from django.http import JsonResponse
+import datetime
+from django.http import HttpResponse
+
+now = time.localtime()
+print(f"{now.tm_year}/{now.tm_mon}/{now.tm_mday} {now.tm_hour}:{now.tm_min}:{now.tm_sec}")
 
 
 
 
+
+# def index(request):
+#     return render(request, 'my_page.html')
+
+# #주소 입력 받아오기
+# def getAddr(request):
+#     global inputAddr
+#     if request.method == 'POST':
+#         inputAddr = request.POST.get('user_input')
+#         return HttpResponse(f'입력된 주소: {inputAddr}')
+#     else:
+#         return render(request, 'my_page.html')
+    
 # AES 암호화 함수
 def aesEncrypt(key, iv, plainText):
     def pad(text):
@@ -74,7 +95,6 @@ aesCipherKey = base64.b64encode(rsaEncrypt(rsaPublicKey, aesKey))
 print(f"aesCipherKey: {aesCipherKey}")
 
 
-
 #부동산 고유번호 api 호출
 nourl=apiHost +"/api/v1.0/iros/risuconfirmsimplec"
 options     = {
@@ -85,7 +105,7 @@ options     = {
     },
     
     "json": {
-        "Address"                : "서울특별시 관악구 보라매로 62 보라매삼성아파트 102동 1505호",
+        "Address"                : "서울특별시 관악구 보라매로 62 보라매삼성아파트 102동 1505", #변수로 정보를 받아와야함
         "Sangtae"              : "0",
         "KindClsFlag"             : "0",
         "Region"        : "0",
@@ -137,41 +157,97 @@ options     = {
 
 # xml API 호출
 res = requests.post(url, headers=options['headers'], json=options['json'])
-print(f"res 등기부등본 xml: {res.json()}")
+res_json = res.json()
+res_xml=res.json()["Message"]
+
+#print(f" 등기부등본 xml: {res_xml.json()}")
+with open('res.xml', 'w', encoding='utf-8') as f:
+    f.write(res_xml)
+
+with open("res.xml",'r', encoding='utf-8') as f:
+    xmlString = f.read()
+ 
+print("xml input (xml_to_json.xml):")
+print(xmlString)
+ 
+jsonString = json.dumps(xmltodict.parse(xmlString), indent=4)
+ 
+print("\nJSON output(output.json):")
+print(jsonString)
+ 
+with open("xml_to_json.json", 'w') as f:
+    f.write(jsonString)
+
+
+
+
+
+
+
+
+
+
+
+
+
 #t_Key=base64.b64decode(res.json()["TransactionKey"]).decode("utf-8") # 트랜잭션 키 획득
 t_Key = res.json()["TransactionKey"]
 print(f"t_Key: {t_Key}")
 
 
-#pdf 변환 api 호출
-get_pdf=apiHost +"api/v1.0/iros/GetPdfFile"
-options     = {
-    "headers": {
-        "Content-Type"          : "application/json",
-        "API-KEY"               : apiKey,
-        "ENC-KEY"               : aesCipherKey
-    },
+
+
+# #pdf 변환 api 호출
+# get_pdf=apiHost +"api/v1.0/iros/GetPdfFile"
+# options     = {
+#     "headers": {
+#         "Content-Type"          : "application/json",
+#         "API-KEY"               : apiKey,
+#         "ENC-KEY"               : aesCipherKey
+#     },
     
-    "json": {
-        "TransactionKey"                : t_Key,
-        "IsSummary"              : "Y",
+#     "json": {
+#         "TransactionKey"                : t_Key,
+#         "IsSummary"              : "Y",
         
-    },
-}
-getpdf_res = requests.post(get_pdf, headers=options['headers'], json=options['json'])
-pdf_string = getpdf_res.json()["Message"]
-print(f"getpdf_res: {pdf_string}")
+#     },
+# }
+# getpdf_res = requests.post(get_pdf, headers=options['headers'], json=options['json'])
+# pdf_string = getpdf_res.json()["Message"]
+# #print(f"getpdf_res: {pdf_string}")
 
 
-pdf_string = getpdf_res.json()["Message"]
+# pdf_string = getpdf_res.json()["Message"]
 
-# Base64 디코딩하여 바이너리 데이터로 변환
-pdf_binary_data = base64.b64decode(pdf_string)
+# # Base64 디코딩하여 바이너리 데이터로 변환
+# pdf_binary_data = base64.b64decode(pdf_string)
 
-# PDF 파일로 저장
-with open("output.pdf", "wb") as pdf_file:
-    pdf_file.write(pdf_binary_data)
+# # PDF 파일로 저장
+# with open("output.pdf", "wb") as pdf_file:
+#     pdf_file.write(pdf_binary_data)
 
 # # 파일 저장
 # with open("D:\\result", "w") as f:
 #     f.write(base64.b64decode(res.json()["TransactionKey"]))
+
+# #갑을구 주요정보
+# info=apiHost +"/api/v2.0/IrosArchive/ParseXml"
+# options     = {
+#     "headers": {
+#         "Content-Type"          : "application/json",
+#         "API-KEY"               : apiKey,
+#         "ENC-KEY"               : aesCipherKey
+#     },
+    
+#     "json": {
+#         "TransactionKey"                :t_Key , 
+        
+
+#     },
+# }
+# info_res = requests.post(info, headers=options['headers'], json=options['json'])
+# print(f"info res: {info_res.json()}")
+
+
+now = time.localtime()
+print(f"{now.tm_year}/{now.tm_mon}/{now.tm_mday} {now.tm_hour}:{now.tm_min}:{now.tm_sec}")

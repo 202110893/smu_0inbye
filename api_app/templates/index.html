@@ -1,0 +1,18 @@
+<!-- index.html -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>입력칸과 버튼</title>
+</head>
+<body>
+    <form action="{% url 'getaddr' %}" method="post">
+        {% csrf_token %}
+        <label for="input_field">주소 입력:</label>
+        <input type="text" id="input_field" name="inputAddr" required>
+        <button type="submit">제출</button>
+    </form>
+</body>
+</html>

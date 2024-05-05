@@ -4,7 +4,7 @@ from . import views
 
 urlpatterns = [
     #rsapublickey 가 json형식으로 나오는 url
-    #path('get_public_key/', views.getPublicKey, name='get_public_key'),  # 예시 URL 패턴
+     #path('', views.getAddr, name='get_public_key'),  # 예시 URL 패턴
 ]
 
 
