@@ -1,4 +1,4 @@
-import time
+===import time
 from django.shortcuts import render
 import json
 import xmltodict
@@ -132,8 +132,8 @@ options     = {
     "json": {
         "IrosId"                : aesEncrypt(aesKey, aesIv, iros_id),
         "IrosPwd"              : aesEncrypt(aesKey, aesIv, iros_pw),
-        "EmoneyNo1"             : aesEncrypt(aesKey, aesIv, "Y8381523"),
-        "EmoneyNo2"        : aesEncrypt(aesKey, aesIv, "3913" ),
+        "EmoneyNo1"             : aesEncrypt(aesKey, aesIv, "Y=====523"),
+        "EmoneyNo2"        : aesEncrypt(aesKey, aesIv, "3==3" ),
         "EmoneyPwd"            : aesEncrypt(aesKey, aesIv, emoney_pwd),
         "UniqueNo"           : UniqueNo,  
         "JoinYn"           : "N",
