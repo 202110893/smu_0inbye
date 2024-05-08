@@ -20,17 +20,7 @@ print(f"{now.tm_year}/{now.tm_mon}/{now.tm_mday} {now.tm_hour}:{now.tm_min}:{now
 
 
 
-# def index(request):
-#     return render(request, 'my_page.html')
 
-# #주소 입력 받아오기
-# def getAddr(request):
-#     global inputAddr
-#     if request.method == 'POST':
-#         inputAddr = request.POST.get('user_input')
-#         return HttpResponse(f'입력된 주소: {inputAddr}')
-#     else:
-#         return render(request, 'my_page.html')
     
 # AES 암호화 함수
 def aesEncrypt(key, iv, plainText):
@@ -79,10 +69,10 @@ def rsaEncrypt(publicKey, aesKey):
 #     return rsaPublicKey
 
 
-apiKey="d4cd43b9abe844909fe998677d50931a"
+apiKey="d4cd43b==============31a"
 # RSA Public Key 조회
 apiHost="https://api.tilko.net/"
-rsaPublicKey = "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAliB+NjGN7C4rohPd/8rHmIKT/Xbxsv+8IrjvySBalWrv15YYDVMfKpX7bRVmWL4XUM5cuNe65Zkbjcx2TdjZl0Ii+54ol7D/OaP+RDqJ3JPU34zIFOI6hNs0SZoPAn/zvCmvLcCm0e6XsV7Zhni7fBmyp/Pq0JaCJWNtm6ninsM4mLCREtnC5fsjrgXzHqq7In/q9MEFDRMqYLv/obUc3FQaG2/vq1UegnO+DmjGcaykStjdwEqFPjEKiE9tUduiDvTiMHw8mhoo7kl6DE30NwayrDvSnYj1ZEDHLOinIj2q/FXwMpuydvt88RQ5mJXdZipJPuP64xQcIZph5SjChQIDAQAB"
+rsaPublicKey = "MIIBIjANBgkqhk====================================pX7bRVmWL4XUM5cuNe65Zkbjcx2TdjZl0Ii+54ol7D/OaP+RDqJ3JPU34zIFOI6hNs0SZoPAn/zvCmvLcCm0e6XsV7Zhni7fBmyp/Pq0JaCJWNtm6ninsM4mLCREtnC5fsjrgXzHqq7In/q9MEFDRMqYLv/obUc3FQaG2/vq1UegnO+DmjGcaykStjdwEqFPjEKiE9tUduiDvTiMHw8mhoo7kl6DE30NwayrDvSnYj1ZEDHLOinIj2q/FXwMpuydvt88RQ5mJXdZipJPuP64xQcIZph5SjChQIDAQAB"
 print(f"rsaPublicKey: {rsaPublicKey}")#f는 포맷임
 
 # AES Secret Key 및 IV 생성
@@ -126,9 +116,9 @@ print(f"UniqueNo: {UniqueNo}")
 ##UniqueNo=base64.b64decode(uniqueno_res.json()['ResultList'][0]['UniqueNo']).decode("utf-8")
 # API URL 설정: https://tilko.net/Help/Api/POST-api-apiVersion-FssLifeplan-RegisterStep1)
 url         = apiHost + "/api/v1.0/iros/risuretrieve"
-iros_id = "ham1209"
-iros_pw = "euna0825."
-emoney_pwd="euna0825"
+iros_id = "h====9"
+iros_pw = "e==25."
+emoney_pwd="e====5"
 #전자민원캐시 비밀번호 : hameuna1209
 
 # API 요청 파라미터 설정
