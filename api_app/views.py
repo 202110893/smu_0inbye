@@ -272,9 +272,7 @@ pdf_binary_data = base64.b64decode(pdf_string)
 with open("output.pdf", "wb") as pdf_file:
     pdf_file.write(pdf_binary_data)
 
-# 파일 저장
-with open("D:\\result", "w") as f:
-    f.write(base64.b64decode(res.json()["TransactionKey"]))
+
 ############################################################################
 
 ############################################################################
