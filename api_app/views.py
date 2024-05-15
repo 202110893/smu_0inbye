@@ -1,8 +1,6 @@
 import time
 from django.shortcuts import render
 import json
-import xmltodict
-import xml.etree.ElementTree as ET
 # Create your views here.
 import os, json, base64
 import requests
@@ -12,7 +10,9 @@ from Crypto.Cipher import PKCS1_v1_5, AES
 from django.http import JsonResponse
 import datetime
 from django.http import HttpResponse
-
+import xmltodict
+import re
+import xml.etree.ElementTree as ET
 now = time.localtime()
 print(f"{now.tm_year}/{now.tm_mon}/{now.tm_mday} {now.tm_hour}:{now.tm_min}:{now.tm_sec}")
 
@@ -20,17 +20,7 @@ print(f"{now.tm_year}/{now.tm_mon}/{now.tm_mday} {now.tm_hour}:{now.tm_min}:{now
 
 
 
-# def index(request):
-#     return render(request, 'my_page.html')
 
-# #주소 입력 받아오기
-# def getAddr(request):
-#     global inputAddr
-#     if request.method == 'POST':
-#         inputAddr = request.POST.get('user_input')
-#         return HttpResponse(f'입력된 주소: {inputAddr}')
-#     else:
-#         return render(request, 'my_page.html')
     
 # AES 암호화 함수
 def aesEncrypt(key, iv, plainText):
@@ -79,6 +69,12 @@ def rsaEncrypt(publicKey, aesKey):
 #     return rsaPublicKey
 
 
+# #주소 획득 함수
+# def getAddr(request):
+#     Addr= pass
+#     return Addr
+
+
 apiKey="d4cd43b9abe844909fe998677d50931a"
 # RSA Public Key 조회
 apiHost="https://api.tilko.net/"
@@ -95,6 +91,8 @@ aesCipherKey = base64.b64encode(rsaEncrypt(rsaPublicKey, aesKey))
 print(f"aesCipherKey: {aesCipherKey}")
 
 
+
+############################################################################
 #부동산 고유번호 api 호출
 nourl=apiHost +"/api/v1.0/iros/risuconfirmsimplec"
 options     = {
@@ -105,7 +103,7 @@ options     = {
     },
     
     "json": {
-        "Address"                : "서울특별시 관악구 보라매로 62 보라매삼성아파트 102동 1505", #변수로 정보를 받아와야함
+        "Address"                : "서울특별시 관악구 보라매로 62 보라매삼성아파트 102동 1505호", #변수로 정보를 받아와야함
         "Sangtae"              : "0",
         "KindClsFlag"             : "0",
         "Region"        : "0",
@@ -124,6 +122,8 @@ UniqueNo =uniqueno_res.json()['ResultList'][0]['UniqueNo']
 print(f"UniqueNo: {UniqueNo}")
 
 ##UniqueNo=base64.b64decode(uniqueno_res.json()['ResultList'][0]['UniqueNo']).decode("utf-8")
+
+
 # API URL 설정: https://tilko.net/Help/Api/POST-api-apiVersion-FssLifeplan-RegisterStep1)
 url         = apiHost + "/api/v1.0/iros/risuretrieve"
 iros_id = "ham1209"
@@ -152,84 +152,132 @@ options     = {
         "ValidYn":          "N",
     },
 }
+############################################################################
 
 
 
+############################################################################
 # xml API 호출
 res = requests.post(url, headers=options['headers'], json=options['json'])
 res_json = res.json()
+print(f"res.json: {res_json}")
 res_xml=res.json()["Message"]
 
-#print(f" 등기부등본 xml: {res_xml.json()}")
-with open('res.xml', 'w', encoding='utf-8') as f:
-    f.write(res_xml)
+# #xml 파일로 저장
 
-with open("res.xml",'r', encoding='utf-8') as f:
-    xmlString = f.read()
- 
-print("xml input (xml_to_json.xml):")
-print(xmlString)
- 
-jsonString = json.dumps(xmltodict.parse(xmlString), indent=4)
- 
-print("\nJSON output(output.json):")
-print(jsonString)
- 
-with open("xml_to_json.json", 'w') as f:
-    f.write(jsonString)
+# xml_file_path = r"C:/Users/hamea/smu_0inbye/res.xml"
+# with open(xml_file_path, "w") as xml_file:
+#     xml_file.write(res_xml)
 
+# # XML 파일 string으로 바꾸기
+# with open(xml_file_path, 'r', encoding='utf-8') as file:
+#     xml_string = file.read()
 
+## 태그 뒷 내용 지우기
+xml_string = re.sub(r'<summary>.*', '', res_xml, flags=re.DOTALL)
+print(xml_string)  # 문자열로 된 XML 내용 출력
 
+root = ET.fromstring(xml_string)
+xml_file_path = 'C:/Users/hamea/smu_0inbye/res.xml'
+ET.ElementTree(root).write(xml_file_path, encoding='utf-8')
 
+print(f"XML이 {xml_file_path} 경로에 저장되었습니다.")
 
+#json으로 변환
+with open('C:/Users/hamea/smu_0inbye/res.xml', encoding='utf-8') as f:
+    doc = xmltodict.parse(f.read())
+                          
+json_data = json.loads(json.dumps(doc))
 
+with open('C:/Users/hamea/smu_0inbye/res_result.json', 'w', encoding='utf-8') as json_file:
+    json.dump(json_data, json_file, ensure_ascii=False, indent=4)
 
-
-
-
-
-
-
-#t_Key=base64.b64decode(res.json()["TransactionKey"]).decode("utf-8") # 트랜잭션 키 획득
+#트랜잭션 키 값
 t_Key = res.json()["TransactionKey"]
 print(f"t_Key: {t_Key}")
 
 
 
+############################################################################
 
-# #pdf 변환 api 호출
-# get_pdf=apiHost +"api/v1.0/iros/GetPdfFile"
-# options     = {
-#     "headers": {
-#         "Content-Type"          : "application/json",
-#         "API-KEY"               : apiKey,
-#         "ENC-KEY"               : aesCipherKey
-#     },
+############################################################################
+# # XML 파일 읽기
+# tree = ET.parse('res_xml.xml')
+# root = tree.getroot()
+
+# # 제거할 태그 목록
+# tags_to_remove = ['summary', 'term', '3ndHS']
+
+# # 각 태그에 포함된 내용 제거
+# for tag_name in tags_to_remove:
+#     # 태그 찾기
+#     tags = root.findall('.//' + tag_name)
+#     # 찾은 태그들의 내용 제거
+#     for tag in tags:
+#         tag.text = ''
+
+# # 수정된 XML 파일 저장
+# tree.write('res_modified.xml')
+
+
+ 
+# with open('res_xml.xml', encoding='utf-8') as f:
+#     doc = xmltodict.parse(f.read())
+                          
+# json_data = json.loads(json.dumps(doc))
+
+# with open('res_xml_to_json.json', 'w', encoding='utf-8') as json_file:
+    # json.dump(json_data, json_file, ensure_ascii=False, indent=4)
+
+
+
+
+
+
+############################################################################
+#t_Key=base64.b64decode(res.json()["TransactionKey"]).decode("utf-8") # 트랜잭션 키 획득
+
+
+
+
+
+
+############################################################################
+#pdf 변환 api 호출
+get_pdf=apiHost +"api/v1.0/iros/GetPdfFile"
+options     = {
+    "headers": {
+        "Content-Type"          : "application/json",
+        "API-KEY"               : apiKey,
+        "ENC-KEY"               : aesCipherKey
+    },
     
-#     "json": {
-#         "TransactionKey"                : t_Key,
-#         "IsSummary"              : "Y",
+    "json": {
+        "TransactionKey"                : t_Key,
+        "IsSummary"              : "Y",
         
-#     },
-# }
-# getpdf_res = requests.post(get_pdf, headers=options['headers'], json=options['json'])
-# pdf_string = getpdf_res.json()["Message"]
-# #print(f"getpdf_res: {pdf_string}")
+    },
+}
+getpdf_res = requests.post(get_pdf, headers=options['headers'], json=options['json'])
+pdf_string = getpdf_res.json()["Message"]
+#print(f"getpdf_res: {pdf_string}")
 
 
-# pdf_string = getpdf_res.json()["Message"]
+#pdf_string = getpdf_res.json()["Message"]
 
-# # Base64 디코딩하여 바이너리 데이터로 변환
-# pdf_binary_data = base64.b64decode(pdf_string)
+# Base64 디코딩하여 바이너리 데이터로 변환
+pdf_binary_data = base64.b64decode(pdf_string)
 
-# # PDF 파일로 저장
-# with open("output.pdf", "wb") as pdf_file:
-#     pdf_file.write(pdf_binary_data)
+# PDF 파일로 저장
+with open("output.pdf", "wb") as pdf_file:
+    pdf_file.write(pdf_binary_data)
 
-# # 파일 저장
-# with open("D:\\result", "w") as f:
-#     f.write(base64.b64decode(res.json()["TransactionKey"]))
+# 파일 저장
+with open("D:\\result", "w") as f:
+    f.write(base64.b64decode(res.json()["TransactionKey"]))
+############################################################################
 
+############################################################################
 # #갑을구 주요정보
 # info=apiHost +"/api/v2.0/IrosArchive/ParseXml"
 # options     = {
@@ -247,7 +295,7 @@ print(f"t_Key: {t_Key}")
 # }
 # info_res = requests.post(info, headers=options['headers'], json=options['json'])
 # print(f"info res: {info_res.json()}")
-
+############################################################################
 
 now = time.localtime()
 print(f"{now.tm_year}/{now.tm_mon}/{now.tm_mday} {now.tm_hour}:{now.tm_min}:{now.tm_sec}")

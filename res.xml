@@ -3,2236 +3,2306 @@
 <type>I</type>
 <page>1</page>
 <line>1</line>
-<jangsu><![CDATA[1]]></jangsu>
-<a301pin><![CDATA[11431996047250]]></a301pin>
-<iss_use><![CDATA[1]]></iss_use>
-<wksbi_address><![CDATA[[집합건물] 서울특별시 관악구 봉천동 1698-1외 5필지 보라매삼성아파트 제102동 제15층 제1505호]]></wksbi_address>
-<wksbj_real_indi_cont/>
-<wksbi_cur_date><![CDATA[서기 2024년 5월 5일]]></wksbi_cur_date>
-<wksbi_bal_no_time><![CDATA[164332]]></wksbi_bal_no_time>
-<wksbi_bal_date><![CDATA[2024/05/05]]></wksbi_bal_date>
-<captain_name/>
-<wksbi_jrisdiction_office><![CDATA[서울중앙지방법원 등기국]]></wksbi_jrisdiction_office>
-<balhang_regt/>
-<b101ofcial_ver><![CDATA[IN]]></b101ofcial_ver>
-<b101ofcial_no><![CDATA[HAM1209]]></b101ofcial_no>
-<iss_office><![CDATA[법원행정처 등기정보중앙관리소]]></iss_office>
-<fee><![CDATA[700]]></fee>
-<wksbi_key_lock><![CDATA[N]]></wksbi_key_lock>
-<regt_cls><![CDATA[12]]></regt_cls>
-<wksbi_real_kind><![CDATA[6]]></wksbi_real_kind>
-<wkreal_div_cd><![CDATA[4]]></wkreal_div_cd>
-<wksbi_name/>
-<wksbi_rank_no/>
-<wksbi_total_hap/>
-<wksbi_owner_flag><![CDATA[1]]></wksbi_owner_flag>
-<wksbi_seq_no/>
-<cert_cls><![CDATA[res]]></cert_cls>
-<pin_no><![CDATA[11431996047250]]></pin_no>
-<address><![CDATA[[집합건물] 서울특별시 관악구 봉천동 1698-1외 5필지 보라매삼성아파트 제102동 제15층 제1505호]]></address>
-<CallPosition><![CDATA[INTERNET_ALL]]></CallPosition>
-<txt_comp_free_cls><![CDATA[1]]></txt_comp_free_cls>
-<report_kind><![CDATA[1001]]></report_kind>
-<iss_date><![CDATA[2024/05/05]]></iss_date>
-<reg_cls><![CDATA[12]]></reg_cls>
-<dbl_cnt><![CDATA[1]]></dbl_cnt>
-<total_page><![CDATA[6]]></total_page>
-<iss_no><![CDATA[114202110031940510109600510HA0472643M1265032091112]]></iss_no>
-<etr_yn><![CDATA[N]]></etr_yn>
-<sum_yn><![CDATA[Y]]></sum_yn>
-<fee><![CDATA[700]]></fee>
-<fee_Out><![CDATA[700원 영수함]]></fee_Out>
+<jangsu>1</jangsu>
+<a301pin>11431996047250</a301pin>
+<iss_use>1</iss_use>
+<wksbi_address>[집합건물] 서울특별시 관악구 봉천동 1698-1외 5필지 보라매삼성아파트 제102동 제15층 제1505호</wksbi_address>
+<wksbj_real_indi_cont />
+<wksbi_cur_date>서기 2024년 5월 15일</wksbi_cur_date>
+<wksbi_bal_no_time>164940</wksbi_bal_no_time>
+<wksbi_bal_date>2024/05/15</wksbi_bal_date>
+<captain_name />
+<wksbi_jrisdiction_office>서울중앙지방법원 등기국</wksbi_jrisdiction_office>
+<balhang_regt />
+<b101ofcial_ver>IN</b101ofcial_ver>
+<b101ofcial_no>HAM1209</b101ofcial_no>
+<iss_office>법원행정처 등기정보중앙관리소</iss_office>
+<fee>700</fee>
+<wksbi_key_lock>N</wksbi_key_lock>
+<regt_cls>12</regt_cls>
+<wksbi_real_kind>6</wksbi_real_kind>
+<wkreal_div_cd>4</wkreal_div_cd>
+<wksbi_name />
+<wksbi_rank_no />
+<wksbi_total_hap />
+<wksbi_owner_flag>1</wksbi_owner_flag>
+<wksbi_seq_no />
+<cert_cls>res</cert_cls>
+<pin_no>11431996047250</pin_no>
+<address>[집합건물] 서울특별시 관악구 봉천동 1698-1외 5필지 보라매삼성아파트 제102동 제15층 제1505호</address>
+<CallPosition>INTERNET_ALL</CallPosition>
+<txt_comp_free_cls>1</txt_comp_free_cls>
+<report_kind>1</report_kind>
+<iss_date>2024/05/15</iss_date>
+<reg_cls>12</reg_cls>
+<dbl_cnt>1</dbl_cnt>
+<total_page>7</total_page>
+<iss_no>114202110031940510109601510HA0472649M1275040091112</iss_no>
+<etr_yn>N</etr_yn>
+<sum_yn>Y</sum_yn>
+<fee>700</fee>
+<fee_Out>700원 영수함</fee_Out>
 <gubun_flag>Z</gubun_flag>
-<jangsu><![CDATA[1]]></jangsu>
-<regt_cls><![CDATA[12]]></regt_cls>
-<wkreal_div_cd><![CDATA[4]]></wkreal_div_cd>
+<jangsu>1</jangsu>
+<regt_cls>12</regt_cls>
+<wkreal_div_cd>4</wkreal_div_cd>
 </item>
 <item>
-<type>S</type>
+<type>W</type>
 <page>1</page>
-<line>14</line>
-<sinchung><![CDATA[이 부동산은 임차권설정사건(접수번호 제75660호)이 접수되어 처리 중에 있습니다.]]></sinchung>
+<line>19</line>
+<wksbw_common_flag>N</wksbw_common_flag>
+<wksbw_indi_no>&amp;1&amp;</wksbw_indi_no>
+<wksbw_receve>&amp;1996년5월21일&amp;</wksbw_receve>
+<wksbw_real_indi_cont>&amp;서울특별시 관악구 봉천동&amp;</wksbw_real_indi_cont>
+<wksbw_buld_cont>&amp;철근콘크리트 벽식구조&amp;</wksbw_buld_cont>
+<wksbw_caus_and_etc>&amp;도면편철장 제2책32장&amp;</wksbw_caus_and_etc>
 </item>
 <item>
 <type>W</type>
 <page>1</page>
 <line>20</line>
-<wksbw_common_flag><![CDATA[N]]></wksbw_common_flag>
-<wksbw_indi_no><![CDATA[&1&]]></wksbw_indi_no>
-<wksbw_receve><![CDATA[&1996년5월21일&]]></wksbw_receve>
-<wksbw_real_indi_cont><![CDATA[&서울특별시 관악구 봉천동&]]></wksbw_real_indi_cont>
-<wksbw_buld_cont><![CDATA[&철근콘크리트 벽식구조&]]></wksbw_buld_cont>
-<wksbw_caus_and_etc><![CDATA[&도면편철장 제2책32장&]]></wksbw_caus_and_etc>
+<wksbw_common_flag>N</wksbw_common_flag>
+<wksbw_indi_no>&amp;(전 1)&amp;</wksbw_indi_no>
+<wksbw_receve />
+<wksbw_real_indi_cont>&amp;1698-1, 1698-2, 1698-3,&amp;</wksbw_real_indi_cont>
+<wksbw_buld_cont>&amp;평스라브지붕&amp;</wksbw_buld_cont>
+<wksbw_caus_and_etc />
 </item>
 <item>
 <type>W</type>
 <page>1</page>
 <line>21</line>
-<wksbw_common_flag><![CDATA[N]]></wksbw_common_flag>
-<wksbw_indi_no><![CDATA[&(전 1)&]]></wksbw_indi_no>
-<wksbw_receve/>
-<wksbw_real_indi_cont><![CDATA[&1698-1, 1698-2, 1698-3,&]]></wksbw_real_indi_cont>
-<wksbw_buld_cont><![CDATA[&평스라브지붕&]]></wksbw_buld_cont>
-<wksbw_caus_and_etc/>
+<wksbw_common_flag>N</wksbw_common_flag>
+<wksbw_indi_no />
+<wksbw_receve />
+<wksbw_real_indi_cont>&amp;1698-4, 1698-5, 1698-6&amp;</wksbw_real_indi_cont>
+<wksbw_buld_cont>&amp;15층아파트&amp;</wksbw_buld_cont>
+<wksbw_caus_and_etc />
 </item>
 <item>
 <type>W</type>
 <page>1</page>
 <line>22</line>
-<wksbw_common_flag><![CDATA[N]]></wksbw_common_flag>
-<wksbw_indi_no/>
-<wksbw_receve/>
-<wksbw_real_indi_cont><![CDATA[&1698-4, 1698-5, 1698-6&]]></wksbw_real_indi_cont>
-<wksbw_buld_cont><![CDATA[&15층아파트&]]></wksbw_buld_cont>
-<wksbw_caus_and_etc/>
+<wksbw_common_flag>N</wksbw_common_flag>
+<wksbw_indi_no />
+<wksbw_receve />
+<wksbw_real_indi_cont>&amp;보라매삼성아파트 제102동&amp;</wksbw_real_indi_cont>
+<wksbw_buld_cont>&amp;1층 991.81㎡&amp;</wksbw_buld_cont>
+<wksbw_caus_and_etc />
 </item>
 <item>
 <type>W</type>
 <page>1</page>
 <line>23</line>
-<wksbw_common_flag><![CDATA[N]]></wksbw_common_flag>
-<wksbw_indi_no/>
-<wksbw_receve/>
-<wksbw_real_indi_cont><![CDATA[&보라매삼성아파트 제102동&]]></wksbw_real_indi_cont>
-<wksbw_buld_cont><![CDATA[&1층 991.81㎡&]]></wksbw_buld_cont>
-<wksbw_caus_and_etc/>
+<wksbw_common_flag>N</wksbw_common_flag>
+<wksbw_indi_no />
+<wksbw_receve />
+<wksbw_real_indi_cont />
+<wksbw_buld_cont>&amp;2층 968.41㎡&amp;</wksbw_buld_cont>
+<wksbw_caus_and_etc />
 </item>
 <item>
 <type>W</type>
 <page>1</page>
 <line>24</line>
-<wksbw_common_flag><![CDATA[N]]></wksbw_common_flag>
-<wksbw_indi_no/>
-<wksbw_receve/>
-<wksbw_real_indi_cont/>
-<wksbw_buld_cont><![CDATA[&2층 968.41㎡&]]></wksbw_buld_cont>
-<wksbw_caus_and_etc/>
+<wksbw_common_flag>N</wksbw_common_flag>
+<wksbw_indi_no />
+<wksbw_receve />
+<wksbw_real_indi_cont />
+<wksbw_buld_cont>&amp;3층 968.41㎡&amp;</wksbw_buld_cont>
+<wksbw_caus_and_etc />
 </item>
 <item>
 <type>W</type>
 <page>1</page>
 <line>25</line>
-<wksbw_common_flag><![CDATA[N]]></wksbw_common_flag>
-<wksbw_indi_no/>
-<wksbw_receve/>
-<wksbw_real_indi_cont/>
-<wksbw_buld_cont><![CDATA[&3층 968.41㎡&]]></wksbw_buld_cont>
-<wksbw_caus_and_etc/>
+<wksbw_common_flag>N</wksbw_common_flag>
+<wksbw_indi_no />
+<wksbw_receve />
+<wksbw_real_indi_cont />
+<wksbw_buld_cont>&amp;4층 968.41㎡&amp;</wksbw_buld_cont>
+<wksbw_caus_and_etc />
 </item>
 <item>
 <type>W</type>
 <page>1</page>
 <line>26</line>
-<wksbw_common_flag><![CDATA[N]]></wksbw_common_flag>
-<wksbw_indi_no/>
-<wksbw_receve/>
-<wksbw_real_indi_cont/>
-<wksbw_buld_cont><![CDATA[&4층 968.41㎡&]]></wksbw_buld_cont>
-<wksbw_caus_and_etc/>
+<wksbw_common_flag>N</wksbw_common_flag>
+<wksbw_indi_no />
+<wksbw_receve />
+<wksbw_real_indi_cont />
+<wksbw_buld_cont>&amp;5층 948.91㎡&amp;</wksbw_buld_cont>
+<wksbw_caus_and_etc />
 </item>
 <item>
 <type>W</type>
 <page>1</page>
 <line>27</line>
-<wksbw_common_flag><![CDATA[N]]></wksbw_common_flag>
-<wksbw_indi_no/>
-<wksbw_receve/>
-<wksbw_real_indi_cont/>
-<wksbw_buld_cont><![CDATA[&5층 948.91㎡&]]></wksbw_buld_cont>
-<wksbw_caus_and_etc/>
+<wksbw_common_flag>N</wksbw_common_flag>
+<wksbw_indi_no />
+<wksbw_receve />
+<wksbw_real_indi_cont />
+<wksbw_buld_cont>&amp;6층 948.91㎡&amp;</wksbw_buld_cont>
+<wksbw_caus_and_etc />
 </item>
 <item>
 <type>W</type>
 <page>1</page>
 <line>28</line>
-<wksbw_common_flag><![CDATA[N]]></wksbw_common_flag>
-<wksbw_indi_no/>
-<wksbw_receve/>
-<wksbw_real_indi_cont/>
-<wksbw_buld_cont><![CDATA[&6층 948.91㎡&]]></wksbw_buld_cont>
-<wksbw_caus_and_etc/>
+<wksbw_common_flag>N</wksbw_common_flag>
+<wksbw_indi_no />
+<wksbw_receve />
+<wksbw_real_indi_cont />
+<wksbw_buld_cont>&amp;7층 948.91㎡&amp;</wksbw_buld_cont>
+<wksbw_caus_and_etc />
 </item>
 <item>
 <type>W</type>
 <page>1</page>
 <line>29</line>
-<wksbw_common_flag><![CDATA[N]]></wksbw_common_flag>
-<wksbw_indi_no/>
-<wksbw_receve/>
-<wksbw_real_indi_cont/>
-<wksbw_buld_cont><![CDATA[&7층 948.91㎡&]]></wksbw_buld_cont>
-<wksbw_caus_and_etc/>
+<wksbw_common_flag>N</wksbw_common_flag>
+<wksbw_indi_no />
+<wksbw_receve />
+<wksbw_real_indi_cont />
+<wksbw_buld_cont>&amp;8층 948.91㎡&amp;</wksbw_buld_cont>
+<wksbw_caus_and_etc />
 </item>
 <item>
 <type>W</type>
 <page>1</page>
 <line>30</line>
-<wksbw_common_flag><![CDATA[N]]></wksbw_common_flag>
-<wksbw_indi_no/>
-<wksbw_receve/>
-<wksbw_real_indi_cont/>
-<wksbw_buld_cont><![CDATA[&8층 948.91㎡&]]></wksbw_buld_cont>
-<wksbw_caus_and_etc/>
+<wksbw_common_flag>N</wksbw_common_flag>
+<wksbw_indi_no />
+<wksbw_receve />
+<wksbw_real_indi_cont />
+<wksbw_buld_cont>&amp;9층 948.91㎡&amp;</wksbw_buld_cont>
+<wksbw_caus_and_etc />
 </item>
 <item>
 <type>W</type>
 <page>1</page>
 <line>31</line>
-<wksbw_common_flag><![CDATA[N]]></wksbw_common_flag>
-<wksbw_indi_no/>
-<wksbw_receve/>
-<wksbw_real_indi_cont/>
-<wksbw_buld_cont><![CDATA[&9층 948.91㎡&]]></wksbw_buld_cont>
-<wksbw_caus_and_etc/>
+<wksbw_common_flag>N</wksbw_common_flag>
+<wksbw_indi_no />
+<wksbw_receve />
+<wksbw_real_indi_cont />
+<wksbw_buld_cont>&amp;10층948.91㎡&amp;</wksbw_buld_cont>
+<wksbw_caus_and_etc />
 </item>
 <item>
 <type>W</type>
 <page>1</page>
 <line>32</line>
-<wksbw_common_flag><![CDATA[N]]></wksbw_common_flag>
-<wksbw_indi_no/>
-<wksbw_receve/>
-<wksbw_real_indi_cont/>
-<wksbw_buld_cont><![CDATA[&10층948.91㎡&]]></wksbw_buld_cont>
-<wksbw_caus_and_etc/>
+<wksbw_common_flag>N</wksbw_common_flag>
+<wksbw_indi_no />
+<wksbw_receve />
+<wksbw_real_indi_cont />
+<wksbw_buld_cont>&amp;11층948.91㎡&amp;</wksbw_buld_cont>
+<wksbw_caus_and_etc />
 </item>
 <item>
 <type>W</type>
 <page>1</page>
 <line>33</line>
-<wksbw_common_flag><![CDATA[N]]></wksbw_common_flag>
-<wksbw_indi_no/>
-<wksbw_receve/>
-<wksbw_real_indi_cont/>
-<wksbw_buld_cont><![CDATA[&11층948.91㎡&]]></wksbw_buld_cont>
-<wksbw_caus_and_etc/>
+<wksbw_common_flag>N</wksbw_common_flag>
+<wksbw_indi_no />
+<wksbw_receve />
+<wksbw_real_indi_cont />
+<wksbw_buld_cont>&amp;12층948.91㎡&amp;</wksbw_buld_cont>
+<wksbw_caus_and_etc />
 </item>
 <item>
 <type>W</type>
 <page>1</page>
 <line>34</line>
-<wksbw_common_flag><![CDATA[N]]></wksbw_common_flag>
-<wksbw_indi_no/>
-<wksbw_receve/>
-<wksbw_real_indi_cont/>
-<wksbw_buld_cont><![CDATA[&12층948.91㎡&]]></wksbw_buld_cont>
-<wksbw_caus_and_etc/>
+<wksbw_common_flag>N</wksbw_common_flag>
+<wksbw_indi_no />
+<wksbw_receve />
+<wksbw_real_indi_cont />
+<wksbw_buld_cont>&amp;13층948.91㎡&amp;</wksbw_buld_cont>
+<wksbw_caus_and_etc />
 </item>
 <item>
 <type>W</type>
 <page>1</page>
 <line>35</line>
-<wksbw_common_flag><![CDATA[N]]></wksbw_common_flag>
-<wksbw_indi_no/>
-<wksbw_receve/>
-<wksbw_real_indi_cont/>
-<wksbw_buld_cont><![CDATA[&13층948.91㎡&]]></wksbw_buld_cont>
-<wksbw_caus_and_etc/>
+<wksbw_common_flag>N</wksbw_common_flag>
+<wksbw_indi_no />
+<wksbw_receve />
+<wksbw_real_indi_cont />
+<wksbw_buld_cont>&amp;14층948.91㎡&amp;</wksbw_buld_cont>
+<wksbw_caus_and_etc />
 </item>
 <item>
 <type>W</type>
 <page>1</page>
 <line>36</line>
-<wksbw_common_flag><![CDATA[N]]></wksbw_common_flag>
-<wksbw_indi_no/>
-<wksbw_receve/>
-<wksbw_real_indi_cont/>
-<wksbw_buld_cont><![CDATA[&14층948.91㎡&]]></wksbw_buld_cont>
-<wksbw_caus_and_etc/>
+<wksbw_common_flag>5</wksbw_common_flag>
+<wksbw_indi_no />
+<wksbw_receve />
+<wksbw_real_indi_cont />
+<wksbw_buld_cont>&amp;15층948.91㎡&amp;</wksbw_buld_cont>
+<wksbw_caus_and_etc />
 </item>
 <item>
 <type>W</type>
 <page>1</page>
-<line>37</line>
-<wksbw_common_flag><![CDATA[5]]></wksbw_common_flag>
-<wksbw_indi_no/>
-<wksbw_receve/>
-<wksbw_real_indi_cont/>
-<wksbw_buld_cont><![CDATA[&15층948.91㎡&]]></wksbw_buld_cont>
-<wksbw_caus_and_etc/>
+<line>38</line>
+<wksbw_common_flag>N</wksbw_common_flag>
+<wksbw_indi_no />
+<wksbw_receve />
+<wksbw_real_indi_cont />
+<wksbw_buld_cont />
+<wksbw_caus_and_etc>부동산등기법 제177조의 6</wksbw_caus_and_etc>
 </item>
 <item>
 <type>W</type>
 <page>1</page>
 <line>39</line>
-<wksbw_common_flag><![CDATA[N]]></wksbw_common_flag>
-<wksbw_indi_no/>
-<wksbw_receve/>
-<wksbw_real_indi_cont/>
-<wksbw_buld_cont/>
-<wksbw_caus_and_etc><![CDATA[부동산등기법 제177조의 6]]></wksbw_caus_and_etc>
+<wksbw_common_flag>N</wksbw_common_flag>
+<wksbw_indi_no />
+<wksbw_receve />
+<wksbw_real_indi_cont />
+<wksbw_buld_cont />
+<wksbw_caus_and_etc>제1항의 규정에 의하여 </wksbw_caus_and_etc>
 </item>
 <item>
 <type>W</type>
 <page>1</page>
 <line>40</line>
-<wksbw_common_flag><![CDATA[N]]></wksbw_common_flag>
-<wksbw_indi_no/>
-<wksbw_receve/>
-<wksbw_real_indi_cont/>
-<wksbw_buld_cont/>
-<wksbw_caus_and_etc><![CDATA[제1항의 규정에 의하여 ]]></wksbw_caus_and_etc>
+<wksbw_common_flag>1</wksbw_common_flag>
+<wksbw_indi_no />
+<wksbw_receve />
+<wksbw_real_indi_cont />
+<wksbw_buld_cont />
+<wksbw_caus_and_etc>1999년 06월 24일 전산이기</wksbw_caus_and_etc>
 </item>
 <item>
 <type>W</type>
 <page>1</page>
-<line>41</line>
-<wksbw_common_flag><![CDATA[1]]></wksbw_common_flag>
-<wksbw_indi_no/>
-<wksbw_receve/>
-<wksbw_real_indi_cont/>
-<wksbw_buld_cont/>
-<wksbw_caus_and_etc><![CDATA[1999년 06월 24일 전산이기]]></wksbw_caus_and_etc>
+<line>42</line>
+<wksbw_common_flag>N</wksbw_common_flag>
+<wksbw_indi_no>2</wksbw_indi_no>
+<wksbw_receve />
+<wksbw_real_indi_cont>서울특별시 관악구 봉천동</wksbw_real_indi_cont>
+<wksbw_buld_cont>철근콘크리트 벽식구조</wksbw_buld_cont>
+<wksbw_caus_and_etc>도로명주소</wksbw_caus_and_etc>
 </item>
 <item>
 <type>W</type>
 <page>1</page>
 <line>43</line>
-<wksbw_common_flag><![CDATA[N]]></wksbw_common_flag>
-<wksbw_indi_no><![CDATA[2]]></wksbw_indi_no>
-<wksbw_receve/>
-<wksbw_real_indi_cont><![CDATA[서울특별시 관악구 봉천동]]></wksbw_real_indi_cont>
-<wksbw_buld_cont><![CDATA[철근콘크리트 벽식구조]]></wksbw_buld_cont>
-<wksbw_caus_and_etc><![CDATA[도로명주소]]></wksbw_caus_and_etc>
+<wksbw_common_flag>N</wksbw_common_flag>
+<wksbw_indi_no />
+<wksbw_receve />
+<wksbw_real_indi_cont>1698-1, 1698-2, 1698-3,</wksbw_real_indi_cont>
+<wksbw_buld_cont>평스라브지붕</wksbw_buld_cont>
+<wksbw_caus_and_etc>2012년3월7일  등기</wksbw_caus_and_etc>
 </item>
 <item>
 <type>W</type>
 <page>1</page>
 <line>44</line>
-<wksbw_common_flag><![CDATA[N]]></wksbw_common_flag>
-<wksbw_indi_no/>
-<wksbw_receve/>
-<wksbw_real_indi_cont><![CDATA[1698-1, 1698-2, 1698-3,]]></wksbw_real_indi_cont>
-<wksbw_buld_cont><![CDATA[평스라브지붕]]></wksbw_buld_cont>
-<wksbw_caus_and_etc><![CDATA[2012년3월7일  등기]]></wksbw_caus_and_etc>
+<wksbw_common_flag>N</wksbw_common_flag>
+<wksbw_indi_no />
+<wksbw_receve />
+<wksbw_real_indi_cont>1698-4, 1698-5, 1698-6</wksbw_real_indi_cont>
+<wksbw_buld_cont>15층아파트</wksbw_buld_cont>
+<wksbw_caus_and_etc />
 </item>
 <item>
 <type>W</type>
 <page>1</page>
 <line>45</line>
-<wksbw_common_flag><![CDATA[N]]></wksbw_common_flag>
-<wksbw_indi_no/>
-<wksbw_receve/>
-<wksbw_real_indi_cont><![CDATA[1698-4, 1698-5, 1698-6]]></wksbw_real_indi_cont>
-<wksbw_buld_cont><![CDATA[15층아파트]]></wksbw_buld_cont>
-<wksbw_caus_and_etc/>
+<wksbw_common_flag>N</wksbw_common_flag>
+<wksbw_indi_no />
+<wksbw_receve />
+<wksbw_real_indi_cont>보라매삼성아파트 제102동</wksbw_real_indi_cont>
+<wksbw_buld_cont>1층 991.81㎡</wksbw_buld_cont>
+<wksbw_caus_and_etc />
 </item>
 <item>
 <type>W</type>
 <page>1</page>
 <line>46</line>
-<wksbw_common_flag><![CDATA[N]]></wksbw_common_flag>
-<wksbw_indi_no/>
-<wksbw_receve/>
-<wksbw_real_indi_cont><![CDATA[보라매삼성아파트 제102동]]></wksbw_real_indi_cont>
-<wksbw_buld_cont><![CDATA[1층 991.81㎡]]></wksbw_buld_cont>
-<wksbw_caus_and_etc/>
+<wksbw_common_flag>N</wksbw_common_flag>
+<wksbw_indi_no />
+<wksbw_receve />
+<wksbw_real_indi_cont>[도로명주소]</wksbw_real_indi_cont>
+<wksbw_buld_cont>2층 968.41㎡</wksbw_buld_cont>
+<wksbw_caus_and_etc />
 </item>
 <item>
 <type>W</type>
 <page>1</page>
 <line>47</line>
-<wksbw_common_flag><![CDATA[N]]></wksbw_common_flag>
-<wksbw_indi_no/>
-<wksbw_receve/>
-<wksbw_real_indi_cont><![CDATA[[도로명주소]]]></wksbw_real_indi_cont>
-<wksbw_buld_cont><![CDATA[2층 968.41㎡]]></wksbw_buld_cont>
-<wksbw_caus_and_etc/>
+<wksbw_common_flag>N</wksbw_common_flag>
+<wksbw_indi_no />
+<wksbw_receve />
+<wksbw_real_indi_cont>서울특별시 관악구 보라매로</wksbw_real_indi_cont>
+<wksbw_buld_cont>3층 968.41㎡</wksbw_buld_cont>
+<wksbw_caus_and_etc />
 </item>
 <item>
 <type>W</type>
 <page>1</page>
 <line>48</line>
-<wksbw_common_flag><![CDATA[N]]></wksbw_common_flag>
-<wksbw_indi_no/>
-<wksbw_receve/>
-<wksbw_real_indi_cont><![CDATA[서울특별시 관악구 보라매로]]></wksbw_real_indi_cont>
-<wksbw_buld_cont><![CDATA[3층 968.41㎡]]></wksbw_buld_cont>
-<wksbw_caus_and_etc/>
+<wksbw_common_flag>N</wksbw_common_flag>
+<wksbw_indi_no />
+<wksbw_receve />
+<wksbw_real_indi_cont>62</wksbw_real_indi_cont>
+<wksbw_buld_cont>4층 968.41㎡</wksbw_buld_cont>
+<wksbw_caus_and_etc />
 </item>
 <item>
 <type>W</type>
 <page>1</page>
 <line>49</line>
-<wksbw_common_flag><![CDATA[N]]></wksbw_common_flag>
-<wksbw_indi_no/>
-<wksbw_receve/>
-<wksbw_real_indi_cont><![CDATA[62]]></wksbw_real_indi_cont>
-<wksbw_buld_cont><![CDATA[4층 968.41㎡]]></wksbw_buld_cont>
-<wksbw_caus_and_etc/>
+<wksbw_common_flag>N</wksbw_common_flag>
+<wksbw_indi_no />
+<wksbw_receve />
+<wksbw_real_indi_cont />
+<wksbw_buld_cont>5층 948.91㎡</wksbw_buld_cont>
+<wksbw_caus_and_etc />
 </item>
 <item>
 <type>W</type>
 <page>1</page>
 <line>50</line>
-<wksbw_common_flag><![CDATA[N]]></wksbw_common_flag>
-<wksbw_indi_no/>
-<wksbw_receve/>
-<wksbw_real_indi_cont/>
-<wksbw_buld_cont><![CDATA[5층 948.91㎡]]></wksbw_buld_cont>
-<wksbw_caus_and_etc/>
+<wksbw_common_flag>N</wksbw_common_flag>
+<wksbw_indi_no />
+<wksbw_receve />
+<wksbw_real_indi_cont />
+<wksbw_buld_cont>6층 948.91㎡</wksbw_buld_cont>
+<wksbw_caus_and_etc />
 </item>
 <item>
 <type>W</type>
 <page>1</page>
 <line>51</line>
-<wksbw_common_flag><![CDATA[N]]></wksbw_common_flag>
-<wksbw_indi_no/>
-<wksbw_receve/>
-<wksbw_real_indi_cont/>
-<wksbw_buld_cont><![CDATA[6층 948.91㎡]]></wksbw_buld_cont>
-<wksbw_caus_and_etc/>
+<wksbw_common_flag>N</wksbw_common_flag>
+<wksbw_indi_no />
+<wksbw_receve />
+<wksbw_real_indi_cont />
+<wksbw_buld_cont>7층 948.91㎡</wksbw_buld_cont>
+<wksbw_caus_and_etc />
 </item>
 <item>
 <type>W</type>
 <page>1</page>
 <line>52</line>
-<wksbw_common_flag><![CDATA[N]]></wksbw_common_flag>
-<wksbw_indi_no/>
-<wksbw_receve/>
-<wksbw_real_indi_cont/>
-<wksbw_buld_cont><![CDATA[7층 948.91㎡]]></wksbw_buld_cont>
-<wksbw_caus_and_etc/>
+<wksbw_common_flag>N</wksbw_common_flag>
+<wksbw_indi_no />
+<wksbw_receve />
+<wksbw_real_indi_cont />
+<wksbw_buld_cont>8층 948.91㎡</wksbw_buld_cont>
+<wksbw_caus_and_etc />
 </item>
 <item>
 <type>W</type>
 <page>2</page>
 <line>10</line>
-<wksbw_common_flag><![CDATA[N]]></wksbw_common_flag>
-<wksbw_indi_no/>
-<wksbw_receve/>
-<wksbw_real_indi_cont/>
-<wksbw_buld_cont><![CDATA[8층 948.91㎡]]></wksbw_buld_cont>
-<wksbw_caus_and_etc/>
-<cert_cls><![CDATA[res]]></cert_cls>
-<pin_no><![CDATA[11431996047250]]></pin_no>
-<address><![CDATA[[집합건물] 서울특별시 관악구 봉천동 1698-1외 5필지 보라매삼성아파트 제102동 제15층 제1505호]]></address>
-<CallPosition><![CDATA[INTERNET_ALL]]></CallPosition>
-<txt_comp_free_cls><![CDATA[1]]></txt_comp_free_cls>
-<report_kind><![CDATA[1001]]></report_kind>
-<iss_date><![CDATA[2024/05/05]]></iss_date>
-<reg_cls><![CDATA[12]]></reg_cls>
-<dbl_cnt><![CDATA[1]]></dbl_cnt>
-<total_page><![CDATA[6]]></total_page>
-<iss_no><![CDATA[114202110031940510109600510HA0472643M1265032091112]]></iss_no>
-<etr_yn><![CDATA[N]]></etr_yn>
-<sum_yn><![CDATA[Y]]></sum_yn>
-<fee><![CDATA[700]]></fee>
-<fee_Out><![CDATA[700원 영수함]]></fee_Out>
+<wksbw_common_flag>N</wksbw_common_flag>
+<wksbw_indi_no />
+<wksbw_receve />
+<wksbw_real_indi_cont />
+<wksbw_buld_cont>9층 948.91㎡</wksbw_buld_cont>
+<wksbw_caus_and_etc />
+<cert_cls>res</cert_cls>
+<pin_no>11431996047250</pin_no>
+<address>[집합건물] 서울특별시 관악구 봉천동 1698-1외 5필지 보라매삼성아파트 제102동 제15층 제1505호</address>
+<CallPosition>INTERNET_ALL</CallPosition>
+<txt_comp_free_cls>1</txt_comp_free_cls>
+<report_kind>1</report_kind>
+<iss_date>2024/05/15</iss_date>
+<reg_cls>12</reg_cls>
+<dbl_cnt>1</dbl_cnt>
+<total_page>7</total_page>
+<iss_no>114202110031940510109601510HA0472649M1275040091112</iss_no>
+<etr_yn>N</etr_yn>
+<sum_yn>Y</sum_yn>
+<fee>700</fee>
+<fee_Out>700원 영수함</fee_Out>
 <gubun_flag>W</gubun_flag>
-<jangsu><![CDATA[1]]></jangsu>
-<regt_cls><![CDATA[12]]></regt_cls>
-<wkreal_div_cd><![CDATA[4]]></wkreal_div_cd>
+<jangsu>1</jangsu>
+<regt_cls>12</regt_cls>
+<wkreal_div_cd>4</wkreal_div_cd>
 </item>
 <item>
 <type>W</type>
 <page>2</page>
 <line>11</line>
-<wksbw_common_flag><![CDATA[N]]></wksbw_common_flag>
-<wksbw_indi_no/>
-<wksbw_receve/>
-<wksbw_real_indi_cont/>
-<wksbw_buld_cont><![CDATA[9층 948.91㎡]]></wksbw_buld_cont>
-<wksbw_caus_and_etc/>
+<wksbw_common_flag>N</wksbw_common_flag>
+<wksbw_indi_no />
+<wksbw_receve />
+<wksbw_real_indi_cont />
+<wksbw_buld_cont>10층948.91㎡</wksbw_buld_cont>
+<wksbw_caus_and_etc />
 </item>
 <item>
 <type>W</type>
 <page>2</page>
 <line>12</line>
-<wksbw_common_flag><![CDATA[N]]></wksbw_common_flag>
-<wksbw_indi_no/>
-<wksbw_receve/>
-<wksbw_real_indi_cont/>
-<wksbw_buld_cont><![CDATA[10층948.91㎡]]></wksbw_buld_cont>
-<wksbw_caus_and_etc/>
+<wksbw_common_flag>N</wksbw_common_flag>
+<wksbw_indi_no />
+<wksbw_receve />
+<wksbw_real_indi_cont />
+<wksbw_buld_cont>11층948.91㎡</wksbw_buld_cont>
+<wksbw_caus_and_etc />
 </item>
 <item>
 <type>W</type>
 <page>2</page>
 <line>13</line>
-<wksbw_common_flag><![CDATA[N]]></wksbw_common_flag>
-<wksbw_indi_no/>
-<wksbw_receve/>
-<wksbw_real_indi_cont/>
-<wksbw_buld_cont><![CDATA[11층948.91㎡]]></wksbw_buld_cont>
-<wksbw_caus_and_etc/>
+<wksbw_common_flag>N</wksbw_common_flag>
+<wksbw_indi_no />
+<wksbw_receve />
+<wksbw_real_indi_cont />
+<wksbw_buld_cont>12층948.91㎡</wksbw_buld_cont>
+<wksbw_caus_and_etc />
 </item>
 <item>
 <type>W</type>
 <page>2</page>
 <line>14</line>
-<wksbw_common_flag><![CDATA[N]]></wksbw_common_flag>
-<wksbw_indi_no/>
-<wksbw_receve/>
-<wksbw_real_indi_cont/>
-<wksbw_buld_cont><![CDATA[12층948.91㎡]]></wksbw_buld_cont>
-<wksbw_caus_and_etc/>
+<wksbw_common_flag>N</wksbw_common_flag>
+<wksbw_indi_no />
+<wksbw_receve />
+<wksbw_real_indi_cont />
+<wksbw_buld_cont>13층948.91㎡</wksbw_buld_cont>
+<wksbw_caus_and_etc />
 </item>
 <item>
 <type>W</type>
 <page>2</page>
 <line>15</line>
-<wksbw_common_flag><![CDATA[N]]></wksbw_common_flag>
-<wksbw_indi_no/>
-<wksbw_receve/>
-<wksbw_real_indi_cont/>
-<wksbw_buld_cont><![CDATA[13층948.91㎡]]></wksbw_buld_cont>
-<wksbw_caus_and_etc/>
+<wksbw_common_flag>N</wksbw_common_flag>
+<wksbw_indi_no />
+<wksbw_receve />
+<wksbw_real_indi_cont />
+<wksbw_buld_cont>14층948.91㎡</wksbw_buld_cont>
+<wksbw_caus_and_etc />
 </item>
 <item>
 <type>W</type>
 <page>2</page>
 <line>16</line>
-<wksbw_common_flag><![CDATA[N]]></wksbw_common_flag>
-<wksbw_indi_no/>
-<wksbw_receve/>
-<wksbw_real_indi_cont/>
-<wksbw_buld_cont><![CDATA[14층948.91㎡]]></wksbw_buld_cont>
-<wksbw_caus_and_etc/>
+<wksbw_common_flag>1</wksbw_common_flag>
+<wksbw_indi_no />
+<wksbw_receve />
+<wksbw_real_indi_cont />
+<wksbw_buld_cont>15층948.91㎡</wksbw_buld_cont>
+<wksbw_caus_and_etc />
 </item>
 <item>
-<type>W</type>
+<type>X</type>
 <page>2</page>
-<line>17</line>
-<wksbw_common_flag><![CDATA[1]]></wksbw_common_flag>
-<wksbw_indi_no/>
-<wksbw_receve/>
-<wksbw_real_indi_cont/>
-<wksbw_buld_cont><![CDATA[15층948.91㎡]]></wksbw_buld_cont>
-<wksbw_caus_and_etc/>
+<line>22</line>
+<wksbx_common_flag>N</wksbx_common_flag>
+<wksbx_indi_no>1</wksbx_indi_no>
+<wksbx_real_indi_cont>1. 서울특별시 관악구 봉천동</wksbx_real_indi_cont>
+<wksbx_land_type>대</wksbx_land_type>
+<wksbx_area>26799.9㎡</wksbx_area>
+<wksbx_caus_and_etc>1996년5월21일</wksbx_caus_and_etc>
 </item>
 <item>
 <type>X</type>
 <page>2</page>
 <line>23</line>
-<wksbx_common_flag><![CDATA[N]]></wksbx_common_flag>
-<wksbx_indi_no><![CDATA[1]]></wksbx_indi_no>
-<wksbx_real_indi_cont><![CDATA[1. 서울특별시 관악구 봉천동]]></wksbx_real_indi_cont>
-<wksbx_land_type><![CDATA[대]]></wksbx_land_type>
-<wksbx_area><![CDATA[26799.9㎡]]></wksbx_area>
-<wksbx_caus_and_etc><![CDATA[1996년5월21일]]></wksbx_caus_and_etc>
+<wksbx_common_flag>N</wksbx_common_flag>
+<wksbx_indi_no>(전 1)</wksbx_indi_no>
+<wksbx_real_indi_cont>3^1698-1</wksbx_real_indi_cont>
+<wksbx_land_type />
+<wksbx_area />
+<wksbx_caus_and_etc />
 </item>
 <item>
 <type>X</type>
 <page>2</page>
 <line>24</line>
-<wksbx_common_flag><![CDATA[N]]></wksbx_common_flag>
-<wksbx_indi_no><![CDATA[(전 1)]]></wksbx_indi_no>
-<wksbx_real_indi_cont><![CDATA[3^1698-1]]></wksbx_real_indi_cont>
-<wksbx_land_type/>
-<wksbx_area/>
-<wksbx_caus_and_etc/>
+<wksbx_common_flag>N</wksbx_common_flag>
+<wksbx_indi_no />
+<wksbx_real_indi_cont>2. 서울특별시 관악구 봉천동</wksbx_real_indi_cont>
+<wksbx_land_type>대</wksbx_land_type>
+<wksbx_area>154.1㎡</wksbx_area>
+<wksbx_caus_and_etc />
 </item>
 <item>
 <type>X</type>
 <page>2</page>
 <line>25</line>
-<wksbx_common_flag><![CDATA[N]]></wksbx_common_flag>
-<wksbx_indi_no/>
-<wksbx_real_indi_cont><![CDATA[2. 서울특별시 관악구 봉천동]]></wksbx_real_indi_cont>
-<wksbx_land_type><![CDATA[대]]></wksbx_land_type>
-<wksbx_area><![CDATA[154.1㎡]]></wksbx_area>
-<wksbx_caus_and_etc/>
+<wksbx_common_flag>N</wksbx_common_flag>
+<wksbx_indi_no />
+<wksbx_real_indi_cont>3^1698-2</wksbx_real_indi_cont>
+<wksbx_land_type />
+<wksbx_area />
+<wksbx_caus_and_etc />
 </item>
 <item>
 <type>X</type>
 <page>2</page>
 <line>26</line>
-<wksbx_common_flag><![CDATA[N]]></wksbx_common_flag>
-<wksbx_indi_no/>
-<wksbx_real_indi_cont><![CDATA[3^1698-2]]></wksbx_real_indi_cont>
-<wksbx_land_type/>
-<wksbx_area/>
-<wksbx_caus_and_etc/>
+<wksbx_common_flag>N</wksbx_common_flag>
+<wksbx_indi_no />
+<wksbx_real_indi_cont>3. 서울특별시 관악구 봉천동</wksbx_real_indi_cont>
+<wksbx_land_type>대</wksbx_land_type>
+<wksbx_area>24.6㎡</wksbx_area>
+<wksbx_caus_and_etc />
 </item>
 <item>
 <type>X</type>
 <page>2</page>
 <line>27</line>
-<wksbx_common_flag><![CDATA[N]]></wksbx_common_flag>
-<wksbx_indi_no/>
-<wksbx_real_indi_cont><![CDATA[3. 서울특별시 관악구 봉천동]]></wksbx_real_indi_cont>
-<wksbx_land_type><![CDATA[대]]></wksbx_land_type>
-<wksbx_area><![CDATA[24.6㎡]]></wksbx_area>
-<wksbx_caus_and_etc/>
+<wksbx_common_flag>N</wksbx_common_flag>
+<wksbx_indi_no />
+<wksbx_real_indi_cont>3^1698-3</wksbx_real_indi_cont>
+<wksbx_land_type />
+<wksbx_area />
+<wksbx_caus_and_etc />
 </item>
 <item>
 <type>X</type>
 <page>2</page>
 <line>28</line>
-<wksbx_common_flag><![CDATA[N]]></wksbx_common_flag>
-<wksbx_indi_no/>
-<wksbx_real_indi_cont><![CDATA[3^1698-3]]></wksbx_real_indi_cont>
-<wksbx_land_type/>
-<wksbx_area/>
-<wksbx_caus_and_etc/>
+<wksbx_common_flag>N</wksbx_common_flag>
+<wksbx_indi_no />
+<wksbx_real_indi_cont>4. 서울특별시 관악구 봉천동</wksbx_real_indi_cont>
+<wksbx_land_type>대</wksbx_land_type>
+<wksbx_area>46.3㎡</wksbx_area>
+<wksbx_caus_and_etc />
 </item>
 <item>
 <type>X</type>
 <page>2</page>
 <line>29</line>
-<wksbx_common_flag><![CDATA[N]]></wksbx_common_flag>
-<wksbx_indi_no/>
-<wksbx_real_indi_cont><![CDATA[4. 서울특별시 관악구 봉천동]]></wksbx_real_indi_cont>
-<wksbx_land_type><![CDATA[대]]></wksbx_land_type>
-<wksbx_area><![CDATA[46.3㎡]]></wksbx_area>
-<wksbx_caus_and_etc/>
+<wksbx_common_flag>N</wksbx_common_flag>
+<wksbx_indi_no />
+<wksbx_real_indi_cont>3^1698-4</wksbx_real_indi_cont>
+<wksbx_land_type />
+<wksbx_area />
+<wksbx_caus_and_etc />
 </item>
 <item>
 <type>X</type>
 <page>2</page>
 <line>30</line>
-<wksbx_common_flag><![CDATA[N]]></wksbx_common_flag>
-<wksbx_indi_no/>
-<wksbx_real_indi_cont><![CDATA[3^1698-4]]></wksbx_real_indi_cont>
-<wksbx_land_type/>
-<wksbx_area/>
-<wksbx_caus_and_etc/>
+<wksbx_common_flag>N</wksbx_common_flag>
+<wksbx_indi_no />
+<wksbx_real_indi_cont>5. 서울특별시 관악구 봉천동</wksbx_real_indi_cont>
+<wksbx_land_type>대</wksbx_land_type>
+<wksbx_area>19.8㎡</wksbx_area>
+<wksbx_caus_and_etc />
 </item>
 <item>
 <type>X</type>
 <page>2</page>
 <line>31</line>
-<wksbx_common_flag><![CDATA[N]]></wksbx_common_flag>
-<wksbx_indi_no/>
-<wksbx_real_indi_cont><![CDATA[5. 서울특별시 관악구 봉천동]]></wksbx_real_indi_cont>
-<wksbx_land_type><![CDATA[대]]></wksbx_land_type>
-<wksbx_area><![CDATA[19.8㎡]]></wksbx_area>
-<wksbx_caus_and_etc/>
+<wksbx_common_flag>N</wksbx_common_flag>
+<wksbx_indi_no />
+<wksbx_real_indi_cont>3^1698-5</wksbx_real_indi_cont>
+<wksbx_land_type />
+<wksbx_area />
+<wksbx_caus_and_etc />
 </item>
 <item>
 <type>X</type>
 <page>2</page>
 <line>32</line>
-<wksbx_common_flag><![CDATA[N]]></wksbx_common_flag>
-<wksbx_indi_no/>
-<wksbx_real_indi_cont><![CDATA[3^1698-5]]></wksbx_real_indi_cont>
-<wksbx_land_type/>
-<wksbx_area/>
-<wksbx_caus_and_etc/>
+<wksbx_common_flag>N</wksbx_common_flag>
+<wksbx_indi_no />
+<wksbx_real_indi_cont>6. 서울특별시 관악구 봉천동</wksbx_real_indi_cont>
+<wksbx_land_type>대</wksbx_land_type>
+<wksbx_area>100.5㎡</wksbx_area>
+<wksbx_caus_and_etc />
 </item>
 <item>
 <type>X</type>
 <page>2</page>
 <line>33</line>
-<wksbx_common_flag><![CDATA[N]]></wksbx_common_flag>
-<wksbx_indi_no/>
-<wksbx_real_indi_cont><![CDATA[6. 서울특별시 관악구 봉천동]]></wksbx_real_indi_cont>
-<wksbx_land_type><![CDATA[대]]></wksbx_land_type>
-<wksbx_area><![CDATA[100.5㎡]]></wksbx_area>
-<wksbx_caus_and_etc/>
+<wksbx_common_flag>5</wksbx_common_flag>
+<wksbx_indi_no />
+<wksbx_real_indi_cont>3^1698-6</wksbx_real_indi_cont>
+<wksbx_land_type />
+<wksbx_area />
+<wksbx_caus_and_etc />
 </item>
 <item>
 <type>X</type>
 <page>2</page>
-<line>34</line>
-<wksbx_common_flag><![CDATA[5]]></wksbx_common_flag>
-<wksbx_indi_no/>
-<wksbx_real_indi_cont><![CDATA[3^1698-6]]></wksbx_real_indi_cont>
-<wksbx_land_type/>
-<wksbx_area/>
-<wksbx_caus_and_etc/>
+<line>35</line>
+<wksbx_common_flag>N</wksbx_common_flag>
+<wksbx_indi_no />
+<wksbx_real_indi_cont />
+<wksbx_land_type />
+<wksbx_area />
+<wksbx_caus_and_etc>부동산등기법 제177조의 6 제1항의 규정에</wksbx_caus_and_etc>
 </item>
 <item>
 <type>X</type>
 <page>2</page>
 <line>36</line>
-<wksbx_common_flag><![CDATA[N]]></wksbx_common_flag>
-<wksbx_indi_no/>
-<wksbx_real_indi_cont/>
-<wksbx_land_type/>
-<wksbx_area/>
-<wksbx_caus_and_etc><![CDATA[부동산등기법 제177조의 6 제1항의 규정에]]></wksbx_caus_and_etc>
+<wksbx_common_flag>1</wksbx_common_flag>
+<wksbx_indi_no />
+<wksbx_real_indi_cont />
+<wksbx_land_type />
+<wksbx_area />
+<wksbx_caus_and_etc>의하여  1999년 06월 24일 전산이기</wksbx_caus_and_etc>
 </item>
 <item>
-<type>X</type>
+<type>Y</type>
 <page>2</page>
-<line>37</line>
-<wksbx_common_flag><![CDATA[1]]></wksbx_common_flag>
-<wksbx_indi_no/>
-<wksbx_real_indi_cont/>
-<wksbx_land_type/>
-<wksbx_area/>
-<wksbx_caus_and_etc><![CDATA[의하여  1999년 06월 24일 전산이기]]></wksbx_caus_and_etc>
+<line>43</line>
+<wksby_common_flag>N</wksby_common_flag>
+<wksby_indi_no>1</wksby_indi_no>
+<wksby_receve>1996년5월21일</wksby_receve>
+<wksby_build_no>제15층 제1505호</wksby_build_no>
+<wksby_buld_cont>철근콘크리트</wksby_buld_cont>
+<wksby_caus_and_etc>도면편철장 제2책32장</wksby_caus_and_etc>
 </item>
 <item>
 <type>Y</type>
 <page>2</page>
 <line>44</line>
-<wksby_common_flag><![CDATA[N]]></wksby_common_flag>
-<wksby_indi_no><![CDATA[1]]></wksby_indi_no>
-<wksby_receve><![CDATA[1996년5월21일]]></wksby_receve>
-<wksby_build_no><![CDATA[제15층 제1505호]]></wksby_build_no>
-<wksby_buld_cont><![CDATA[철근콘크리트]]></wksby_buld_cont>
-<wksby_caus_and_etc><![CDATA[도면편철장 제2책32장]]></wksby_caus_and_etc>
+<wksby_common_flag>N</wksby_common_flag>
+<wksby_indi_no>(전 1)</wksby_indi_no>
+<wksby_receve />
+<wksby_build_no />
+<wksby_buld_cont>벽식구조</wksby_buld_cont>
+<wksby_caus_and_etc />
 </item>
 <item>
 <type>Y</type>
 <page>2</page>
 <line>45</line>
-<wksby_common_flag><![CDATA[N]]></wksby_common_flag>
-<wksby_indi_no><![CDATA[(전 1)]]></wksby_indi_no>
-<wksby_receve/>
-<wksby_build_no/>
-<wksby_buld_cont><![CDATA[벽식구조]]></wksby_buld_cont>
-<wksby_caus_and_etc/>
+<wksby_common_flag>5</wksby_common_flag>
+<wksby_indi_no />
+<wksby_receve />
+<wksby_build_no />
+<wksby_buld_cont>84.84㎡</wksby_buld_cont>
+<wksby_caus_and_etc />
 </item>
 <item>
 <type>Y</type>
 <page>2</page>
-<line>46</line>
-<wksby_common_flag><![CDATA[5]]></wksby_common_flag>
-<wksby_indi_no/>
-<wksby_receve/>
-<wksby_build_no/>
-<wksby_buld_cont><![CDATA[84.84㎡]]></wksby_buld_cont>
-<wksby_caus_and_etc/>
+<line>47</line>
+<wksby_common_flag>N</wksby_common_flag>
+<wksby_indi_no />
+<wksby_receve />
+<wksby_build_no />
+<wksby_buld_cont />
+<wksby_caus_and_etc>부동산등기법 제177조의 6 제1항의 규정에</wksby_caus_and_etc>
 </item>
 <item>
 <type>Y</type>
 <page>2</page>
 <line>48</line>
-<wksby_common_flag><![CDATA[N]]></wksby_common_flag>
-<wksby_indi_no/>
-<wksby_receve/>
-<wksby_build_no/>
-<wksby_buld_cont/>
-<wksby_caus_and_etc><![CDATA[부동산등기법 제177조의 6 제1항의 규정에]]></wksby_caus_and_etc>
-</item>
-<item>
-<type>Y</type>
-<page>2</page>
-<line>49</line>
-<wksby_common_flag><![CDATA[1]]></wksby_common_flag>
-<wksby_indi_no/>
-<wksby_receve/>
-<wksby_build_no/>
-<wksby_buld_cont/>
-<wksby_caus_and_etc><![CDATA[의하여  1999년 06월 24일 전산이기]]></wksby_caus_and_etc>
+<wksby_common_flag>1</wksby_common_flag>
+<wksby_indi_no />
+<wksby_receve />
+<wksby_build_no />
+<wksby_buld_cont />
+<wksby_caus_and_etc>의하여  1999년 06월 24일 전산이기</wksby_caus_and_etc>
 </item>
 <item>
 <type>Z</type>
 <page>3</page>
 <line>14</line>
-<wksbz_common_flag><![CDATA[N]]></wksbz_common_flag>
-<wksbz_indi_no><![CDATA[1]]></wksbz_indi_no>
-<wksbz_lot_type><![CDATA[1, 2, 3, 4, 5, 6 소유권대지권]]></wksbz_lot_type>
-<wksbz_lot_num><![CDATA[2^27148분의 33.19]]></wksbz_lot_num>
-<wksbz_caus_and_etc><![CDATA[1996년4월26일 대지권]]></wksbz_caus_and_etc>
-<cert_cls><![CDATA[res]]></cert_cls>
-<pin_no><![CDATA[11431996047250]]></pin_no>
-<address><![CDATA[[집합건물] 서울특별시 관악구 봉천동 1698-1외 5필지 보라매삼성아파트 제102동 제15층 제1505호]]></address>
-<CallPosition><![CDATA[INTERNET_ALL]]></CallPosition>
-<txt_comp_free_cls><![CDATA[1]]></txt_comp_free_cls>
-<report_kind><![CDATA[1001]]></report_kind>
-<iss_date><![CDATA[2024/05/05]]></iss_date>
-<reg_cls><![CDATA[12]]></reg_cls>
-<dbl_cnt><![CDATA[1]]></dbl_cnt>
-<total_page><![CDATA[6]]></total_page>
-<iss_no><![CDATA[114202110031940510109600510HA0472643M1265032091112]]></iss_no>
-<etr_yn><![CDATA[N]]></etr_yn>
-<sum_yn><![CDATA[Y]]></sum_yn>
-<fee><![CDATA[700]]></fee>
-<fee_Out><![CDATA[700원 영수함]]></fee_Out>
+<wksbz_common_flag>N</wksbz_common_flag>
+<wksbz_indi_no>1</wksbz_indi_no>
+<wksbz_lot_type>1, 2, 3, 4, 5, 6 소유권대지권</wksbz_lot_type>
+<wksbz_lot_num>2^27148분의 33.19</wksbz_lot_num>
+<wksbz_caus_and_etc>1996년4월26일 대지권</wksbz_caus_and_etc>
+<cert_cls>res</cert_cls>
+<pin_no>11431996047250</pin_no>
+<address>[집합건물] 서울특별시 관악구 봉천동 1698-1외 5필지 보라매삼성아파트 제102동 제15층 제1505호</address>
+<CallPosition>INTERNET_ALL</CallPosition>
+<txt_comp_free_cls>1</txt_comp_free_cls>
+<report_kind>1</report_kind>
+<iss_date>2024/05/15</iss_date>
+<reg_cls>12</reg_cls>
+<dbl_cnt>1</dbl_cnt>
+<total_page>7</total_page>
+<iss_no>114202110031940510109601510HA0472649M1275040091112</iss_no>
+<etr_yn>N</etr_yn>
+<sum_yn>Y</sum_yn>
+<fee>700</fee>
+<fee_Out>700원 영수함</fee_Out>
 <gubun_flag>Y</gubun_flag>
-<jangsu><![CDATA[1]]></jangsu>
-<regt_cls><![CDATA[12]]></regt_cls>
-<wkreal_div_cd><![CDATA[4]]></wkreal_div_cd>
+<jangsu>1</jangsu>
+<regt_cls>12</regt_cls>
+<wkreal_div_cd>4</wkreal_div_cd>
 </item>
 <item>
 <type>Z</type>
 <page>3</page>
 <line>15</line>
-<wksbz_common_flag><![CDATA[4]]></wksbz_common_flag>
-<wksbz_indi_no><![CDATA[(전 1)]]></wksbz_indi_no>
-<wksbz_lot_type/>
-<wksbz_lot_num/>
-<wksbz_caus_and_etc><![CDATA[1996년5월21일]]></wksbz_caus_and_etc>
+<wksbz_common_flag>4</wksbz_common_flag>
+<wksbz_indi_no>(전 1)</wksbz_indi_no>
+<wksbz_lot_type />
+<wksbz_lot_num />
+<wksbz_caus_and_etc>1996년5월21일</wksbz_caus_and_etc>
 </item>
 <item>
 <type>Z</type>
 <page>3</page>
 <line>17</line>
-<wksbz_common_flag><![CDATA[N]]></wksbz_common_flag>
-<wksbz_indi_no/>
-<wksbz_lot_type/>
-<wksbz_lot_num/>
-<wksbz_caus_and_etc><![CDATA[부동산등기법 제177조의 6 제1항의 규정에]]></wksbz_caus_and_etc>
+<wksbz_common_flag>N</wksbz_common_flag>
+<wksbz_indi_no />
+<wksbz_lot_type />
+<wksbz_lot_num />
+<wksbz_caus_and_etc>부동산등기법 제177조의 6 제1항의 규정에</wksbz_caus_and_etc>
 </item>
 <item>
 <type>Z</type>
 <page>3</page>
 <line>18</line>
-<wksbz_common_flag><![CDATA[1]]></wksbz_common_flag>
-<wksbz_indi_no/>
-<wksbz_lot_type/>
-<wksbz_lot_num/>
-<wksbz_caus_and_etc><![CDATA[의하여  1999년 06월 24일 전산이기]]></wksbz_caus_and_etc>
+<wksbz_common_flag>1</wksbz_common_flag>
+<wksbz_indi_no />
+<wksbz_lot_type />
+<wksbz_lot_num />
+<wksbz_caus_and_etc>의하여  1999년 06월 24일 전산이기</wksbz_caus_and_etc>
 </item>
 <item>
 <type>K</type>
 <page>3</page>
 <line>25</line>
-<wksbk_common_flag><![CDATA[N]]></wksbk_common_flag>
-<wksbk_kap_rank_no><![CDATA[1]]></wksbk_kap_rank_no>
-<wksbk_rgs_aim_cont><![CDATA[소유권보존]]></wksbk_rgs_aim_cont>
-<wksbk_receve><![CDATA[1996년5월21일]]></wksbk_receve>
-<wksbk_rgs_caus/>
-<wksbk_nomprs_and_etc><![CDATA[소유자  박유진  600814-*******]]></wksbk_nomprs_and_etc>
+<wksbk_common_flag>N</wksbk_common_flag>
+<wksbk_kap_rank_no>1</wksbk_kap_rank_no>
+<wksbk_rgs_aim_cont>소유권보존</wksbk_rgs_aim_cont>
+<wksbk_receve>1996년5월21일</wksbk_receve>
+<wksbk_rgs_caus />
+<wksbk_nomprs_and_etc>소유자  박유진  600814-*******</wksbk_nomprs_and_etc>
 </item>
 <item>
 <type>K</type>
 <page>3</page>
 <line>26</line>
-<wksbk_common_flag><![CDATA[N]]></wksbk_common_flag>
-<wksbk_kap_rank_no><![CDATA[(전 1)]]></wksbk_kap_rank_no>
-<wksbk_rgs_aim_cont/>
-<wksbk_receve><![CDATA[제19843호]]></wksbk_receve>
-<wksbk_rgs_caus/>
-<wksbk_nomprs_and_etc><![CDATA[4^&인천 연수구 연수동 633 대동아파트 104동&]]></wksbk_nomprs_and_etc>
+<wksbk_common_flag>N</wksbk_common_flag>
+<wksbk_kap_rank_no>(전 1)</wksbk_kap_rank_no>
+<wksbk_rgs_aim_cont />
+<wksbk_receve>제19843호</wksbk_receve>
+<wksbk_rgs_caus />
+<wksbk_nomprs_and_etc>4^&amp;인천 연수구 연수동 633 대동아파트 104동&amp;</wksbk_nomprs_and_etc>
 </item>
 <item>
 <type>K</type>
 <page>3</page>
 <line>27</line>
-<wksbk_common_flag><![CDATA[5]]></wksbk_common_flag>
-<wksbk_kap_rank_no/>
-<wksbk_rgs_aim_cont/>
-<wksbk_receve/>
-<wksbk_rgs_caus/>
-<wksbk_nomprs_and_etc><![CDATA[4^&606호&]]></wksbk_nomprs_and_etc>
+<wksbk_common_flag>5</wksbk_common_flag>
+<wksbk_kap_rank_no />
+<wksbk_rgs_aim_cont />
+<wksbk_receve />
+<wksbk_rgs_caus />
+<wksbk_nomprs_and_etc>4^&amp;606호&amp;</wksbk_nomprs_and_etc>
 </item>
 <item>
 <type>K</type>
 <page>3</page>
 <line>29</line>
-<wksbk_common_flag><![CDATA[N]]></wksbk_common_flag>
-<wksbk_kap_rank_no/>
-<wksbk_rgs_aim_cont/>
-<wksbk_receve/>
-<wksbk_rgs_caus/>
-<wksbk_nomprs_and_etc><![CDATA[부동산등기법 제177조의 6 제1항의 규정에]]></wksbk_nomprs_and_etc>
+<wksbk_common_flag>N</wksbk_common_flag>
+<wksbk_kap_rank_no />
+<wksbk_rgs_aim_cont />
+<wksbk_receve />
+<wksbk_rgs_caus />
+<wksbk_nomprs_and_etc>부동산등기법 제177조의 6 제1항의 규정에</wksbk_nomprs_and_etc>
 </item>
 <item>
 <type>K</type>
 <page>3</page>
 <line>30</line>
-<wksbk_common_flag><![CDATA[1]]></wksbk_common_flag>
-<wksbk_kap_rank_no/>
-<wksbk_rgs_aim_cont/>
-<wksbk_receve/>
-<wksbk_rgs_caus/>
-<wksbk_nomprs_and_etc><![CDATA[의하여  1999년 06월 24일 전산이기]]></wksbk_nomprs_and_etc>
+<wksbk_common_flag>1</wksbk_common_flag>
+<wksbk_kap_rank_no />
+<wksbk_rgs_aim_cont />
+<wksbk_receve />
+<wksbk_rgs_caus />
+<wksbk_nomprs_and_etc>의하여  1999년 06월 24일 전산이기</wksbk_nomprs_and_etc>
 </item>
 <item>
 <type>K</type>
 <page>3</page>
 <line>32</line>
-<wksbk_common_flag><![CDATA[N]]></wksbk_common_flag>
-<wksbk_kap_rank_no><![CDATA[1-1]]></wksbk_kap_rank_no>
-<wksbk_rgs_aim_cont><![CDATA[1번등기명의인표시]]></wksbk_rgs_aim_cont>
-<wksbk_receve/>
-<wksbk_rgs_caus><![CDATA[2001년3월2일]]></wksbk_rgs_caus>
-<wksbk_nomprs_and_etc><![CDATA[박유진의 주소  고양시 일산구 주엽동 1]]></wksbk_nomprs_and_etc>
+<wksbk_common_flag>N</wksbk_common_flag>
+<wksbk_kap_rank_no>1-1</wksbk_kap_rank_no>
+<wksbk_rgs_aim_cont>1번등기명의인표시</wksbk_rgs_aim_cont>
+<wksbk_receve />
+<wksbk_rgs_caus>2001년3월2일</wksbk_rgs_caus>
+<wksbk_nomprs_and_etc>박유진의 주소  고양시 일산구 주엽동 1</wksbk_nomprs_and_etc>
 </item>
 <item>
 <type>K</type>
 <page>3</page>
 <line>33</line>
-<wksbk_common_flag><![CDATA[N]]></wksbk_common_flag>
-<wksbk_kap_rank_no/>
-<wksbk_rgs_aim_cont><![CDATA[변경]]></wksbk_rgs_aim_cont>
-<wksbk_receve/>
-<wksbk_rgs_caus><![CDATA[전거]]></wksbk_rgs_caus>
-<wksbk_nomprs_and_etc><![CDATA[6^문촌마을 115-1203]]></wksbk_nomprs_and_etc>
+<wksbk_common_flag>N</wksbk_common_flag>
+<wksbk_kap_rank_no />
+<wksbk_rgs_aim_cont>변경</wksbk_rgs_aim_cont>
+<wksbk_receve />
+<wksbk_rgs_caus>전거</wksbk_rgs_caus>
+<wksbk_nomprs_and_etc>6^문촌마을 115-1203</wksbk_nomprs_and_etc>
 </item>
 <item>
 <type>K</type>
 <page>3</page>
 <line>34</line>
-<wksbk_common_flag><![CDATA[1]]></wksbk_common_flag>
-<wksbk_kap_rank_no/>
-<wksbk_rgs_aim_cont/>
-<wksbk_receve/>
-<wksbk_rgs_caus/>
-<wksbk_nomprs_and_etc><![CDATA[2001년4월3일  부기]]></wksbk_nomprs_and_etc>
+<wksbk_common_flag>1</wksbk_common_flag>
+<wksbk_kap_rank_no />
+<wksbk_rgs_aim_cont />
+<wksbk_receve />
+<wksbk_rgs_caus />
+<wksbk_nomprs_and_etc>2001년4월3일  부기</wksbk_nomprs_and_etc>
 </item>
 <item>
 <type>K</type>
 <page>3</page>
 <line>36</line>
-<wksbk_common_flag><![CDATA[N]]></wksbk_common_flag>
-<wksbk_kap_rank_no><![CDATA[2]]></wksbk_kap_rank_no>
-<wksbk_rgs_aim_cont><![CDATA[소유권이전]]></wksbk_rgs_aim_cont>
-<wksbk_receve><![CDATA[2001년4월3일]]></wksbk_receve>
-<wksbk_rgs_caus><![CDATA[2001년3월3일]]></wksbk_rgs_caus>
-<wksbk_nomprs_and_etc><![CDATA[소유자  유혜숙  460423-*******]]></wksbk_nomprs_and_etc>
+<wksbk_common_flag>N</wksbk_common_flag>
+<wksbk_kap_rank_no>2</wksbk_kap_rank_no>
+<wksbk_rgs_aim_cont>소유권이전</wksbk_rgs_aim_cont>
+<wksbk_receve>2001년4월3일</wksbk_receve>
+<wksbk_rgs_caus>2001년3월3일</wksbk_rgs_caus>
+<wksbk_nomprs_and_etc>소유자  유혜숙  460423-*******</wksbk_nomprs_and_etc>
 </item>
 <item>
 <type>K</type>
 <page>3</page>
 <line>37</line>
-<wksbk_common_flag><![CDATA[1]]></wksbk_common_flag>
-<wksbk_kap_rank_no/>
-<wksbk_rgs_aim_cont/>
-<wksbk_receve><![CDATA[제12754호]]></wksbk_receve>
-<wksbk_rgs_caus><![CDATA[매매]]></wksbk_rgs_caus>
-<wksbk_nomprs_and_etc><![CDATA[4^서울 동작구 상도동 211-149]]></wksbk_nomprs_and_etc>
+<wksbk_common_flag>1</wksbk_common_flag>
+<wksbk_kap_rank_no />
+<wksbk_rgs_aim_cont />
+<wksbk_receve>제12754호</wksbk_receve>
+<wksbk_rgs_caus>매매</wksbk_rgs_caus>
+<wksbk_nomprs_and_etc>4^서울 동작구 상도동 211-149</wksbk_nomprs_and_etc>
 </item>
 <item>
 <type>K</type>
 <page>3</page>
 <line>39</line>
-<wksbk_common_flag><![CDATA[N]]></wksbk_common_flag>
-<wksbk_kap_rank_no><![CDATA[3]]></wksbk_kap_rank_no>
-<wksbk_rgs_aim_cont><![CDATA[소유권이전]]></wksbk_rgs_aim_cont>
-<wksbk_receve><![CDATA[2016년9월6일]]></wksbk_receve>
-<wksbk_rgs_caus><![CDATA[2016년4월2일]]></wksbk_rgs_caus>
-<wksbk_nomprs_and_etc><![CDATA[소유자  이명천  600528-*******]]></wksbk_nomprs_and_etc>
+<wksbk_common_flag>N</wksbk_common_flag>
+<wksbk_kap_rank_no>3</wksbk_kap_rank_no>
+<wksbk_rgs_aim_cont>소유권이전</wksbk_rgs_aim_cont>
+<wksbk_receve>2016년9월6일</wksbk_receve>
+<wksbk_rgs_caus>2016년4월2일</wksbk_rgs_caus>
+<wksbk_nomprs_and_etc>소유자  이명천  600528-*******</wksbk_nomprs_and_etc>
 </item>
 <item>
 <type>K</type>
 <page>3</page>
 <line>40</line>
-<wksbk_common_flag><![CDATA[N]]></wksbk_common_flag>
-<wksbk_kap_rank_no/>
-<wksbk_rgs_aim_cont/>
-<wksbk_receve><![CDATA[제184817호]]></wksbk_receve>
-<wksbk_rgs_caus><![CDATA[매매]]></wksbk_rgs_caus>
-<wksbk_nomprs_and_etc><![CDATA[4^&서울특별시 동작구 대방동길 24,&]]></wksbk_nomprs_and_etc>
+<wksbk_common_flag>N</wksbk_common_flag>
+<wksbk_kap_rank_no />
+<wksbk_rgs_aim_cont />
+<wksbk_receve>제184817호</wksbk_receve>
+<wksbk_rgs_caus>매매</wksbk_rgs_caus>
+<wksbk_nomprs_and_etc>4^&amp;서울특별시 동작구 대방동길 24,&amp;</wksbk_nomprs_and_etc>
 </item>
 <item>
 <type>K</type>
 <page>3</page>
 <line>41</line>
-<wksbk_common_flag><![CDATA[N]]></wksbk_common_flag>
-<wksbk_kap_rank_no/>
-<wksbk_rgs_aim_cont/>
-<wksbk_receve/>
-<wksbk_rgs_caus/>
-<wksbk_nomprs_and_etc><![CDATA[4^&401호(대방동, 한신빌라)&]]></wksbk_nomprs_and_etc>
+<wksbk_common_flag>N</wksbk_common_flag>
+<wksbk_kap_rank_no />
+<wksbk_rgs_aim_cont />
+<wksbk_receve />
+<wksbk_rgs_caus />
+<wksbk_nomprs_and_etc>4^&amp;401호(대방동, 한신빌라)&amp;</wksbk_nomprs_and_etc>
 </item>
 <item>
 <type>K</type>
 <page>3</page>
 <line>42</line>
-<wksbk_common_flag><![CDATA[1]]></wksbk_common_flag>
-<wksbk_kap_rank_no/>
-<wksbk_rgs_aim_cont/>
-<wksbk_receve/>
-<wksbk_rgs_caus/>
-<wksbk_nomprs_and_etc><![CDATA[거래가액 금415,000,000원]]></wksbk_nomprs_and_etc>
+<wksbk_common_flag>1</wksbk_common_flag>
+<wksbk_kap_rank_no />
+<wksbk_rgs_aim_cont />
+<wksbk_receve />
+<wksbk_rgs_caus />
+<wksbk_nomprs_and_etc>거래가액 금415,000,000원</wksbk_nomprs_and_etc>
 </item>
 <item>
 <type>K</type>
 <page>3</page>
 <line>44</line>
-<wksbk_common_flag><![CDATA[N]]></wksbk_common_flag>
-<wksbk_kap_rank_no><![CDATA[3-1]]></wksbk_kap_rank_no>
-<wksbk_rgs_aim_cont><![CDATA[3번등기명의인표시]]></wksbk_rgs_aim_cont>
-<wksbk_receve><![CDATA[2019년9월5일]]></wksbk_receve>
-<wksbk_rgs_caus><![CDATA[2016년9월6일]]></wksbk_rgs_caus>
-<wksbk_nomprs_and_etc><![CDATA[이명천의 주소  서울특별시 동작구  보라매로]]></wksbk_nomprs_and_etc>
+<wksbk_common_flag>N</wksbk_common_flag>
+<wksbk_kap_rank_no>3-1</wksbk_kap_rank_no>
+<wksbk_rgs_aim_cont>3번등기명의인표시</wksbk_rgs_aim_cont>
+<wksbk_receve>2019년9월5일</wksbk_receve>
+<wksbk_rgs_caus>2016년9월6일</wksbk_rgs_caus>
+<wksbk_nomprs_and_etc>이명천의 주소  서울특별시 동작구  보라매로</wksbk_nomprs_and_etc>
 </item>
 <item>
 <type>K</type>
 <page>3</page>
 <line>45</line>
-<wksbk_common_flag><![CDATA[N]]></wksbk_common_flag>
-<wksbk_kap_rank_no/>
-<wksbk_rgs_aim_cont><![CDATA[경정]]></wksbk_rgs_aim_cont>
-<wksbk_receve><![CDATA[제134010호]]></wksbk_receve>
-<wksbk_rgs_caus><![CDATA[신청착오]]></wksbk_rgs_caus>
-<wksbk_nomprs_and_etc><![CDATA[6^70, 102동 406호 (신대방동,]]></wksbk_nomprs_and_etc>
+<wksbk_common_flag>N</wksbk_common_flag>
+<wksbk_kap_rank_no />
+<wksbk_rgs_aim_cont>경정</wksbk_rgs_aim_cont>
+<wksbk_receve>제134010호</wksbk_receve>
+<wksbk_rgs_caus>신청착오</wksbk_rgs_caus>
+<wksbk_nomprs_and_etc>6^70, 102동 406호 (신대방동,</wksbk_nomprs_and_etc>
 </item>
 <item>
 <type>K</type>
 <page>3</page>
 <line>46</line>
-<wksbk_common_flag><![CDATA[1]]></wksbk_common_flag>
-<wksbk_kap_rank_no/>
-<wksbk_rgs_aim_cont/>
-<wksbk_receve/>
-<wksbk_rgs_caus/>
-<wksbk_nomprs_and_etc><![CDATA[6^보라매이편한세상아파트)]]></wksbk_nomprs_and_etc>
+<wksbk_common_flag>1</wksbk_common_flag>
+<wksbk_kap_rank_no />
+<wksbk_rgs_aim_cont />
+<wksbk_receve />
+<wksbk_rgs_caus />
+<wksbk_nomprs_and_etc>6^보라매이편한세상아파트)</wksbk_nomprs_and_etc>
 </item>
 <item>
 <type>K</type>
 <page>3</page>
 <line>48</line>
-<wksbk_common_flag><![CDATA[N]]></wksbk_common_flag>
-<wksbk_kap_rank_no><![CDATA[4]]></wksbk_kap_rank_no>
-<wksbk_rgs_aim_cont><![CDATA[가압류]]></wksbk_rgs_aim_cont>
-<wksbk_receve><![CDATA[2023년3월23일]]></wksbk_receve>
-<wksbk_rgs_caus><![CDATA[2023년3월23일]]></wksbk_rgs_caus>
-<wksbk_nomprs_and_etc><![CDATA[청구금액  금34,865,027 원]]></wksbk_nomprs_and_etc>
+<wksbk_common_flag>N</wksbk_common_flag>
+<wksbk_kap_rank_no>4</wksbk_kap_rank_no>
+<wksbk_rgs_aim_cont>가압류</wksbk_rgs_aim_cont>
+<wksbk_receve>2023년3월23일</wksbk_receve>
+<wksbk_rgs_caus>2023년3월23일</wksbk_rgs_caus>
+<wksbk_nomprs_and_etc>청구금액  금34,865,027 원</wksbk_nomprs_and_etc>
 </item>
 <item>
 <type>K</type>
 <page>3</page>
 <line>49</line>
-<wksbk_common_flag><![CDATA[N]]></wksbk_common_flag>
-<wksbk_kap_rank_no/>
-<wksbk_rgs_aim_cont/>
-<wksbk_receve><![CDATA[제37085호]]></wksbk_receve>
-<wksbk_rgs_caus><![CDATA[서울중앙지방법]]></wksbk_rgs_caus>
-<wksbk_nomprs_and_etc><![CDATA[채권자  주식회사 케이비국민카드 ]]></wksbk_nomprs_and_etc>
+<wksbk_common_flag>N</wksbk_common_flag>
+<wksbk_kap_rank_no />
+<wksbk_rgs_aim_cont />
+<wksbk_receve>제37085호</wksbk_receve>
+<wksbk_rgs_caus>서울중앙지방법</wksbk_rgs_caus>
+<wksbk_nomprs_and_etc>채권자  주식회사 케이비국민카드 </wksbk_nomprs_and_etc>
 </item>
 <item>
 <type>K</type>
 <page>3</page>
 <line>50</line>
-<wksbk_common_flag><![CDATA[N]]></wksbk_common_flag>
-<wksbk_kap_rank_no/>
-<wksbk_rgs_aim_cont/>
-<wksbk_receve/>
-<wksbk_rgs_caus><![CDATA[원의 가압류]]></wksbk_rgs_caus>
-<wksbk_nomprs_and_etc><![CDATA[8^110111-4546523]]></wksbk_nomprs_and_etc>
+<wksbk_common_flag>N</wksbk_common_flag>
+<wksbk_kap_rank_no />
+<wksbk_rgs_aim_cont />
+<wksbk_receve />
+<wksbk_rgs_caus>원의 가압류</wksbk_rgs_caus>
+<wksbk_nomprs_and_etc>8^110111-4546523</wksbk_nomprs_and_etc>
 </item>
 <item>
 <type>K</type>
 <page>3</page>
 <line>51</line>
-<wksbk_common_flag><![CDATA[N]]></wksbk_common_flag>
-<wksbk_kap_rank_no/>
-<wksbk_rgs_aim_cont/>
-<wksbk_receve/>
-<wksbk_rgs_caus><![CDATA[결정(2023카단3]]></wksbk_rgs_caus>
-<wksbk_nomprs_and_etc><![CDATA[4^서울 종로구 새문안로3길 30 (내수동)]]></wksbk_nomprs_and_etc>
+<wksbk_common_flag>N</wksbk_common_flag>
+<wksbk_kap_rank_no />
+<wksbk_rgs_aim_cont />
+<wksbk_receve />
+<wksbk_rgs_caus>결정(2023카단3</wksbk_rgs_caus>
+<wksbk_nomprs_and_etc>4^서울 종로구 새문안로3길 30 (내수동)</wksbk_nomprs_and_etc>
 </item>
 <item>
 <type>K</type>
 <page>3</page>
 <line>52</line>
-<wksbk_common_flag><![CDATA[1]]></wksbk_common_flag>
-<wksbk_kap_rank_no/>
-<wksbk_rgs_aim_cont/>
-<wksbk_receve/>
-<wksbk_rgs_caus><![CDATA[1536)]]></wksbk_rgs_caus>
-<wksbk_nomprs_and_etc><![CDATA[4^(채권관리부)]]></wksbk_nomprs_and_etc>
+<wksbk_common_flag>1</wksbk_common_flag>
+<wksbk_kap_rank_no />
+<wksbk_rgs_aim_cont />
+<wksbk_receve />
+<wksbk_rgs_caus>1536)</wksbk_rgs_caus>
+<wksbk_nomprs_and_etc>4^(채권관리부)</wksbk_nomprs_and_etc>
 </item>
 <item>
 <type>K</type>
 <page>4</page>
 <line>10</line>
-<wksbk_common_flag><![CDATA[N]]></wksbk_common_flag>
-<wksbk_kap_rank_no><![CDATA[5]]></wksbk_kap_rank_no>
-<wksbk_rgs_aim_cont><![CDATA[임의경매개시결정]]></wksbk_rgs_aim_cont>
-<wksbk_receve><![CDATA[2023년4월18일]]></wksbk_receve>
-<wksbk_rgs_caus><![CDATA[2023년4월18일]]></wksbk_rgs_caus>
-<wksbk_nomprs_and_etc><![CDATA[채권자  주식회사 안양저축은행 ]]></wksbk_nomprs_and_etc>
-<cert_cls><![CDATA[res]]></cert_cls>
-<pin_no><![CDATA[11431996047250]]></pin_no>
-<address><![CDATA[[집합건물] 서울특별시 관악구 봉천동 1698-1외 5필지 보라매삼성아파트 제102동 제15층 제1505호]]></address>
-<CallPosition><![CDATA[INTERNET_ALL]]></CallPosition>
-<txt_comp_free_cls><![CDATA[1]]></txt_comp_free_cls>
-<report_kind><![CDATA[1001]]></report_kind>
-<iss_date><![CDATA[2024/05/05]]></iss_date>
-<reg_cls><![CDATA[12]]></reg_cls>
-<dbl_cnt><![CDATA[1]]></dbl_cnt>
-<total_page><![CDATA[6]]></total_page>
-<iss_no><![CDATA[114202110031940510109600510HA0472643M1265032091112]]></iss_no>
-<etr_yn><![CDATA[N]]></etr_yn>
-<sum_yn><![CDATA[Y]]></sum_yn>
-<fee><![CDATA[700]]></fee>
-<fee_Out><![CDATA[700원 영수함]]></fee_Out>
+<wksbk_common_flag>N</wksbk_common_flag>
+<wksbk_kap_rank_no>5</wksbk_kap_rank_no>
+<wksbk_rgs_aim_cont>임의경매개시결정</wksbk_rgs_aim_cont>
+<wksbk_receve>2023년4월18일</wksbk_receve>
+<wksbk_rgs_caus>2023년4월18일</wksbk_rgs_caus>
+<wksbk_nomprs_and_etc>채권자  주식회사 안양저축은행 </wksbk_nomprs_and_etc>
+<cert_cls>res</cert_cls>
+<pin_no>11431996047250</pin_no>
+<address>[집합건물] 서울특별시 관악구 봉천동 1698-1외 5필지 보라매삼성아파트 제102동 제15층 제1505호</address>
+<CallPosition>INTERNET_ALL</CallPosition>
+<txt_comp_free_cls>1</txt_comp_free_cls>
+<report_kind>1</report_kind>
+<iss_date>2024/05/15</iss_date>
+<reg_cls>12</reg_cls>
+<dbl_cnt>1</dbl_cnt>
+<total_page>7</total_page>
+<iss_no>114202110031940510109601510HA0472649M1275040091112</iss_no>
+<etr_yn>N</etr_yn>
+<sum_yn>Y</sum_yn>
+<fee>700</fee>
+<fee_Out>700원 영수함</fee_Out>
 <gubun_flag>K</gubun_flag>
-<jangsu><![CDATA[1]]></jangsu>
-<regt_cls><![CDATA[12]]></regt_cls>
-<wkreal_div_cd><![CDATA[4]]></wkreal_div_cd>
+<jangsu>1</jangsu>
+<regt_cls>12</regt_cls>
+<wkreal_div_cd>4</wkreal_div_cd>
 </item>
 <item>
 <type>K</type>
 <page>4</page>
 <line>11</line>
-<wksbk_common_flag><![CDATA[N]]></wksbk_common_flag>
-<wksbk_kap_rank_no/>
-<wksbk_rgs_aim_cont/>
-<wksbk_receve><![CDATA[제52005호]]></wksbk_receve>
-<wksbk_rgs_caus><![CDATA[서울중앙지방법]]></wksbk_rgs_caus>
-<wksbk_nomprs_and_etc><![CDATA[8^134111-0008850]]></wksbk_nomprs_and_etc>
+<wksbk_common_flag>N</wksbk_common_flag>
+<wksbk_kap_rank_no />
+<wksbk_rgs_aim_cont />
+<wksbk_receve>제52005호</wksbk_receve>
+<wksbk_rgs_caus>서울중앙지방법</wksbk_rgs_caus>
+<wksbk_nomprs_and_etc>8^134111-0008850</wksbk_nomprs_and_etc>
 </item>
 <item>
 <type>K</type>
 <page>4</page>
 <line>12</line>
-<wksbk_common_flag><![CDATA[N]]></wksbk_common_flag>
-<wksbk_kap_rank_no/>
-<wksbk_rgs_aim_cont/>
-<wksbk_receve/>
-<wksbk_rgs_caus><![CDATA[원의]]></wksbk_rgs_caus>
-<wksbk_nomprs_and_etc><![CDATA[4^안양시 만안구 안양로 250 (안양동)]]></wksbk_nomprs_and_etc>
+<wksbk_common_flag>N</wksbk_common_flag>
+<wksbk_kap_rank_no />
+<wksbk_rgs_aim_cont />
+<wksbk_receve />
+<wksbk_rgs_caus>원의</wksbk_rgs_caus>
+<wksbk_nomprs_and_etc>4^안양시 만안구 안양로 250 (안양동)</wksbk_nomprs_and_etc>
 </item>
 <item>
 <type>K</type>
 <page>4</page>
 <line>13</line>
-<wksbk_common_flag><![CDATA[N]]></wksbk_common_flag>
-<wksbk_kap_rank_no/>
-<wksbk_rgs_aim_cont/>
-<wksbk_receve/>
-<wksbk_rgs_caus><![CDATA[임의경매개시결]]></wksbk_rgs_caus>
-<wksbk_nomprs_and_etc/>
+<wksbk_common_flag>N</wksbk_common_flag>
+<wksbk_kap_rank_no />
+<wksbk_rgs_aim_cont />
+<wksbk_receve />
+<wksbk_rgs_caus>임의경매개시결</wksbk_rgs_caus>
+<wksbk_nomprs_and_etc />
 </item>
 <item>
 <type>K</type>
 <page>4</page>
 <line>14</line>
-<wksbk_common_flag><![CDATA[N]]></wksbk_common_flag>
-<wksbk_kap_rank_no/>
-<wksbk_rgs_aim_cont/>
-<wksbk_receve/>
-<wksbk_rgs_caus><![CDATA[정(2023타경104]]></wksbk_rgs_caus>
-<wksbk_nomprs_and_etc/>
+<wksbk_common_flag>N</wksbk_common_flag>
+<wksbk_kap_rank_no />
+<wksbk_rgs_aim_cont />
+<wksbk_receve />
+<wksbk_rgs_caus>정(2023타경104</wksbk_rgs_caus>
+<wksbk_nomprs_and_etc />
 </item>
 <item>
 <type>K</type>
 <page>4</page>
 <line>15</line>
-<wksbk_common_flag><![CDATA[1]]></wksbk_common_flag>
-<wksbk_kap_rank_no/>
-<wksbk_rgs_aim_cont/>
-<wksbk_receve/>
-<wksbk_rgs_caus><![CDATA[752)]]></wksbk_rgs_caus>
-<wksbk_nomprs_and_etc/>
+<wksbk_common_flag>1</wksbk_common_flag>
+<wksbk_kap_rank_no />
+<wksbk_rgs_aim_cont />
+<wksbk_receve />
+<wksbk_rgs_caus>752)</wksbk_rgs_caus>
+<wksbk_nomprs_and_etc />
 </item>
 <item>
 <type>E</type>
 <page>4</page>
 <line>22</line>
-<wksbe_common_flag><![CDATA[N]]></wksbe_common_flag>
-<wksbe_eul_rank_no><![CDATA[&1&]]></wksbe_eul_rank_no>
-<wksbe_rgs_aim_cont><![CDATA[&근저당권설정&]]></wksbe_rgs_aim_cont>
-<wksbe_receve><![CDATA[&1997년2월18일&]]></wksbe_receve>
-<wksbe_rgs_caus><![CDATA[&1997년2월17일&]]></wksbe_rgs_caus>
-<wksbe_nomprs_and_etc><![CDATA[&&&채권최고액  금35,100,000원정&]]></wksbe_nomprs_and_etc>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no>&amp;1&amp;</wksbe_eul_rank_no>
+<wksbe_rgs_aim_cont>&amp;근저당권설정&amp;</wksbe_rgs_aim_cont>
+<wksbe_receve>&amp;1997년2월18일&amp;</wksbe_receve>
+<wksbe_rgs_caus>&amp;1997년2월17일&amp;</wksbe_rgs_caus>
+<wksbe_nomprs_and_etc>&amp;&amp;&amp;채권최고액  금35,100,000원정&amp;</wksbe_nomprs_and_etc>
 </item>
 <item>
 <type>E</type>
 <page>4</page>
 <line>23</line>
-<wksbe_common_flag><![CDATA[N]]></wksbe_common_flag>
-<wksbe_eul_rank_no><![CDATA[&(전 2)&]]></wksbe_eul_rank_no>
-<wksbe_rgs_aim_cont/>
-<wksbe_receve><![CDATA[&제6363호&]]></wksbe_receve>
-<wksbe_rgs_caus><![CDATA[&설정계약&]]></wksbe_rgs_caus>
-<wksbe_nomprs_and_etc><![CDATA[&채무자  &&조영숙&]]></wksbe_nomprs_and_etc>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no>&amp;(전 2)&amp;</wksbe_eul_rank_no>
+<wksbe_rgs_aim_cont />
+<wksbe_receve>&amp;제6363호&amp;</wksbe_receve>
+<wksbe_rgs_caus>&amp;설정계약&amp;</wksbe_rgs_caus>
+<wksbe_nomprs_and_etc>&amp;채무자  &amp;&amp;조영숙&amp;</wksbe_nomprs_and_etc>
 </item>
 <item>
 <type>E</type>
 <page>4</page>
 <line>24</line>
-<wksbe_common_flag><![CDATA[N]]></wksbe_common_flag>
-<wksbe_eul_rank_no/>
-<wksbe_rgs_aim_cont/>
-<wksbe_receve/>
-<wksbe_rgs_caus/>
-<wksbe_nomprs_and_etc><![CDATA[4^&인천시 남동구 구월동 24 주공아파트 220동&]]></wksbe_nomprs_and_etc>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve />
+<wksbe_rgs_caus />
+<wksbe_nomprs_and_etc>4^&amp;인천시 남동구 구월동 24 주공아파트 220동&amp;</wksbe_nomprs_and_etc>
 </item>
 <item>
 <type>E</type>
 <page>4</page>
 <line>25</line>
-<wksbe_common_flag><![CDATA[N]]></wksbe_common_flag>
-<wksbe_eul_rank_no/>
-<wksbe_rgs_aim_cont/>
-<wksbe_receve/>
-<wksbe_rgs_caus/>
-<wksbe_nomprs_and_etc><![CDATA[4^&401호&]]></wksbe_nomprs_and_etc>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve />
+<wksbe_rgs_caus />
+<wksbe_nomprs_and_etc>4^&amp;401호&amp;</wksbe_nomprs_and_etc>
 </item>
 <item>
 <type>E</type>
 <page>4</page>
 <line>26</line>
-<wksbe_common_flag><![CDATA[N]]></wksbe_common_flag>
-<wksbe_eul_rank_no/>
-<wksbe_rgs_aim_cont/>
-<wksbe_receve/>
-<wksbe_rgs_caus/>
-<wksbe_nomprs_and_etc><![CDATA[&근저당권자  &&주식회사한국외환은행&& &]]></wksbe_nomprs_and_etc>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve />
+<wksbe_rgs_caus />
+<wksbe_nomprs_and_etc>&amp;근저당권자  &amp;&amp;주식회사한국외환은행&amp;&amp; &amp;</wksbe_nomprs_and_etc>
 </item>
 <item>
 <type>E</type>
 <page>4</page>
 <line>27</line>
-<wksbe_common_flag><![CDATA[N]]></wksbe_common_flag>
-<wksbe_eul_rank_no/>
-<wksbe_rgs_aim_cont/>
-<wksbe_receve/>
-<wksbe_rgs_caus/>
-<wksbe_nomprs_and_etc><![CDATA[12^&&&110111-0672538&]]></wksbe_nomprs_and_etc>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve />
+<wksbe_rgs_caus />
+<wksbe_nomprs_and_etc>12^&amp;&amp;&amp;110111-0672538&amp;</wksbe_nomprs_and_etc>
 </item>
 <item>
 <type>E</type>
 <page>4</page>
 <line>28</line>
-<wksbe_common_flag><![CDATA[N]]></wksbe_common_flag>
-<wksbe_eul_rank_no/>
-<wksbe_rgs_aim_cont/>
-<wksbe_receve/>
-<wksbe_rgs_caus/>
-<wksbe_nomprs_and_etc><![CDATA[4^&서울 중구 을지로2가 181&]]></wksbe_nomprs_and_etc>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve />
+<wksbe_rgs_caus />
+<wksbe_nomprs_and_etc>4^&amp;서울 중구 을지로2가 181&amp;</wksbe_nomprs_and_etc>
 </item>
 <item>
 <type>E</type>
 <page>4</page>
 <line>29</line>
-<wksbe_common_flag><![CDATA[1]]></wksbe_common_flag>
-<wksbe_eul_rank_no/>
-<wksbe_rgs_aim_cont/>
-<wksbe_receve/>
-<wksbe_rgs_caus/>
-<wksbe_nomprs_and_etc><![CDATA[4^&( 인천지점 )&]]></wksbe_nomprs_and_etc>
+<wksbe_common_flag>1</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve />
+<wksbe_rgs_caus />
+<wksbe_nomprs_and_etc>4^&amp;( 인천지점 )&amp;</wksbe_nomprs_and_etc>
 </item>
 <item>
 <type>E</type>
 <page>4</page>
 <line>31</line>
-<wksbe_common_flag><![CDATA[N]]></wksbe_common_flag>
-<wksbe_eul_rank_no><![CDATA[&2&]]></wksbe_eul_rank_no>
-<wksbe_rgs_aim_cont><![CDATA[&근저당권설정&]]></wksbe_rgs_aim_cont>
-<wksbe_receve><![CDATA[&1999년2월6일&]]></wksbe_receve>
-<wksbe_rgs_caus><![CDATA[&1999년2월4일&]]></wksbe_rgs_caus>
-<wksbe_nomprs_and_etc><![CDATA[&&&채권최고액  금55,900,000원정&]]></wksbe_nomprs_and_etc>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no>&amp;2&amp;</wksbe_eul_rank_no>
+<wksbe_rgs_aim_cont>&amp;근저당권설정&amp;</wksbe_rgs_aim_cont>
+<wksbe_receve>&amp;1999년2월6일&amp;</wksbe_receve>
+<wksbe_rgs_caus>&amp;1999년2월4일&amp;</wksbe_rgs_caus>
+<wksbe_nomprs_and_etc>&amp;&amp;&amp;채권최고액  금55,900,000원정&amp;</wksbe_nomprs_and_etc>
 </item>
 <item>
 <type>E</type>
 <page>4</page>
 <line>32</line>
-<wksbe_common_flag><![CDATA[N]]></wksbe_common_flag>
-<wksbe_eul_rank_no><![CDATA[&(전 3)&]]></wksbe_eul_rank_no>
-<wksbe_rgs_aim_cont/>
-<wksbe_receve><![CDATA[&제4646호&]]></wksbe_receve>
-<wksbe_rgs_caus><![CDATA[&설정계약&]]></wksbe_rgs_caus>
-<wksbe_nomprs_and_etc><![CDATA[&채무자  &&조영숙&]]></wksbe_nomprs_and_etc>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no>&amp;(전 3)&amp;</wksbe_eul_rank_no>
+<wksbe_rgs_aim_cont />
+<wksbe_receve>&amp;제4646호&amp;</wksbe_receve>
+<wksbe_rgs_caus>&amp;설정계약&amp;</wksbe_rgs_caus>
+<wksbe_nomprs_and_etc>&amp;채무자  &amp;&amp;조영숙&amp;</wksbe_nomprs_and_etc>
 </item>
 <item>
 <type>E</type>
 <page>4</page>
 <line>33</line>
-<wksbe_common_flag><![CDATA[N]]></wksbe_common_flag>
-<wksbe_eul_rank_no/>
-<wksbe_rgs_aim_cont/>
-<wksbe_receve/>
-<wksbe_rgs_caus/>
-<wksbe_nomprs_and_etc><![CDATA[4^&인천 연수구 연수동 633 대동아파트 104동&]]></wksbe_nomprs_and_etc>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve />
+<wksbe_rgs_caus />
+<wksbe_nomprs_and_etc>4^&amp;인천 연수구 연수동 633 대동아파트 104동&amp;</wksbe_nomprs_and_etc>
 </item>
 <item>
 <type>E</type>
 <page>4</page>
 <line>34</line>
-<wksbe_common_flag><![CDATA[N]]></wksbe_common_flag>
-<wksbe_eul_rank_no/>
-<wksbe_rgs_aim_cont/>
-<wksbe_receve/>
-<wksbe_rgs_caus/>
-<wksbe_nomprs_and_etc><![CDATA[4^&606호&]]></wksbe_nomprs_and_etc>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve />
+<wksbe_rgs_caus />
+<wksbe_nomprs_and_etc>4^&amp;606호&amp;</wksbe_nomprs_and_etc>
 </item>
 <item>
 <type>E</type>
 <page>4</page>
 <line>35</line>
-<wksbe_common_flag><![CDATA[N]]></wksbe_common_flag>
-<wksbe_eul_rank_no/>
-<wksbe_rgs_aim_cont/>
-<wksbe_receve/>
-<wksbe_rgs_caus/>
-<wksbe_nomprs_and_etc><![CDATA[&근저당권자  &&주식회사한국외환은행&& &]]></wksbe_nomprs_and_etc>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve />
+<wksbe_rgs_caus />
+<wksbe_nomprs_and_etc>&amp;근저당권자  &amp;&amp;주식회사한국외환은행&amp;&amp; &amp;</wksbe_nomprs_and_etc>
 </item>
 <item>
 <type>E</type>
 <page>4</page>
 <line>36</line>
-<wksbe_common_flag><![CDATA[N]]></wksbe_common_flag>
-<wksbe_eul_rank_no/>
-<wksbe_rgs_aim_cont/>
-<wksbe_receve/>
-<wksbe_rgs_caus/>
-<wksbe_nomprs_and_etc><![CDATA[12^&&&110111-0672538&]]></wksbe_nomprs_and_etc>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve />
+<wksbe_rgs_caus />
+<wksbe_nomprs_and_etc>12^&amp;&amp;&amp;110111-0672538&amp;</wksbe_nomprs_and_etc>
 </item>
 <item>
 <type>E</type>
 <page>4</page>
 <line>37</line>
-<wksbe_common_flag><![CDATA[N]]></wksbe_common_flag>
-<wksbe_eul_rank_no/>
-<wksbe_rgs_aim_cont/>
-<wksbe_receve/>
-<wksbe_rgs_caus/>
-<wksbe_nomprs_and_etc><![CDATA[4^&서울 중구 을지로2가 181&]]></wksbe_nomprs_and_etc>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve />
+<wksbe_rgs_caus />
+<wksbe_nomprs_and_etc>4^&amp;서울 중구 을지로2가 181&amp;</wksbe_nomprs_and_etc>
 </item>
 <item>
 <type>E</type>
 <page>4</page>
 <line>38</line>
-<wksbe_common_flag><![CDATA[5]]></wksbe_common_flag>
-<wksbe_eul_rank_no/>
-<wksbe_rgs_aim_cont/>
-<wksbe_receve/>
-<wksbe_rgs_caus/>
-<wksbe_nomprs_and_etc><![CDATA[4^&( 남동공단지점 )&]]></wksbe_nomprs_and_etc>
+<wksbe_common_flag>5</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve />
+<wksbe_rgs_caus />
+<wksbe_nomprs_and_etc>4^&amp;( 남동공단지점 )&amp;</wksbe_nomprs_and_etc>
 </item>
 <item>
 <type>E</type>
 <page>4</page>
 <line>40</line>
-<wksbe_common_flag><![CDATA[N]]></wksbe_common_flag>
-<wksbe_eul_rank_no/>
-<wksbe_rgs_aim_cont/>
-<wksbe_receve/>
-<wksbe_rgs_caus/>
-<wksbe_nomprs_and_etc><![CDATA[부동산등기법 제177조의 6 제1항의 규정에]]></wksbe_nomprs_and_etc>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve />
+<wksbe_rgs_caus />
+<wksbe_nomprs_and_etc>부동산등기법 제177조의 6 제1항의 규정에</wksbe_nomprs_and_etc>
 </item>
 <item>
 <type>E</type>
 <page>4</page>
 <line>41</line>
-<wksbe_common_flag><![CDATA[N]]></wksbe_common_flag>
-<wksbe_eul_rank_no/>
-<wksbe_rgs_aim_cont/>
-<wksbe_receve/>
-<wksbe_rgs_caus/>
-<wksbe_nomprs_and_etc><![CDATA[의하여 1번 내지 2번 등기를 1999년 06월 24일]]></wksbe_nomprs_and_etc>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve />
+<wksbe_rgs_caus />
+<wksbe_nomprs_and_etc>의하여 1번 내지 2번 등기를 1999년 06월 24일</wksbe_nomprs_and_etc>
 </item>
 <item>
 <type>E</type>
 <page>4</page>
 <line>42</line>
-<wksbe_common_flag><![CDATA[1]]></wksbe_common_flag>
-<wksbe_eul_rank_no/>
-<wksbe_rgs_aim_cont/>
-<wksbe_receve/>
-<wksbe_rgs_caus/>
-<wksbe_nomprs_and_etc><![CDATA[전산이기]]></wksbe_nomprs_and_etc>
+<wksbe_common_flag>1</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve />
+<wksbe_rgs_caus />
+<wksbe_nomprs_and_etc>전산이기</wksbe_nomprs_and_etc>
 </item>
 <item>
 <type>E</type>
 <page>4</page>
 <line>44</line>
-<wksbe_common_flag><![CDATA[N]]></wksbe_common_flag>
-<wksbe_eul_rank_no><![CDATA[3]]></wksbe_eul_rank_no>
-<wksbe_rgs_aim_cont><![CDATA[1번근저당권설정등]]></wksbe_rgs_aim_cont>
-<wksbe_receve><![CDATA[2001년4월3일]]></wksbe_receve>
-<wksbe_rgs_caus><![CDATA[2001년4월2일]]></wksbe_rgs_caus>
-<wksbe_nomprs_and_etc/>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no>3</wksbe_eul_rank_no>
+<wksbe_rgs_aim_cont>1번근저당권설정등</wksbe_rgs_aim_cont>
+<wksbe_receve>2001년4월3일</wksbe_receve>
+<wksbe_rgs_caus>2001년4월2일</wksbe_rgs_caus>
+<wksbe_nomprs_and_etc />
 </item>
 <item>
 <type>E</type>
 <page>4</page>
 <line>45</line>
-<wksbe_common_flag><![CDATA[1]]></wksbe_common_flag>
-<wksbe_eul_rank_no/>
-<wksbe_rgs_aim_cont><![CDATA[기말소]]></wksbe_rgs_aim_cont>
-<wksbe_receve><![CDATA[제12698호]]></wksbe_receve>
-<wksbe_rgs_caus><![CDATA[해지]]></wksbe_rgs_caus>
-<wksbe_nomprs_and_etc/>
+<wksbe_common_flag>1</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont>기말소</wksbe_rgs_aim_cont>
+<wksbe_receve>제12698호</wksbe_receve>
+<wksbe_rgs_caus>해지</wksbe_rgs_caus>
+<wksbe_nomprs_and_etc />
 </item>
 <item>
 <type>E</type>
 <page>4</page>
 <line>47</line>
-<wksbe_common_flag><![CDATA[N]]></wksbe_common_flag>
-<wksbe_eul_rank_no><![CDATA[4]]></wksbe_eul_rank_no>
-<wksbe_rgs_aim_cont><![CDATA[2번근저당권설정등]]></wksbe_rgs_aim_cont>
-<wksbe_receve><![CDATA[2001년4월3일]]></wksbe_receve>
-<wksbe_rgs_caus><![CDATA[2001년4월2일]]></wksbe_rgs_caus>
-<wksbe_nomprs_and_etc/>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no>4</wksbe_eul_rank_no>
+<wksbe_rgs_aim_cont>2번근저당권설정등</wksbe_rgs_aim_cont>
+<wksbe_receve>2001년4월3일</wksbe_receve>
+<wksbe_rgs_caus>2001년4월2일</wksbe_rgs_caus>
+<wksbe_nomprs_and_etc />
 </item>
 <item>
 <type>E</type>
 <page>4</page>
 <line>48</line>
-<wksbe_common_flag><![CDATA[1]]></wksbe_common_flag>
-<wksbe_eul_rank_no/>
-<wksbe_rgs_aim_cont><![CDATA[기말소]]></wksbe_rgs_aim_cont>
-<wksbe_receve><![CDATA[제12699호]]></wksbe_receve>
-<wksbe_rgs_caus><![CDATA[해지]]></wksbe_rgs_caus>
-<wksbe_nomprs_and_etc/>
+<wksbe_common_flag>1</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont>기말소</wksbe_rgs_aim_cont>
+<wksbe_receve>제12699호</wksbe_receve>
+<wksbe_rgs_caus>해지</wksbe_rgs_caus>
+<wksbe_nomprs_and_etc />
 </item>
 <item>
 <type>E</type>
 <page>4</page>
 <line>50</line>
-<wksbe_common_flag><![CDATA[N]]></wksbe_common_flag>
-<wksbe_eul_rank_no><![CDATA[&5&]]></wksbe_eul_rank_no>
-<wksbe_rgs_aim_cont><![CDATA[&근저당권설정&]]></wksbe_rgs_aim_cont>
-<wksbe_receve><![CDATA[&2001년4월6일&]]></wksbe_receve>
-<wksbe_rgs_caus><![CDATA[&2001년4월6일&]]></wksbe_rgs_caus>
-<wksbe_nomprs_and_etc><![CDATA[&&&채권최고액  금72,000,000원&]]></wksbe_nomprs_and_etc>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no>&amp;5&amp;</wksbe_eul_rank_no>
+<wksbe_rgs_aim_cont>&amp;근저당권설정&amp;</wksbe_rgs_aim_cont>
+<wksbe_receve>&amp;2001년4월6일&amp;</wksbe_receve>
+<wksbe_rgs_caus>&amp;2001년4월6일&amp;</wksbe_rgs_caus>
+<wksbe_nomprs_and_etc>&amp;&amp;&amp;채권최고액  금72,000,000원&amp;</wksbe_nomprs_and_etc>
 </item>
 <item>
 <type>E</type>
 <page>4</page>
 <line>51</line>
-<wksbe_common_flag><![CDATA[N]]></wksbe_common_flag>
-<wksbe_eul_rank_no/>
-<wksbe_rgs_aim_cont/>
-<wksbe_receve><![CDATA[&제13148호&]]></wksbe_receve>
-<wksbe_rgs_caus><![CDATA[&설정계약&]]></wksbe_rgs_caus>
-<wksbe_nomprs_and_etc><![CDATA[&채무자  &&유혜숙&]]></wksbe_nomprs_and_etc>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve>&amp;제13148호&amp;</wksbe_receve>
+<wksbe_rgs_caus>&amp;설정계약&amp;</wksbe_rgs_caus>
+<wksbe_nomprs_and_etc>&amp;채무자  &amp;&amp;유혜숙&amp;</wksbe_nomprs_and_etc>
 </item>
 <item>
 <type>E</type>
 <page>4</page>
 <line>52</line>
-<wksbe_common_flag><![CDATA[N]]></wksbe_common_flag>
-<wksbe_eul_rank_no/>
-<wksbe_rgs_aim_cont/>
-<wksbe_receve/>
-<wksbe_rgs_caus/>
-<wksbe_nomprs_and_etc><![CDATA[4^&서울 동작구 상도동 211-149&]]></wksbe_nomprs_and_etc>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve />
+<wksbe_rgs_caus />
+<wksbe_nomprs_and_etc>4^&amp;서울 동작구 상도동 211-149&amp;</wksbe_nomprs_and_etc>
 </item>
 <item>
 <type>E</type>
 <page>5</page>
 <line>10</line>
-<wksbe_common_flag><![CDATA[N]]></wksbe_common_flag>
-<wksbe_eul_rank_no/>
-<wksbe_rgs_aim_cont/>
-<wksbe_receve/>
-<wksbe_rgs_caus/>
-<wksbe_nomprs_and_etc><![CDATA[&근저당권자  &&주식회사국민은행&&  &&110111-0015655&]]></wksbe_nomprs_and_etc>
-<cert_cls><![CDATA[res]]></cert_cls>
-<pin_no><![CDATA[11431996047250]]></pin_no>
-<address><![CDATA[[집합건물] 서울특별시 관악구 봉천동 1698-1외 5필지 보라매삼성아파트 제102동 제15층 제1505호]]></address>
-<CallPosition><![CDATA[INTERNET_ALL]]></CallPosition>
-<txt_comp_free_cls><![CDATA[1]]></txt_comp_free_cls>
-<report_kind><![CDATA[1001]]></report_kind>
-<iss_date><![CDATA[2024/05/05]]></iss_date>
-<reg_cls><![CDATA[12]]></reg_cls>
-<dbl_cnt><![CDATA[1]]></dbl_cnt>
-<total_page><![CDATA[6]]></total_page>
-<iss_no><![CDATA[114202110031940510109600510HA0472643M1265032091112]]></iss_no>
-<etr_yn><![CDATA[N]]></etr_yn>
-<sum_yn><![CDATA[Y]]></sum_yn>
-<fee><![CDATA[700]]></fee>
-<fee_Out><![CDATA[700원 영수함]]></fee_Out>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve />
+<wksbe_rgs_caus />
+<wksbe_nomprs_and_etc>&amp;근저당권자  &amp;&amp;주식회사국민은행&amp;&amp;  &amp;&amp;110111-0015655&amp;</wksbe_nomprs_and_etc>
+<cert_cls>res</cert_cls>
+<pin_no>11431996047250</pin_no>
+<address>[집합건물] 서울특별시 관악구 봉천동 1698-1외 5필지 보라매삼성아파트 제102동 제15층 제1505호</address>
+<CallPosition>INTERNET_ALL</CallPosition>
+<txt_comp_free_cls>1</txt_comp_free_cls>
+<report_kind>1</report_kind>
+<iss_date>2024/05/15</iss_date>
+<reg_cls>12</reg_cls>
+<dbl_cnt>1</dbl_cnt>
+<total_page>7</total_page>
+<iss_no>114202110031940510109601510HA0472649M1275040091112</iss_no>
+<etr_yn>N</etr_yn>
+<sum_yn>Y</sum_yn>
+<fee>700</fee>
+<fee_Out>700원 영수함</fee_Out>
 <gubun_flag>E</gubun_flag>
-<jangsu><![CDATA[1]]></jangsu>
-<regt_cls><![CDATA[12]]></regt_cls>
-<wkreal_div_cd><![CDATA[4]]></wkreal_div_cd>
+<jangsu>1</jangsu>
+<regt_cls>12</regt_cls>
+<wkreal_div_cd>4</wkreal_div_cd>
 </item>
 <item>
 <type>E</type>
 <page>5</page>
 <line>11</line>
-<wksbe_common_flag><![CDATA[N]]></wksbe_common_flag>
-<wksbe_eul_rank_no/>
-<wksbe_rgs_aim_cont/>
-<wksbe_receve/>
-<wksbe_rgs_caus/>
-<wksbe_nomprs_and_etc><![CDATA[4^&서울 중구 남대문로2가 9-1&]]></wksbe_nomprs_and_etc>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve />
+<wksbe_rgs_caus />
+<wksbe_nomprs_and_etc>4^&amp;서울 중구 남대문로2가 9-1&amp;</wksbe_nomprs_and_etc>
 </item>
 <item>
 <type>E</type>
 <page>5</page>
 <line>12</line>
-<wksbe_common_flag><![CDATA[1]]></wksbe_common_flag>
-<wksbe_eul_rank_no/>
-<wksbe_rgs_aim_cont/>
-<wksbe_receve/>
-<wksbe_rgs_caus/>
-<wksbe_nomprs_and_etc><![CDATA[4^&( 사당동지점 )&]]></wksbe_nomprs_and_etc>
+<wksbe_common_flag>1</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve />
+<wksbe_rgs_caus />
+<wksbe_nomprs_and_etc>4^&amp;( 사당동지점 )&amp;</wksbe_nomprs_and_etc>
 </item>
 <item>
 <type>E</type>
 <page>5</page>
 <line>14</line>
-<wksbe_common_flag><![CDATA[N]]></wksbe_common_flag>
-<wksbe_eul_rank_no><![CDATA[&5-1&]]></wksbe_eul_rank_no>
-<wksbe_rgs_aim_cont><![CDATA[&5번근저당권이전&]]></wksbe_rgs_aim_cont>
-<wksbe_receve><![CDATA[&2004년5월11일&]]></wksbe_receve>
-<wksbe_rgs_caus><![CDATA[&2001년11월1일&]]></wksbe_rgs_caus>
-<wksbe_nomprs_and_etc><![CDATA[&근저당권자  &&주식회사국민은행&&  &&110111-2365321&]]></wksbe_nomprs_and_etc>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no>&amp;5-1&amp;</wksbe_eul_rank_no>
+<wksbe_rgs_aim_cont>&amp;5번근저당권이전&amp;</wksbe_rgs_aim_cont>
+<wksbe_receve>&amp;2004년5월11일&amp;</wksbe_receve>
+<wksbe_rgs_caus>&amp;2001년11월1일&amp;</wksbe_rgs_caus>
+<wksbe_nomprs_and_etc>&amp;근저당권자  &amp;&amp;주식회사국민은행&amp;&amp;  &amp;&amp;110111-2365321&amp;</wksbe_nomprs_and_etc>
 </item>
 <item>
 <type>E</type>
 <page>5</page>
 <line>15</line>
-<wksbe_common_flag><![CDATA[N]]></wksbe_common_flag>
-<wksbe_eul_rank_no/>
-<wksbe_rgs_aim_cont/>
-<wksbe_receve><![CDATA[&제21405호&]]></wksbe_receve>
-<wksbe_rgs_caus><![CDATA[&회사합병&]]></wksbe_rgs_caus>
-<wksbe_nomprs_and_etc><![CDATA[4^&서울 중구 남대문로2가 9-1&]]></wksbe_nomprs_and_etc>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve>&amp;제21405호&amp;</wksbe_receve>
+<wksbe_rgs_caus>&amp;회사합병&amp;</wksbe_rgs_caus>
+<wksbe_nomprs_and_etc>4^&amp;서울 중구 남대문로2가 9-1&amp;</wksbe_nomprs_and_etc>
 </item>
 <item>
 <type>E</type>
 <page>5</page>
 <line>16</line>
-<wksbe_common_flag><![CDATA[1]]></wksbe_common_flag>
-<wksbe_eul_rank_no/>
-<wksbe_rgs_aim_cont/>
-<wksbe_receve/>
-<wksbe_rgs_caus/>
-<wksbe_nomprs_and_etc><![CDATA[4^&( 이수역지점 )&]]></wksbe_nomprs_and_etc>
+<wksbe_common_flag>1</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve />
+<wksbe_rgs_caus />
+<wksbe_nomprs_and_etc>4^&amp;( 이수역지점 )&amp;</wksbe_nomprs_and_etc>
 </item>
 <item>
 <type>E</type>
 <page>5</page>
 <line>18</line>
-<wksbe_common_flag><![CDATA[N]]></wksbe_common_flag>
-<wksbe_eul_rank_no><![CDATA[6]]></wksbe_eul_rank_no>
-<wksbe_rgs_aim_cont><![CDATA[5번근저당권설정등]]></wksbe_rgs_aim_cont>
-<wksbe_receve><![CDATA[2004년5월11일]]></wksbe_receve>
-<wksbe_rgs_caus><![CDATA[2004년5월11일]]></wksbe_rgs_caus>
-<wksbe_nomprs_and_etc/>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no>6</wksbe_eul_rank_no>
+<wksbe_rgs_aim_cont>5번근저당권설정등</wksbe_rgs_aim_cont>
+<wksbe_receve>2004년5월11일</wksbe_receve>
+<wksbe_rgs_caus>2004년5월11일</wksbe_rgs_caus>
+<wksbe_nomprs_and_etc />
 </item>
 <item>
 <type>E</type>
 <page>5</page>
 <line>19</line>
-<wksbe_common_flag><![CDATA[1]]></wksbe_common_flag>
-<wksbe_eul_rank_no/>
-<wksbe_rgs_aim_cont><![CDATA[기말소]]></wksbe_rgs_aim_cont>
-<wksbe_receve><![CDATA[제21406호]]></wksbe_receve>
-<wksbe_rgs_caus><![CDATA[해지]]></wksbe_rgs_caus>
-<wksbe_nomprs_and_etc/>
+<wksbe_common_flag>1</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont>기말소</wksbe_rgs_aim_cont>
+<wksbe_receve>제21406호</wksbe_receve>
+<wksbe_rgs_caus>해지</wksbe_rgs_caus>
+<wksbe_nomprs_and_etc />
 </item>
 <item>
 <type>E</type>
 <page>5</page>
 <line>21</line>
-<wksbe_common_flag><![CDATA[N]]></wksbe_common_flag>
-<wksbe_eul_rank_no><![CDATA[&7&]]></wksbe_eul_rank_no>
-<wksbe_rgs_aim_cont><![CDATA[&근저당권설정&]]></wksbe_rgs_aim_cont>
-<wksbe_receve><![CDATA[&2019년9월5일&]]></wksbe_receve>
-<wksbe_rgs_caus><![CDATA[&2019년9월5일&]]></wksbe_rgs_caus>
-<wksbe_nomprs_and_etc><![CDATA[&&&채권최고액  금201,500,000원&]]></wksbe_nomprs_and_etc>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no>&amp;7&amp;</wksbe_eul_rank_no>
+<wksbe_rgs_aim_cont>&amp;근저당권설정&amp;</wksbe_rgs_aim_cont>
+<wksbe_receve>&amp;2019년9월5일&amp;</wksbe_receve>
+<wksbe_rgs_caus>&amp;2019년9월5일&amp;</wksbe_rgs_caus>
+<wksbe_nomprs_and_etc>&amp;&amp;&amp;채권최고액  금201,500,000원&amp;</wksbe_nomprs_and_etc>
 </item>
 <item>
 <type>E</type>
 <page>5</page>
 <line>22</line>
-<wksbe_common_flag><![CDATA[N]]></wksbe_common_flag>
-<wksbe_eul_rank_no/>
-<wksbe_rgs_aim_cont/>
-<wksbe_receve><![CDATA[&제134011호&]]></wksbe_receve>
-<wksbe_rgs_caus><![CDATA[&설정계약&]]></wksbe_rgs_caus>
-<wksbe_nomprs_and_etc><![CDATA[&채무자  &&이명천&]]></wksbe_nomprs_and_etc>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve>&amp;제134011호&amp;</wksbe_receve>
+<wksbe_rgs_caus>&amp;설정계약&amp;</wksbe_rgs_caus>
+<wksbe_nomprs_and_etc>&amp;채무자  &amp;&amp;이명천&amp;</wksbe_nomprs_and_etc>
 </item>
 <item>
 <type>E</type>
 <page>5</page>
 <line>23</line>
-<wksbe_common_flag><![CDATA[N]]></wksbe_common_flag>
-<wksbe_eul_rank_no/>
-<wksbe_rgs_aim_cont/>
-<wksbe_receve/>
-<wksbe_rgs_caus/>
-<wksbe_nomprs_and_etc><![CDATA[4^&서울특별시 동작구  보라매로 70, 102동&]]></wksbe_nomprs_and_etc>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve />
+<wksbe_rgs_caus />
+<wksbe_nomprs_and_etc>4^&amp;서울특별시 동작구  보라매로 70, 102동&amp;</wksbe_nomprs_and_etc>
 </item>
 <item>
 <type>E</type>
 <page>5</page>
 <line>24</line>
-<wksbe_common_flag><![CDATA[N]]></wksbe_common_flag>
-<wksbe_eul_rank_no/>
-<wksbe_rgs_aim_cont/>
-<wksbe_receve/>
-<wksbe_rgs_caus/>
-<wksbe_nomprs_and_etc><![CDATA[4^&406호 (신대방동, 보라매이편한세상아파트)&]]></wksbe_nomprs_and_etc>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve />
+<wksbe_rgs_caus />
+<wksbe_nomprs_and_etc>4^&amp;406호 (신대방동, 보라매이편한세상아파트)&amp;</wksbe_nomprs_and_etc>
 </item>
 <item>
 <type>E</type>
 <page>5</page>
 <line>25</line>
-<wksbe_common_flag><![CDATA[N]]></wksbe_common_flag>
-<wksbe_eul_rank_no/>
-<wksbe_rgs_aim_cont/>
-<wksbe_receve/>
-<wksbe_rgs_caus/>
-<wksbe_nomprs_and_etc><![CDATA[&근저당권자  &&주식회사제이피인베스트먼트대부&& &]]></wksbe_nomprs_and_etc>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve />
+<wksbe_rgs_caus />
+<wksbe_nomprs_and_etc>&amp;근저당권자  &amp;&amp;주식회사제이피인베스트먼트대부&amp;&amp; &amp;</wksbe_nomprs_and_etc>
 </item>
 <item>
 <type>E</type>
 <page>5</page>
 <line>26</line>
-<wksbe_common_flag><![CDATA[N]]></wksbe_common_flag>
-<wksbe_eul_rank_no/>
-<wksbe_rgs_aim_cont/>
-<wksbe_receve/>
-<wksbe_rgs_caus/>
-<wksbe_nomprs_and_etc><![CDATA[12^&&&110111-4675140&]]></wksbe_nomprs_and_etc>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve />
+<wksbe_rgs_caus />
+<wksbe_nomprs_and_etc>12^&amp;&amp;&amp;110111-4675140&amp;</wksbe_nomprs_and_etc>
 </item>
 <item>
 <type>E</type>
 <page>5</page>
 <line>27</line>
-<wksbe_common_flag><![CDATA[N]]></wksbe_common_flag>
-<wksbe_eul_rank_no/>
-<wksbe_rgs_aim_cont/>
-<wksbe_receve/>
-<wksbe_rgs_caus/>
-<wksbe_nomprs_and_etc><![CDATA[4^&서울특별시 강남구 테헤란로 322 ,&]]></wksbe_nomprs_and_etc>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve />
+<wksbe_rgs_caus />
+<wksbe_nomprs_and_etc>4^&amp;서울특별시 강남구 테헤란로 322 ,&amp;</wksbe_nomprs_and_etc>
 </item>
 <item>
 <type>E</type>
 <page>5</page>
 <line>28</line>
-<wksbe_common_flag><![CDATA[N]]></wksbe_common_flag>
-<wksbe_eul_rank_no/>
-<wksbe_rgs_aim_cont/>
-<wksbe_receve/>
-<wksbe_rgs_caus/>
-<wksbe_nomprs_and_etc><![CDATA[4^&1313,1314호(역삼동,&]]></wksbe_nomprs_and_etc>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve />
+<wksbe_rgs_caus />
+<wksbe_nomprs_and_etc>4^&amp;1313,1314호(역삼동,&amp;</wksbe_nomprs_and_etc>
 </item>
 <item>
 <type>E</type>
 <page>5</page>
 <line>29</line>
-<wksbe_common_flag><![CDATA[1]]></wksbe_common_flag>
-<wksbe_eul_rank_no/>
-<wksbe_rgs_aim_cont/>
-<wksbe_receve/>
-<wksbe_rgs_caus/>
-<wksbe_nomprs_and_etc><![CDATA[4^&한신인터밸리24빌딩서관)&]]></wksbe_nomprs_and_etc>
+<wksbe_common_flag>1</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve />
+<wksbe_rgs_caus />
+<wksbe_nomprs_and_etc>4^&amp;한신인터밸리24빌딩서관)&amp;</wksbe_nomprs_and_etc>
 </item>
 <item>
 <type>E</type>
 <page>5</page>
 <line>31</line>
-<wksbe_common_flag><![CDATA[N]]></wksbe_common_flag>
-<wksbe_eul_rank_no><![CDATA[&7-1&]]></wksbe_eul_rank_no>
-<wksbe_rgs_aim_cont><![CDATA[&7번근저당권부채권&]]></wksbe_rgs_aim_cont>
-<wksbe_receve><![CDATA[&2019년9월16일&]]></wksbe_receve>
-<wksbe_rgs_caus><![CDATA[&2019년9월11일&]]></wksbe_rgs_caus>
-<wksbe_nomprs_and_etc><![CDATA[&&&채권액  금201,500,000원&]]></wksbe_nomprs_and_etc>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no>&amp;7-1&amp;</wksbe_eul_rank_no>
+<wksbe_rgs_aim_cont>&amp;7번근저당권부채권&amp;</wksbe_rgs_aim_cont>
+<wksbe_receve>&amp;2019년9월16일&amp;</wksbe_receve>
+<wksbe_rgs_caus>&amp;2019년9월11일&amp;</wksbe_rgs_caus>
+<wksbe_nomprs_and_etc>&amp;&amp;&amp;채권액  금201,500,000원&amp;</wksbe_nomprs_and_etc>
 </item>
 <item>
 <type>E</type>
 <page>5</page>
 <line>32</line>
-<wksbe_common_flag><![CDATA[N]]></wksbe_common_flag>
-<wksbe_eul_rank_no/>
-<wksbe_rgs_aim_cont><![CDATA[&질권설정&]]></wksbe_rgs_aim_cont>
-<wksbe_receve><![CDATA[&제138685호&]]></wksbe_receve>
-<wksbe_rgs_caus><![CDATA[&설정계약&]]></wksbe_rgs_caus>
-<wksbe_nomprs_and_etc><![CDATA[&채무자  &&주식회사제이피인베스트먼트대부&]]></wksbe_nomprs_and_etc>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont>&amp;질권설정&amp;</wksbe_rgs_aim_cont>
+<wksbe_receve>&amp;제138685호&amp;</wksbe_receve>
+<wksbe_rgs_caus>&amp;설정계약&amp;</wksbe_rgs_caus>
+<wksbe_nomprs_and_etc>&amp;채무자  &amp;&amp;주식회사제이피인베스트먼트대부&amp;</wksbe_nomprs_and_etc>
 </item>
 <item>
 <type>E</type>
 <page>5</page>
 <line>33</line>
-<wksbe_common_flag><![CDATA[N]]></wksbe_common_flag>
-<wksbe_eul_rank_no/>
-<wksbe_rgs_aim_cont/>
-<wksbe_receve/>
-<wksbe_rgs_caus/>
-<wksbe_nomprs_and_etc><![CDATA[4^&서울특별시 강남구 테헤란로 322 ,&]]></wksbe_nomprs_and_etc>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve />
+<wksbe_rgs_caus />
+<wksbe_nomprs_and_etc>4^&amp;서울특별시 강남구 테헤란로 322 ,&amp;</wksbe_nomprs_and_etc>
 </item>
 <item>
 <type>E</type>
 <page>5</page>
 <line>34</line>
-<wksbe_common_flag><![CDATA[N]]></wksbe_common_flag>
-<wksbe_eul_rank_no/>
-<wksbe_rgs_aim_cont/>
-<wksbe_receve/>
-<wksbe_rgs_caus/>
-<wksbe_nomprs_and_etc><![CDATA[4^&1313,1314호(역삼동,&]]></wksbe_nomprs_and_etc>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve />
+<wksbe_rgs_caus />
+<wksbe_nomprs_and_etc>4^&amp;1313,1314호(역삼동,&amp;</wksbe_nomprs_and_etc>
 </item>
 <item>
 <type>E</type>
 <page>5</page>
 <line>35</line>
-<wksbe_common_flag><![CDATA[N]]></wksbe_common_flag>
-<wksbe_eul_rank_no/>
-<wksbe_rgs_aim_cont/>
-<wksbe_receve/>
-<wksbe_rgs_caus/>
-<wksbe_nomprs_and_etc><![CDATA[4^&한신인터밸리24빌딩서관)&]]></wksbe_nomprs_and_etc>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve />
+<wksbe_rgs_caus />
+<wksbe_nomprs_and_etc>4^&amp;한신인터밸리24빌딩서관)&amp;</wksbe_nomprs_and_etc>
 </item>
 <item>
 <type>E</type>
 <page>5</page>
 <line>36</line>
-<wksbe_common_flag><![CDATA[N]]></wksbe_common_flag>
-<wksbe_eul_rank_no/>
-<wksbe_rgs_aim_cont/>
-<wksbe_receve/>
-<wksbe_rgs_caus/>
-<wksbe_nomprs_and_etc><![CDATA[&채권자  &&효성캐피탈주식회사&&  &&110111-1419286&]]></wksbe_nomprs_and_etc>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve />
+<wksbe_rgs_caus />
+<wksbe_nomprs_and_etc>&amp;채권자  &amp;&amp;효성캐피탈주식회사&amp;&amp;  &amp;&amp;110111-1419286&amp;</wksbe_nomprs_and_etc>
 </item>
 <item>
 <type>E</type>
 <page>5</page>
 <line>37</line>
-<wksbe_common_flag><![CDATA[1]]></wksbe_common_flag>
-<wksbe_eul_rank_no/>
-<wksbe_rgs_aim_cont/>
-<wksbe_receve/>
-<wksbe_rgs_caus/>
-<wksbe_nomprs_and_etc><![CDATA[4^&서울특별시 강남구 도산대로 306(논현동)&]]></wksbe_nomprs_and_etc>
+<wksbe_common_flag>1</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve />
+<wksbe_rgs_caus />
+<wksbe_nomprs_and_etc>4^&amp;서울특별시 강남구 도산대로 306(논현동)&amp;</wksbe_nomprs_and_etc>
 </item>
 <item>
 <type>E</type>
 <page>5</page>
 <line>39</line>
-<wksbe_common_flag><![CDATA[N]]></wksbe_common_flag>
-<wksbe_eul_rank_no><![CDATA[&8&]]></wksbe_eul_rank_no>
-<wksbe_rgs_aim_cont><![CDATA[&근저당권설정&]]></wksbe_rgs_aim_cont>
-<wksbe_receve><![CDATA[&2020년8월4일&]]></wksbe_receve>
-<wksbe_rgs_caus><![CDATA[&2020년8월4일&]]></wksbe_rgs_caus>
-<wksbe_nomprs_and_etc><![CDATA[&&&채권최고액  금186,000,000원&]]></wksbe_nomprs_and_etc>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no>&amp;8&amp;</wksbe_eul_rank_no>
+<wksbe_rgs_aim_cont>&amp;근저당권설정&amp;</wksbe_rgs_aim_cont>
+<wksbe_receve>&amp;2020년8월4일&amp;</wksbe_receve>
+<wksbe_rgs_caus>&amp;2020년8월4일&amp;</wksbe_rgs_caus>
+<wksbe_nomprs_and_etc>&amp;&amp;&amp;채권최고액  금186,000,000원&amp;</wksbe_nomprs_and_etc>
 </item>
 <item>
 <type>E</type>
 <page>5</page>
 <line>40</line>
-<wksbe_common_flag><![CDATA[N]]></wksbe_common_flag>
-<wksbe_eul_rank_no/>
-<wksbe_rgs_aim_cont/>
-<wksbe_receve><![CDATA[&제137299호&]]></wksbe_receve>
-<wksbe_rgs_caus><![CDATA[&설정계약&]]></wksbe_rgs_caus>
-<wksbe_nomprs_and_etc><![CDATA[&채무자  &&이명천&]]></wksbe_nomprs_and_etc>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve>&amp;제137299호&amp;</wksbe_receve>
+<wksbe_rgs_caus>&amp;설정계약&amp;</wksbe_rgs_caus>
+<wksbe_nomprs_and_etc>&amp;채무자  &amp;&amp;이명천&amp;</wksbe_nomprs_and_etc>
 </item>
 <item>
 <type>E</type>
 <page>5</page>
 <line>41</line>
-<wksbe_common_flag><![CDATA[N]]></wksbe_common_flag>
-<wksbe_eul_rank_no/>
-<wksbe_rgs_aim_cont/>
-<wksbe_receve/>
-<wksbe_rgs_caus/>
-<wksbe_nomprs_and_etc><![CDATA[4^&서울특별시 동작구  보라매로 70, 102동&]]></wksbe_nomprs_and_etc>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve />
+<wksbe_rgs_caus />
+<wksbe_nomprs_and_etc>4^&amp;서울특별시 동작구  보라매로 70, 102동&amp;</wksbe_nomprs_and_etc>
 </item>
 <item>
 <type>E</type>
 <page>5</page>
 <line>42</line>
-<wksbe_common_flag><![CDATA[N]]></wksbe_common_flag>
-<wksbe_eul_rank_no/>
-<wksbe_rgs_aim_cont/>
-<wksbe_receve/>
-<wksbe_rgs_caus/>
-<wksbe_nomprs_and_etc><![CDATA[4^&406호 (신대방동, 보라매이편한세상아파트)&]]></wksbe_nomprs_and_etc>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve />
+<wksbe_rgs_caus />
+<wksbe_nomprs_and_etc>4^&amp;406호 (신대방동, 보라매이편한세상아파트)&amp;</wksbe_nomprs_and_etc>
 </item>
 <item>
 <type>E</type>
 <page>5</page>
 <line>43</line>
-<wksbe_common_flag><![CDATA[N]]></wksbe_common_flag>
-<wksbe_eul_rank_no/>
-<wksbe_rgs_aim_cont/>
-<wksbe_receve/>
-<wksbe_rgs_caus/>
-<wksbe_nomprs_and_etc><![CDATA[&근저당권자  &&주식회사모아저축은행&& &]]></wksbe_nomprs_and_etc>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve />
+<wksbe_rgs_caus />
+<wksbe_nomprs_and_etc>&amp;근저당권자  &amp;&amp;주식회사모아저축은행&amp;&amp; &amp;</wksbe_nomprs_and_etc>
 </item>
 <item>
 <type>E</type>
 <page>5</page>
 <line>44</line>
-<wksbe_common_flag><![CDATA[N]]></wksbe_common_flag>
-<wksbe_eul_rank_no/>
-<wksbe_rgs_aim_cont/>
-<wksbe_receve/>
-<wksbe_rgs_caus/>
-<wksbe_nomprs_and_etc><![CDATA[12^&&&120111-0000331&]]></wksbe_nomprs_and_etc>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve />
+<wksbe_rgs_caus />
+<wksbe_nomprs_and_etc>12^&amp;&amp;&amp;120111-0000331&amp;</wksbe_nomprs_and_etc>
 </item>
 <item>
 <type>E</type>
 <page>5</page>
 <line>45</line>
-<wksbe_common_flag><![CDATA[N]]></wksbe_common_flag>
-<wksbe_eul_rank_no/>
-<wksbe_rgs_aim_cont/>
-<wksbe_receve/>
-<wksbe_rgs_caus/>
-<wksbe_nomprs_and_etc><![CDATA[4^&인천광역시 미추홀구 경인로 406(주안동)&]]></wksbe_nomprs_and_etc>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve />
+<wksbe_rgs_caus />
+<wksbe_nomprs_and_etc>4^&amp;인천광역시 미추홀구 경인로 406(주안동)&amp;</wksbe_nomprs_and_etc>
 </item>
 <item>
 <type>E</type>
 <page>5</page>
 <line>46</line>
-<wksbe_common_flag><![CDATA[1]]></wksbe_common_flag>
-<wksbe_eul_rank_no/>
-<wksbe_rgs_aim_cont/>
-<wksbe_receve/>
-<wksbe_rgs_caus/>
-<wksbe_nomprs_and_etc><![CDATA[4^&( 리테일금융센터지점 )&]]></wksbe_nomprs_and_etc>
+<wksbe_common_flag>1</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve />
+<wksbe_rgs_caus />
+<wksbe_nomprs_and_etc>4^&amp;( 리테일금융센터지점 )&amp;</wksbe_nomprs_and_etc>
 </item>
 <item>
 <type>E</type>
 <page>5</page>
 <line>48</line>
-<wksbe_common_flag><![CDATA[N]]></wksbe_common_flag>
-<wksbe_eul_rank_no><![CDATA[9]]></wksbe_eul_rank_no>
-<wksbe_rgs_aim_cont><![CDATA[7-1번질권등기말소]]></wksbe_rgs_aim_cont>
-<wksbe_receve><![CDATA[2020년8월5일]]></wksbe_receve>
-<wksbe_rgs_caus><![CDATA[2020년8월4일]]></wksbe_rgs_caus>
-<wksbe_nomprs_and_etc/>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no>9</wksbe_eul_rank_no>
+<wksbe_rgs_aim_cont>7-1번질권등기말소</wksbe_rgs_aim_cont>
+<wksbe_receve>2020년8월5일</wksbe_receve>
+<wksbe_rgs_caus>2020년8월4일</wksbe_rgs_caus>
+<wksbe_nomprs_and_etc />
 </item>
 <item>
 <type>E</type>
 <page>5</page>
 <line>49</line>
-<wksbe_common_flag><![CDATA[1]]></wksbe_common_flag>
-<wksbe_eul_rank_no/>
-<wksbe_rgs_aim_cont/>
-<wksbe_receve><![CDATA[제137714호]]></wksbe_receve>
-<wksbe_rgs_caus><![CDATA[해지]]></wksbe_rgs_caus>
-<wksbe_nomprs_and_etc/>
+<wksbe_common_flag>1</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve>제137714호</wksbe_receve>
+<wksbe_rgs_caus>해지</wksbe_rgs_caus>
+<wksbe_nomprs_and_etc />
 </item>
 <item>
 <type>E</type>
 <page>5</page>
 <line>51</line>
-<wksbe_common_flag><![CDATA[N]]></wksbe_common_flag>
-<wksbe_eul_rank_no><![CDATA[10]]></wksbe_eul_rank_no>
-<wksbe_rgs_aim_cont><![CDATA[7번근저당권설정등]]></wksbe_rgs_aim_cont>
-<wksbe_receve><![CDATA[2020년8월5일]]></wksbe_receve>
-<wksbe_rgs_caus><![CDATA[2020년8월4일]]></wksbe_rgs_caus>
-<wksbe_nomprs_and_etc/>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no>10</wksbe_eul_rank_no>
+<wksbe_rgs_aim_cont>7번근저당권설정등</wksbe_rgs_aim_cont>
+<wksbe_receve>2020년8월5일</wksbe_receve>
+<wksbe_rgs_caus>2020년8월4일</wksbe_rgs_caus>
+<wksbe_nomprs_and_etc />
 </item>
 <item>
 <type>E</type>
 <page>5</page>
 <line>52</line>
-<wksbe_common_flag><![CDATA[1]]></wksbe_common_flag>
-<wksbe_eul_rank_no/>
-<wksbe_rgs_aim_cont><![CDATA[기말소]]></wksbe_rgs_aim_cont>
-<wksbe_receve><![CDATA[제137715호]]></wksbe_receve>
-<wksbe_rgs_caus><![CDATA[해지]]></wksbe_rgs_caus>
-<wksbe_nomprs_and_etc/>
+<wksbe_common_flag>1</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont>기말소</wksbe_rgs_aim_cont>
+<wksbe_receve>제137715호</wksbe_receve>
+<wksbe_rgs_caus>해지</wksbe_rgs_caus>
+<wksbe_nomprs_and_etc />
 </item>
 <item>
 <type>E</type>
 <page>6</page>
 <line>10</line>
-<wksbe_common_flag><![CDATA[N]]></wksbe_common_flag>
-<wksbe_eul_rank_no><![CDATA[11]]></wksbe_eul_rank_no>
-<wksbe_rgs_aim_cont><![CDATA[근저당권설정]]></wksbe_rgs_aim_cont>
-<wksbe_receve><![CDATA[2021년2월22일]]></wksbe_receve>
-<wksbe_rgs_caus><![CDATA[2021년2월22일]]></wksbe_rgs_caus>
-<wksbe_nomprs_and_etc><![CDATA[채권최고액  금288,000,000원]]></wksbe_nomprs_and_etc>
-<cert_cls><![CDATA[res]]></cert_cls>
-<pin_no><![CDATA[11431996047250]]></pin_no>
-<address><![CDATA[[집합건물] 서울특별시 관악구 봉천동 1698-1외 5필지 보라매삼성아파트 제102동 제15층 제1505호]]></address>
-<CallPosition><![CDATA[INTERNET_ALL]]></CallPosition>
-<txt_comp_free_cls><![CDATA[1]]></txt_comp_free_cls>
-<report_kind><![CDATA[1001]]></report_kind>
-<iss_date><![CDATA[2024/05/05]]></iss_date>
-<reg_cls><![CDATA[12]]></reg_cls>
-<dbl_cnt><![CDATA[1]]></dbl_cnt>
-<total_page><![CDATA[6]]></total_page>
-<iss_no><![CDATA[114202110031940510109600510HA0472643M1265032091112]]></iss_no>
-<etr_yn><![CDATA[N]]></etr_yn>
-<sum_yn><![CDATA[Y]]></sum_yn>
-<fee><![CDATA[700]]></fee>
-<fee_Out><![CDATA[700원 영수함]]></fee_Out>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no>11</wksbe_eul_rank_no>
+<wksbe_rgs_aim_cont>근저당권설정</wksbe_rgs_aim_cont>
+<wksbe_receve>2021년2월22일</wksbe_receve>
+<wksbe_rgs_caus>2021년2월22일</wksbe_rgs_caus>
+<wksbe_nomprs_and_etc>채권최고액  금288,000,000원</wksbe_nomprs_and_etc>
+<cert_cls>res</cert_cls>
+<pin_no>11431996047250</pin_no>
+<address>[집합건물] 서울특별시 관악구 봉천동 1698-1외 5필지 보라매삼성아파트 제102동 제15층 제1505호</address>
+<CallPosition>INTERNET_ALL</CallPosition>
+<txt_comp_free_cls>1</txt_comp_free_cls>
+<report_kind>1</report_kind>
+<iss_date>2024/05/15</iss_date>
+<reg_cls>12</reg_cls>
+<dbl_cnt>1</dbl_cnt>
+<total_page>7</total_page>
+<iss_no>114202110031940510109601510HA0472649M1275040091112</iss_no>
+<etr_yn>N</etr_yn>
+<sum_yn>Y</sum_yn>
+<fee>700</fee>
+<fee_Out>700원 영수함</fee_Out>
 <gubun_flag>E</gubun_flag>
-<jangsu><![CDATA[1]]></jangsu>
-<regt_cls><![CDATA[12]]></regt_cls>
-<wkreal_div_cd><![CDATA[4]]></wkreal_div_cd>
+<jangsu>1</jangsu>
+<regt_cls>12</regt_cls>
+<wkreal_div_cd>4</wkreal_div_cd>
 </item>
 <item>
 <type>E</type>
 <page>6</page>
 <line>11</line>
-<wksbe_common_flag><![CDATA[N]]></wksbe_common_flag>
-<wksbe_eul_rank_no/>
-<wksbe_rgs_aim_cont/>
-<wksbe_receve><![CDATA[제28349호]]></wksbe_receve>
-<wksbe_rgs_caus><![CDATA[설정계약]]></wksbe_rgs_caus>
-<wksbe_nomprs_and_etc><![CDATA[채무자  이명천]]></wksbe_nomprs_and_etc>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve>제28349호</wksbe_receve>
+<wksbe_rgs_caus>설정계약</wksbe_rgs_caus>
+<wksbe_nomprs_and_etc>채무자  이명천</wksbe_nomprs_and_etc>
 </item>
 <item>
 <type>E</type>
 <page>6</page>
 <line>12</line>
-<wksbe_common_flag><![CDATA[N]]></wksbe_common_flag>
-<wksbe_eul_rank_no/>
-<wksbe_rgs_aim_cont/>
-<wksbe_receve/>
-<wksbe_rgs_caus/>
-<wksbe_nomprs_and_etc><![CDATA[4^서울특별시 동작구 보라매로 70, 102동]]></wksbe_nomprs_and_etc>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve />
+<wksbe_rgs_caus />
+<wksbe_nomprs_and_etc>4^서울특별시 동작구 보라매로 70, 102동</wksbe_nomprs_and_etc>
 </item>
 <item>
 <type>E</type>
 <page>6</page>
 <line>13</line>
-<wksbe_common_flag><![CDATA[N]]></wksbe_common_flag>
-<wksbe_eul_rank_no/>
-<wksbe_rgs_aim_cont/>
-<wksbe_receve/>
-<wksbe_rgs_caus/>
-<wksbe_nomprs_and_etc><![CDATA[4^406호(신대방동,보라매이편한세상아파트)]]></wksbe_nomprs_and_etc>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve />
+<wksbe_rgs_caus />
+<wksbe_nomprs_and_etc>4^406호(신대방동,보라매이편한세상아파트)</wksbe_nomprs_and_etc>
 </item>
 <item>
 <type>E</type>
 <page>6</page>
 <line>14</line>
-<wksbe_common_flag><![CDATA[N]]></wksbe_common_flag>
-<wksbe_eul_rank_no/>
-<wksbe_rgs_aim_cont/>
-<wksbe_receve/>
-<wksbe_rgs_caus/>
-<wksbe_nomprs_and_etc><![CDATA[&근저당권자  &&주식회사안양저축은행&& &]]></wksbe_nomprs_and_etc>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve />
+<wksbe_rgs_caus />
+<wksbe_nomprs_and_etc>&amp;근저당권자  &amp;&amp;주식회사안양저축은행&amp;&amp; &amp;</wksbe_nomprs_and_etc>
 </item>
 <item>
 <type>E</type>
 <page>6</page>
 <line>15</line>
-<wksbe_common_flag><![CDATA[N]]></wksbe_common_flag>
-<wksbe_eul_rank_no/>
-<wksbe_rgs_aim_cont/>
-<wksbe_receve/>
-<wksbe_rgs_caus/>
-<wksbe_nomprs_and_etc><![CDATA[12^&&&134111-0008850&]]></wksbe_nomprs_and_etc>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve />
+<wksbe_rgs_caus />
+<wksbe_nomprs_and_etc>12^&amp;&amp;&amp;134111-0008850&amp;</wksbe_nomprs_and_etc>
 </item>
 <item>
 <type>E</type>
 <page>6</page>
 <line>16</line>
-<wksbe_common_flag><![CDATA[1]]></wksbe_common_flag>
-<wksbe_eul_rank_no/>
-<wksbe_rgs_aim_cont/>
-<wksbe_receve/>
-<wksbe_rgs_caus/>
-<wksbe_nomprs_and_etc><![CDATA[4^&경기도 안양시 만안구 안양로 250(안양동)&]]></wksbe_nomprs_and_etc>
+<wksbe_common_flag>1</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve />
+<wksbe_rgs_caus />
+<wksbe_nomprs_and_etc>4^&amp;경기도 안양시 만안구 안양로 250(안양동)&amp;</wksbe_nomprs_and_etc>
 </item>
 <item>
 <type>E</type>
 <page>6</page>
 <line>18</line>
-<wksbe_common_flag><![CDATA[N]]></wksbe_common_flag>
-<wksbe_eul_rank_no><![CDATA[11-1]]></wksbe_eul_rank_no>
-<wksbe_rgs_aim_cont><![CDATA[11번근저당권이전]]></wksbe_rgs_aim_cont>
-<wksbe_receve><![CDATA[2023년6월28일]]></wksbe_receve>
-<wksbe_rgs_caus><![CDATA[2023년6월28일]]></wksbe_rgs_caus>
-<wksbe_nomprs_and_etc><![CDATA[근저당권자  해인대부주식회사  110111-7653432]]></wksbe_nomprs_and_etc>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no>11-1</wksbe_eul_rank_no>
+<wksbe_rgs_aim_cont>11번근저당권이전</wksbe_rgs_aim_cont>
+<wksbe_receve>2023년6월28일</wksbe_receve>
+<wksbe_rgs_caus>2023년6월28일</wksbe_rgs_caus>
+<wksbe_nomprs_and_etc>근저당권자  해인대부주식회사  110111-7653432</wksbe_nomprs_and_etc>
 </item>
 <item>
 <type>E</type>
 <page>6</page>
 <line>19</line>
-<wksbe_common_flag><![CDATA[N]]></wksbe_common_flag>
-<wksbe_eul_rank_no/>
-<wksbe_rgs_aim_cont/>
-<wksbe_receve><![CDATA[제91676호]]></wksbe_receve>
-<wksbe_rgs_caus><![CDATA[확정채권양도]]></wksbe_rgs_caus>
-<wksbe_nomprs_and_etc><![CDATA[4^서울특별시 서초구 서초중앙로20길 35,]]></wksbe_nomprs_and_etc>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve>제91676호</wksbe_receve>
+<wksbe_rgs_caus>확정채권양도</wksbe_rgs_caus>
+<wksbe_nomprs_and_etc>4^서울특별시 서초구 서초중앙로20길 35,</wksbe_nomprs_and_etc>
 </item>
 <item>
 <type>E</type>
 <page>6</page>
 <line>20</line>
-<wksbe_common_flag><![CDATA[1]]></wksbe_common_flag>
-<wksbe_eul_rank_no/>
-<wksbe_rgs_aim_cont/>
-<wksbe_receve/>
-<wksbe_rgs_caus/>
-<wksbe_nomprs_and_etc><![CDATA[4^2층(서초동,세영빌딩)]]></wksbe_nomprs_and_etc>
+<wksbe_common_flag>1</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve />
+<wksbe_rgs_caus />
+<wksbe_nomprs_and_etc>4^2층(서초동,세영빌딩)</wksbe_nomprs_and_etc>
 </item>
 <item>
 <type>E</type>
 <page>6</page>
 <line>22</line>
-<wksbe_common_flag><![CDATA[N]]></wksbe_common_flag>
-<wksbe_eul_rank_no><![CDATA[11-2]]></wksbe_eul_rank_no>
-<wksbe_rgs_aim_cont><![CDATA[11번근저당권부채권]]></wksbe_rgs_aim_cont>
-<wksbe_receve><![CDATA[2023년6월28일]]></wksbe_receve>
-<wksbe_rgs_caus><![CDATA[2023년6월28일]]></wksbe_rgs_caus>
-<wksbe_nomprs_and_etc><![CDATA[채권최고액  금288,000,000원]]></wksbe_nomprs_and_etc>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no>11-2</wksbe_eul_rank_no>
+<wksbe_rgs_aim_cont>11번근저당권부채권</wksbe_rgs_aim_cont>
+<wksbe_receve>2023년6월28일</wksbe_receve>
+<wksbe_rgs_caus>2023년6월28일</wksbe_rgs_caus>
+<wksbe_nomprs_and_etc>채권최고액  금288,000,000원</wksbe_nomprs_and_etc>
 </item>
 <item>
 <type>E</type>
 <page>6</page>
 <line>23</line>
-<wksbe_common_flag><![CDATA[N]]></wksbe_common_flag>
-<wksbe_eul_rank_no/>
-<wksbe_rgs_aim_cont><![CDATA[근질권설정]]></wksbe_rgs_aim_cont>
-<wksbe_receve><![CDATA[제91677호]]></wksbe_receve>
-<wksbe_rgs_caus><![CDATA[설정계약]]></wksbe_rgs_caus>
-<wksbe_nomprs_and_etc><![CDATA[채무자  해인대부주식회사]]></wksbe_nomprs_and_etc>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont>근질권설정</wksbe_rgs_aim_cont>
+<wksbe_receve>제91677호</wksbe_receve>
+<wksbe_rgs_caus>설정계약</wksbe_rgs_caus>
+<wksbe_nomprs_and_etc>채무자  해인대부주식회사</wksbe_nomprs_and_etc>
 </item>
 <item>
 <type>E</type>
 <page>6</page>
 <line>24</line>
-<wksbe_common_flag><![CDATA[N]]></wksbe_common_flag>
-<wksbe_eul_rank_no/>
-<wksbe_rgs_aim_cont/>
-<wksbe_receve/>
-<wksbe_rgs_caus/>
-<wksbe_nomprs_and_etc><![CDATA[4^서울특별시 서초구 서초중앙로20길 35,]]></wksbe_nomprs_and_etc>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve />
+<wksbe_rgs_caus />
+<wksbe_nomprs_and_etc>4^서울특별시 서초구 서초중앙로20길 35,</wksbe_nomprs_and_etc>
 </item>
 <item>
 <type>E</type>
 <page>6</page>
 <line>25</line>
-<wksbe_common_flag><![CDATA[N]]></wksbe_common_flag>
-<wksbe_eul_rank_no/>
-<wksbe_rgs_aim_cont/>
-<wksbe_receve/>
-<wksbe_rgs_caus/>
-<wksbe_nomprs_and_etc><![CDATA[4^2층(서초동,세영빌딩)]]></wksbe_nomprs_and_etc>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve />
+<wksbe_rgs_caus />
+<wksbe_nomprs_and_etc>4^2층(서초동,세영빌딩)</wksbe_nomprs_and_etc>
 </item>
 <item>
 <type>E</type>
 <page>6</page>
 <line>26</line>
-<wksbe_common_flag><![CDATA[N]]></wksbe_common_flag>
-<wksbe_eul_rank_no/>
-<wksbe_rgs_aim_cont/>
-<wksbe_receve/>
-<wksbe_rgs_caus/>
-<wksbe_nomprs_and_etc><![CDATA[채권자  냉동냉장수산업협동조합 ]]></wksbe_nomprs_and_etc>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve />
+<wksbe_rgs_caus />
+<wksbe_nomprs_and_etc>채권자  냉동냉장수산업협동조합 </wksbe_nomprs_and_etc>
 </item>
 <item>
 <type>E</type>
 <page>6</page>
 <line>27</line>
-<wksbe_common_flag><![CDATA[N]]></wksbe_common_flag>
-<wksbe_eul_rank_no/>
-<wksbe_rgs_aim_cont/>
-<wksbe_receve/>
-<wksbe_rgs_caus/>
-<wksbe_nomprs_and_etc><![CDATA[8^114238-0000472]]></wksbe_nomprs_and_etc>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve />
+<wksbe_rgs_caus />
+<wksbe_nomprs_and_etc>8^114238-0000472</wksbe_nomprs_and_etc>
 </item>
 <item>
 <type>E</type>
 <page>6</page>
 <line>28</line>
-<wksbe_common_flag><![CDATA[N]]></wksbe_common_flag>
-<wksbe_eul_rank_no/>
-<wksbe_rgs_aim_cont/>
-<wksbe_receve/>
-<wksbe_rgs_caus/>
-<wksbe_nomprs_and_etc><![CDATA[4^서울특별시 광진구 구의동 251-158]]></wksbe_nomprs_and_etc>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve />
+<wksbe_rgs_caus />
+<wksbe_nomprs_and_etc>4^서울특별시 광진구 구의동 251-158</wksbe_nomprs_and_etc>
 </item>
 <item>
 <type>E</type>
 <page>6</page>
 <line>29</line>
-<wksbe_common_flag><![CDATA[1]]></wksbe_common_flag>
-<wksbe_eul_rank_no/>
-<wksbe_rgs_aim_cont/>
-<wksbe_receve/>
-<wksbe_rgs_caus/>
-<wksbe_nomprs_and_etc><![CDATA[4^( 감천지점 )]]></wksbe_nomprs_and_etc>
+<wksbe_common_flag>1</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve />
+<wksbe_rgs_caus />
+<wksbe_nomprs_and_etc>4^( 감천지점 )</wksbe_nomprs_and_etc>
 </item>
 <item>
 <type>E</type>
 <page>6</page>
 <line>31</line>
-<wksbe_common_flag><![CDATA[N]]></wksbe_common_flag>
-<wksbe_eul_rank_no><![CDATA[12]]></wksbe_eul_rank_no>
-<wksbe_rgs_aim_cont><![CDATA[8번근저당권설정등]]></wksbe_rgs_aim_cont>
-<wksbe_receve><![CDATA[2021년2월22일]]></wksbe_receve>
-<wksbe_rgs_caus><![CDATA[2021년2월22일]]></wksbe_rgs_caus>
-<wksbe_nomprs_and_etc/>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no>12</wksbe_eul_rank_no>
+<wksbe_rgs_aim_cont>8번근저당권설정등</wksbe_rgs_aim_cont>
+<wksbe_receve>2021년2월22일</wksbe_receve>
+<wksbe_rgs_caus>2021년2월22일</wksbe_rgs_caus>
+<wksbe_nomprs_and_etc />
 </item>
 <item>
 <type>E</type>
 <page>6</page>
 <line>32</line>
-<wksbe_common_flag><![CDATA[1]]></wksbe_common_flag>
-<wksbe_eul_rank_no/>
-<wksbe_rgs_aim_cont><![CDATA[기말소]]></wksbe_rgs_aim_cont>
-<wksbe_receve><![CDATA[제28547호]]></wksbe_receve>
-<wksbe_rgs_caus><![CDATA[해지]]></wksbe_rgs_caus>
-<wksbe_nomprs_and_etc/>
+<wksbe_common_flag>1</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont>기말소</wksbe_rgs_aim_cont>
+<wksbe_receve>제28547호</wksbe_receve>
+<wksbe_rgs_caus>해지</wksbe_rgs_caus>
+<wksbe_nomprs_and_etc />
+</item>
+<item>
+<type>E</type>
+<page>6</page>
+<line>34</line>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no>13</wksbe_eul_rank_no>
+<wksbe_rgs_aim_cont>주택임차권</wksbe_rgs_aim_cont>
+<wksbe_receve>2024년5월2일</wksbe_receve>
+<wksbe_rgs_caus>2024년4월29일</wksbe_rgs_caus>
+<wksbe_nomprs_and_etc>임차보증금  금540,000,000원(2020년6월26일</wksbe_nomprs_and_etc>
+</item>
+<item>
+<type>E</type>
+<page>6</page>
+<line>35</line>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve>제75660호</wksbe_receve>
+<wksbe_rgs_caus>서울중앙지방법</wksbe_rgs_caus>
+<wksbe_nomprs_and_etc>12^금10,000,000원 증액,</wksbe_nomprs_and_etc>
+</item>
+<item>
+<type>E</type>
+<page>6</page>
+<line>36</line>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve />
+<wksbe_rgs_caus>원의</wksbe_rgs_caus>
+<wksbe_nomprs_and_etc>12^2022년4월15일 금100,000,000원</wksbe_nomprs_and_etc>
+</item>
+<item>
+<type>E</type>
+<page>6</page>
+<line>37</line>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve />
+<wksbe_rgs_caus>임차권등기명령</wksbe_rgs_caus>
+<wksbe_nomprs_and_etc>12^증액)</wksbe_nomprs_and_etc>
+</item>
+<item>
+<type>E</type>
+<page>6</page>
+<line>38</line>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve />
+<wksbe_rgs_caus>(2024카임31205</wksbe_rgs_caus>
+<wksbe_nomprs_and_etc>범  위  전유부분 전부</wksbe_nomprs_and_etc>
+</item>
+<item>
+<type>E</type>
+<page>6</page>
+<line>39</line>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve />
+<wksbe_rgs_caus>)</wksbe_rgs_caus>
+<wksbe_nomprs_and_etc>임대차계약일자  (1)2018년6월27일</wksbe_nomprs_and_etc>
+</item>
+<item>
+<type>E</type>
+<page>6</page>
+<line>40</line>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve />
+<wksbe_rgs_caus />
+<wksbe_nomprs_and_etc>16^(2)2020년6월26일</wksbe_nomprs_and_etc>
+</item>
+<item>
+<type>E</type>
+<page>6</page>
+<line>41</line>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve />
+<wksbe_rgs_caus />
+<wksbe_nomprs_and_etc>16^(3)2022년4월15일</wksbe_nomprs_and_etc>
+</item>
+<item>
+<type>E</type>
+<page>6</page>
+<line>42</line>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve />
+<wksbe_rgs_caus />
+<wksbe_nomprs_and_etc>주민등록일자  2018년9월6일</wksbe_nomprs_and_etc>
+</item>
+<item>
+<type>E</type>
+<page>6</page>
+<line>43</line>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve />
+<wksbe_rgs_caus />
+<wksbe_nomprs_and_etc>점유개시일자  2018년9월6일</wksbe_nomprs_and_etc>
+</item>
+<item>
+<type>E</type>
+<page>6</page>
+<line>44</line>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve />
+<wksbe_rgs_caus />
+<wksbe_nomprs_and_etc>확정일자  (1)2018년8월20일(금430,000,000원)</wksbe_nomprs_and_etc>
+</item>
+<item>
+<type>E</type>
+<page>6</page>
+<line>45</line>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve />
+<wksbe_rgs_caus />
+<wksbe_nomprs_and_etc>10^(2)2020년9월21일(증액된</wksbe_nomprs_and_etc>
+</item>
+<item>
+<type>E</type>
+<page>6</page>
+<line>46</line>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve />
+<wksbe_rgs_caus />
+<wksbe_nomprs_and_etc>10^금10,000,000원)</wksbe_nomprs_and_etc>
+</item>
+<item>
+<type>E</type>
+<page>6</page>
+<line>47</line>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve />
+<wksbe_rgs_caus />
+<wksbe_nomprs_and_etc>10^(3)2022년5월4일(증액된</wksbe_nomprs_and_etc>
+</item>
+<item>
+<type>E</type>
+<page>6</page>
+<line>48</line>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve />
+<wksbe_rgs_caus />
+<wksbe_nomprs_and_etc>10^금100,000,000원)</wksbe_nomprs_and_etc>
+</item>
+<item>
+<type>E</type>
+<page>6</page>
+<line>49</line>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve />
+<wksbe_rgs_caus />
+<wksbe_nomprs_and_etc>임차권자  유원덕  880310-*******</wksbe_nomprs_and_etc>
+</item>
+<item>
+<type>E</type>
+<page>6</page>
+<line>50</line>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve />
+<wksbe_rgs_caus />
+<wksbe_nomprs_and_etc>4^서울특별시 관악구 보라매로 62, 102동</wksbe_nomprs_and_etc>
+</item>
+<item>
+<type>E</type>
+<page>6</page>
+<line>51</line>
+<wksbe_common_flag>1</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve />
+<wksbe_rgs_caus />
+<wksbe_nomprs_and_etc>4^1505호 (봉천동,보라매삼성아파트)</wksbe_nomprs_and_etc>
+</item>
+<item>
+<type>E</type>
+<page>7</page>
+<line>10</line>
+<wksbe_common_flag>N</wksbe_common_flag>
+<wksbe_eul_rank_no>13-1</wksbe_eul_rank_no>
+<wksbe_rgs_aim_cont />
+<wksbe_receve />
+<wksbe_rgs_caus />
+<wksbe_nomprs_and_etc>13번 등기는 건물만에 관한 것임</wksbe_nomprs_and_etc>
+<cert_cls>res</cert_cls>
+<pin_no>11431996047250</pin_no>
+<address>[집합건물] 서울특별시 관악구 봉천동 1698-1외 5필지 보라매삼성아파트 제102동 제15층 제1505호</address>
+<CallPosition>INTERNET_ALL</CallPosition>
+<txt_comp_free_cls>1</txt_comp_free_cls>
+<report_kind>1</report_kind>
+<iss_date>2024/05/15</iss_date>
+<reg_cls>12</reg_cls>
+<dbl_cnt>1</dbl_cnt>
+<total_page>7</total_page>
+<iss_no>114202110031940510109601510HA0472649M1275040091112</iss_no>
+<etr_yn>N</etr_yn>
+<sum_yn>Y</sum_yn>
+<fee>700</fee>
+<fee_Out>700원 영수함</fee_Out>
+<gubun_flag>E</gubun_flag>
+<jangsu>1</jangsu>
+<regt_cls>12</regt_cls>
+<wkreal_div_cd>4</wkreal_div_cd>
+</item>
+<item>
+<type>E</type>
+<page>7</page>
+<line>11</line>
+<wksbe_common_flag>1</wksbe_common_flag>
+<wksbe_eul_rank_no />
+<wksbe_rgs_aim_cont />
+<wksbe_receve />
+<wksbe_rgs_caus />
+<wksbe_nomprs_and_etc>2024년5월2일  부기</wksbe_nomprs_and_etc>
 </item>
 <item>
 <type>Q</type>
-<page>6</page>
-<line>34</line>
-<cert_cls><![CDATA[res]]></cert_cls>
-<pin_no><![CDATA[11431996047250]]></pin_no>
-<address><![CDATA[[집합건물] 서울특별시 관악구 봉천동 1698-1외 5필지 보라매삼성아파트 제102동 제15층 제1505호]]></address>
-<CallPosition><![CDATA[INTERNET_ALL]]></CallPosition>
-<txt_comp_free_cls><![CDATA[1]]></txt_comp_free_cls>
-<report_kind><![CDATA[1001]]></report_kind>
-<iss_date><![CDATA[2024/05/05]]></iss_date>
-<reg_cls><![CDATA[12]]></reg_cls>
-<dbl_cnt><![CDATA[1]]></dbl_cnt>
-<total_page><![CDATA[6]]></total_page>
-<iss_no><![CDATA[114202110031940510109600510HA0472643M1265032091112]]></iss_no>
-<etr_yn><![CDATA[N]]></etr_yn>
-<sum_yn><![CDATA[Y]]></sum_yn>
-<fee><![CDATA[700]]></fee>
-<fee_Out><![CDATA[700원 영수함]]></fee_Out>
+<page>7</page>
+<line>13</line>
+<cert_cls>res</cert_cls>
+<pin_no>11431996047250</pin_no>
+<address>[집합건물] 서울특별시 관악구 봉천동 1698-1외 5필지 보라매삼성아파트 제102동 제15층 제1505호</address>
+<CallPosition>INTERNET_ALL</CallPosition>
+<txt_comp_free_cls>1</txt_comp_free_cls>
+<report_kind>1</report_kind>
+<iss_date>2024/05/15</iss_date>
+<reg_cls>12</reg_cls>
+<dbl_cnt>1</dbl_cnt>
+<total_page>7</total_page>
+<iss_no>114202110031940510109601510HA0472649M1275040091112</iss_no>
+<etr_yn>N</etr_yn>
+<sum_yn>Y</sum_yn>
+<fee>700</fee>
+<fee_Out>700원 영수함</fee_Out>
 <gubun_flag>E</gubun_flag>
-<jangsu><![CDATA[1]]></jangsu>
-<regt_cls><![CDATA[12]]></regt_cls>
-<wkreal_div_cd><![CDATA[4]]></wkreal_div_cd>
-<totalpage>6</totalpage>
-<juris_regt><![CDATA[서울중앙지방법원 등기국]]></juris_regt>
-<balhang_regt></balhang_regt>
-<isu_regt><![CDATA[법원행정처 등기정보중앙관리소]]></isu_regt>
-<response><![CDATA[　　　　　전산운영책임관]]></response>
-<isu_per><![CDATA[]]></isu_per>
-<wksbi_cur_date><![CDATA[서기 2024년 5월 5일]]></wksbi_cur_date>
-<wksbi_bal_date><![CDATA[2024/05/05]]></wksbi_bal_date>
-<wksbi_bal_no_time><![CDATA[164332]]></wksbi_bal_no_time>
-<isu_confirm_no><![CDATA[]]></isu_confirm_no>
+<jangsu>1</jangsu>
+<regt_cls>12</regt_cls>
+<wkreal_div_cd>4</wkreal_div_cd>
+<totalpage>7</totalpage>
+<juris_regt>서울중앙지방법원 등기국</juris_regt>
+<balhang_regt />
+<isu_regt>법원행정처 등기정보중앙관리소</isu_regt>
+<response>　　　　　전산운영책임관</response>
+<isu_per />
+<wksbi_cur_date>서기 2024년 5월 15일</wksbi_cur_date>
+<wksbi_bal_date>2024/05/15</wksbi_bal_date>
+<wksbi_bal_no_time>164940</wksbi_bal_no_time>
+<isu_confirm_no />
 <digital_yn>N</digital_yn>
 <wksbi_info>N</wksbi_info>
 </item>
 </register>
-<summary>
-<item>
-<type>I</type>
-<page>1</page>
-<line>0</line>
-<jangsu><![CDATA[1]]></jangsu>
-<a301pin><![CDATA[11431996047250]]></a301pin>
-<iss_use><![CDATA[1]]></iss_use>
-<wksbi_address><![CDATA[[집합건물] 서울특별시 관악구 봉천동 1698-1외 5필지 보라매삼성아파트 제102동 제15층 제1505호]]></wksbi_address>
-<wksbj_real_indi_cont/>
-<wksbi_cur_date><![CDATA[서기 2024년 5월 5일]]></wksbi_cur_date>
-<wksbi_bal_no_time><![CDATA[164332]]></wksbi_bal_no_time>
-<wksbi_bal_date><![CDATA[2024/05/05]]></wksbi_bal_date>
-<fee>0</fee>
-<wksbi_key_lock><![CDATA[N]]></wksbi_key_lock>
-<regt_cls><![CDATA[31]]></regt_cls>
-<wksbi_real_kind><![CDATA[6]]></wksbi_real_kind>
-<pin_no><![CDATA[11431996047250]]></pin_no>
-<address><![CDATA[[집합건물] 서울특별시 관악구 봉천동 1698-1외 5필지 보라매삼성아파트 제102동 제15층 제1505호]]></address>
-<CallPosition><![CDATA[INTERNET_ALL]]></CallPosition>
-<report_kind><![CDATA[1001]]></report_kind>
-<dbl_cnt><![CDATA[1]]></dbl_cnt>
-<total_page><![CDATA[1]]></total_page>
-</item>
-<item>
-<type>A</type>
-<page>1</page>
-<line>17</line>
-<wksbh_common_flag><![CDATA[N]]></wksbh_common_flag>
-<wksbh_nomprs_name><![CDATA[이명천 (소유자)]]></wksbh_nomprs_name>
-<wksbh_nomprs_enr_no><![CDATA[600528-*******]]></wksbh_nomprs_enr_no>
-<wksbh_last_portn><![CDATA[단독소유]]></wksbh_last_portn>
-<wksbh_nomprs_addr><![CDATA[서울특별시 동작구  보라매로 70, 102동 406호]]></wksbh_nomprs_addr>
-<wksbh_kap_rank_no><![CDATA[3]]></wksbh_kap_rank_no>
-</item>
-<item>
-<type>A</type>
-<page>1</page>
-<line>18</line>
-<wksbh_common_flag><![CDATA[1]]></wksbh_common_flag>
-<wksbh_nomprs_name/>
-<wksbh_nomprs_enr_no/>
-<wksbh_last_portn/>
-<wksbh_nomprs_addr><![CDATA[(신대방동, 보라매이편한세상아파트)]]></wksbh_nomprs_addr>
-<wksbh_kap_rank_no/>
-</item>
-<item>
-<type>K</type>
-<page>1</page>
-<line>25</line>
-<wksbk_common_flag><![CDATA[N]]></wksbk_common_flag>
-<wksbk_kap_rank_no><![CDATA[4]]></wksbk_kap_rank_no>
-<wksbk_rgs_aim_cont><![CDATA[가압류]]></wksbk_rgs_aim_cont>
-<wksbk_receve><![CDATA[2023년3월23일]]></wksbk_receve>
-<wksbk_nomprs_and_etc><![CDATA[청구금액  금34,865,027 원]]></wksbk_nomprs_and_etc>
-<wksbk_summary_owner><![CDATA[이명천]]></wksbk_summary_owner>
-</item>
-<item>
-<type>K</type>
-<page>1</page>
-<line>26</line>
-<wksbk_common_flag><![CDATA[1]]></wksbk_common_flag>
-<wksbk_kap_rank_no/>
-<wksbk_rgs_aim_cont/>
-<wksbk_receve><![CDATA[제37085호]]></wksbk_receve>
-<wksbk_nomprs_and_etc><![CDATA[채권자  주식회사 케이비국민카드]]></wksbk_nomprs_and_etc>
-<wksbk_summary_owner/>
-</item>
-<item>
-<type>K</type>
-<page>1</page>
-<line>28</line>
-<wksbk_common_flag><![CDATA[N]]></wksbk_common_flag>
-<wksbk_kap_rank_no><![CDATA[5]]></wksbk_kap_rank_no>
-<wksbk_rgs_aim_cont><![CDATA[임의경매개시결정]]></wksbk_rgs_aim_cont>
-<wksbk_receve><![CDATA[2023년4월18일]]></wksbk_receve>
-<wksbk_nomprs_and_etc><![CDATA[채권자  주식회사 안양저축은행]]></wksbk_nomprs_and_etc>
-<wksbk_summary_owner><![CDATA[이명천]]></wksbk_summary_owner>
-</item>
-<item>
-<type>K</type>
-<page>1</page>
-<line>29</line>
-<wksbk_common_flag><![CDATA[1]]></wksbk_common_flag>
-<wksbk_kap_rank_no/>
-<wksbk_rgs_aim_cont/>
-<wksbk_receve><![CDATA[제52005호]]></wksbk_receve>
-<wksbk_nomprs_and_etc/>
-<wksbk_summary_owner/>
-</item>
-<item>
-<type>E</type>
-<page>1</page>
-<line>36</line>
-<wksbe_common_flag><![CDATA[N]]></wksbe_common_flag>
-<wksbe_eul_rank_no><![CDATA[11]]></wksbe_eul_rank_no>
-<wksbe_rgs_aim_cont><![CDATA[근저당권설정]]></wksbe_rgs_aim_cont>
-<wksbe_receve><![CDATA[2021년2월22일]]></wksbe_receve>
-<wksbe_nomprs_and_etc><![CDATA[채권최고액  금288,000,000원]]></wksbe_nomprs_and_etc>
-<wksbe_summary_owner><![CDATA[이명천]]></wksbe_summary_owner>
-</item>
-<item>
-<type>E</type>
-<page>1</page>
-<line>37</line>
-<wksbe_common_flag><![CDATA[1]]></wksbe_common_flag>
-<wksbe_eul_rank_no/>
-<wksbe_rgs_aim_cont/>
-<wksbe_receve><![CDATA[제28349호]]></wksbe_receve>
-<wksbe_nomprs_and_etc><![CDATA[&근저당권자  &&주식회사안양저축은행&&  &]]></wksbe_nomprs_and_etc>
-<wksbe_summary_owner/>
-</item>
-<item>
-<type>E</type>
-<page>1</page>
-<line>39</line>
-<wksbe_common_flag><![CDATA[N]]></wksbe_common_flag>
-<wksbe_eul_rank_no><![CDATA[11-1]]></wksbe_eul_rank_no>
-<wksbe_rgs_aim_cont><![CDATA[근저당권이전]]></wksbe_rgs_aim_cont>
-<wksbe_receve><![CDATA[2023년6월28일]]></wksbe_receve>
-<wksbe_nomprs_and_etc><![CDATA[근저당권자  해인대부주식회사]]></wksbe_nomprs_and_etc>
-<wksbe_summary_owner><![CDATA[이명천]]></wksbe_summary_owner>
-</item>
-<item>
-<type>E</type>
-<page>1</page>
-<line>40</line>
-<wksbe_common_flag><![CDATA[1]]></wksbe_common_flag>
-<wksbe_eul_rank_no/>
-<wksbe_rgs_aim_cont/>
-<wksbe_receve><![CDATA[제91676호]]></wksbe_receve>
-<wksbe_nomprs_and_etc/>
-<wksbe_summary_owner/>
-</item>
-<item>
-<type>E</type>
-<page>1</page>
-<line>42</line>
-<wksbe_common_flag><![CDATA[N]]></wksbe_common_flag>
-<wksbe_eul_rank_no><![CDATA[11-2]]></wksbe_eul_rank_no>
-<wksbe_rgs_aim_cont><![CDATA[근질권]]></wksbe_rgs_aim_cont>
-<wksbe_receve><![CDATA[2023년6월28일]]></wksbe_receve>
-<wksbe_nomprs_and_etc><![CDATA[채권최고액  금288,000,000원]]></wksbe_nomprs_and_etc>
-<wksbe_summary_owner><![CDATA[이명천]]></wksbe_summary_owner>
-</item>
-<item>
-<type>E</type>
-<page>1</page>
-<line>43</line>
-<wksbe_common_flag><![CDATA[1]]></wksbe_common_flag>
-<wksbe_eul_rank_no/>
-<wksbe_rgs_aim_cont/>
-<wksbe_receve><![CDATA[제91677호]]></wksbe_receve>
-<wksbe_nomprs_and_etc><![CDATA[채권자  냉동냉장수산업협동조합]]></wksbe_nomprs_and_etc>
-<wksbe_summary_owner/>
-</item>
-<item>
-<type>F</type>
-<page>1</page>
-<line>0</line>
-</item>
-</summary>
-<term>$소유권보존^A1ZZAZ$등기명의인표시변경^P2ZZZZ$소유권이전^A1ZZCZ$등기명의인표시경정^P1ZZZZ$가압류^ZZB1ZZ$임의경매개시결정^ZZC4ZZ$근저당권설정^F3ZZBZ$근저당권말소^F3ZZGZ$근저당권이전^F3ZZCZ$질권^G1ZZBZ$질권말소^G1ZZGZ$근질권^G3ZZBZ</term><3ndHS>cafb30497dc1bf7b4a80d7e36402568e996534eebf0c252f5358ec10daec10425f4c1caac07897c9f709a723fcd40a6e8432834f79f39f9cc89e7b4c8807aa84</3ndHS>
