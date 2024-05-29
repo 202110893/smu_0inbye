@@ -173,24 +173,24 @@ res_xml=res.json()["Message"]
 # with open(xml_file_path, 'r', encoding='utf-8') as file:
 #     xml_string = file.read()
 
-## 태그 뒷 내용 지우기
-xml_string = re.sub(r'<summary>.*', '', res_xml, flags=re.DOTALL)
-print(xml_string)  # 문자열로 된 XML 내용 출력
+# ## 태그 뒷 내용 지우기
+# xml_string = re.sub(r'<summary>.*', '', res_xml, flags=re.DOTALL)
+# print(xml_string)  # 문자열로 된 XML 내용 출력
 
-root = ET.fromstring(xml_string)
-xml_file_path = 'C:/Users/hamea/smu_0inbye/res.xml'
-ET.ElementTree(root).write(xml_file_path, encoding='utf-8')
+# root = ET.fromstring(xml_string)
+# xml_file_path = 'C:/Users/hamea/smu_0inbye/res.xml'
+# ET.ElementTree(root).write(xml_file_path, encoding='utf-8')
 
-print(f"XML이 {xml_file_path} 경로에 저장되었습니다.")
+# print(f"XML이 {xml_file_path} 경로에 저장되었습니다.")
 
-#json으로 변환
-with open('C:/Users/hamea/smu_0inbye/res.xml', encoding='utf-8') as f:
-    doc = xmltodict.parse(f.read())
+# #json으로 변환
+# with open('C:/Users/hamea/smu_0inbye/res.xml', encoding='utf-8') as f:
+#     doc = xmltodict.parse(f.read())
                           
-json_data = json.loads(json.dumps(doc))
+# json_data = json.loads(json.dumps(doc))
 
-with open('C:/Users/hamea/smu_0inbye/res_result.json', 'w', encoding='utf-8') as json_file:
-    json.dump(json_data, json_file, ensure_ascii=False, indent=4)
+# with open('C:/Users/hamea/smu_0inbye/res_result.json', 'w', encoding='utf-8') as json_file:
+#     json.dump(json_data, json_file, ensure_ascii=False, indent=4)
 
 #트랜잭션 키 값
 t_Key = res.json()["TransactionKey"]
@@ -200,41 +200,6 @@ print(f"t_Key: {t_Key}")
 
 ############################################################################
 
-############################################################################
-# # XML 파일 읽기
-# tree = ET.parse('res_xml.xml')
-# root = tree.getroot()
-
-# # 제거할 태그 목록
-# tags_to_remove = ['summary', 'term', '3ndHS']
-
-# # 각 태그에 포함된 내용 제거
-# for tag_name in tags_to_remove:
-#     # 태그 찾기
-#     tags = root.findall('.//' + tag_name)
-#     # 찾은 태그들의 내용 제거
-#     for tag in tags:
-#         tag.text = ''
-
-# # 수정된 XML 파일 저장
-# tree.write('res_modified.xml')
-
-
- 
-# with open('res_xml.xml', encoding='utf-8') as f:
-#     doc = xmltodict.parse(f.read())
-                          
-# json_data = json.loads(json.dumps(doc))
-
-# with open('res_xml_to_json.json', 'w', encoding='utf-8') as json_file:
-    # json.dump(json_data, json_file, ensure_ascii=False, indent=4)
-
-
-
-
-
-
-############################################################################
 #t_Key=base64.b64decode(res.json()["TransactionKey"]).decode("utf-8") # 트랜잭션 키 획득
 
 
@@ -242,42 +207,9 @@ print(f"t_Key: {t_Key}")
 
 
 
-############################################################################
-#pdf 변환 api 호출
-get_pdf=apiHost +"api/v1.0/iros/GetPdfFile"
-options     = {
-    "headers": {
-        "Content-Type"          : "application/json",
-        "API-KEY"               : apiKey,
-        "ENC-KEY"               : aesCipherKey
-    },
-    
-    "json": {
-        "TransactionKey"                : t_Key,
-        "IsSummary"              : "Y",
-        
-    },
-}
-getpdf_res = requests.post(get_pdf, headers=options['headers'], json=options['json'])
-pdf_string = getpdf_res.json()["Message"]
-#print(f"getpdf_res: {pdf_string}")
-
-
-#pdf_string = getpdf_res.json()["Message"]
-
-# Base64 디코딩하여 바이너리 데이터로 변환
-pdf_binary_data = base64.b64decode(pdf_string)
-
-# PDF 파일로 저장
-with open("output.pdf", "wb") as pdf_file:
-    pdf_file.write(pdf_binary_data)
-
-
-############################################################################
-
-############################################################################
-# #갑을구 주요정보
-# info=apiHost +"/api/v2.0/IrosArchive/ParseXml"
+# ############################################################################
+# #pdf 변환 api 호출
+# get_pdf=apiHost +"api/v1.0/iros/GetPdfFile"
 # options     = {
 #     "headers": {
 #         "Content-Type"          : "application/json",
@@ -286,14 +218,116 @@ with open("output.pdf", "wb") as pdf_file:
 #     },
     
 #     "json": {
-#         "TransactionKey"                :t_Key , 
+#         "TransactionKey"                : t_Key,
+#         "IsSummary"              : "Y",
         
-
 #     },
 # }
-# info_res = requests.post(info, headers=options['headers'], json=options['json'])
-# print(f"info res: {info_res.json()}")
+# getpdf_res = requests.post(get_pdf, headers=options['headers'], json=options['json'])
+# pdf_string = getpdf_res.json()["Message"]
+# #print(f"getpdf_res: {pdf_string}")
+
+
+# #pdf_string = getpdf_res.json()["Message"]
+
+# # Base64 디코딩하여 바이너리 데이터로 변환
+# pdf_binary_data = base64.b64decode(pdf_string)
+
+# # PDF 파일로 저장
+# with open("output.pdf", "wb") as pdf_file:
+#     pdf_file.write(pdf_binary_data)
+
+
 ############################################################################
+
+###########################################################################
+#갑을구 주요정보
+info=apiHost +"/api/v2.0/IrosArchive/ParseXml"
+options     = {
+    "headers": {
+        "Content-Type"          : "application/json",
+        "API-KEY"               : apiKey,
+        "ENC-KEY"               : aesCipherKey
+    },
+    
+    "json": {
+        "TransactionKey"                :t_Key , 
+        
+
+    },
+}
+info_res = requests.post(info, headers=options['headers'], json=options['json'])
+print(f"info res: {info_res.json()}")
+with open("C:/Users/hamea/OneDrive/바탕 화면/info.txt", "w", encoding="utf-8") as file:
+    file.write(f"{info_res.json()}\n")
+###########################################################################
+json_file_path = 'C:/Users/hamea/OneDrive/바탕 화면/info.txt'
+
+
+# 텍스트에서 주소 및 근저당 관련 정보 추출하는 함수
+def extract_address_and_encumbrance(text):
+    # 주소 추출 (정규표현식 사용)
+    address_pattern = r"\b(?:서울특별시|부산광역시|대구광역시|인천광역시|광주광역시|대전광역시|울산광역시|세종특별자치시|경기도|강원도|충청북도|충청남도|전라북도|전라남도|경상북도|경상남도|제주특별자치도)\s*[가-힣0-9\s,\-]+"
+    address_match = re.search(address_pattern, text)
+    address = address_match.group(0) if address_match else None
+
+    # 근저당 관련 정보 추출
+    encumbrance_info = []
+    encumbrance_pattern = r"근저당권설정|근저당권이전|근질권"
+    encumbrance_matches = re.finditer(encumbrance_pattern, text)
+    for match in encumbrance_matches:
+        encumbrance_type = match.group(0)
+        encumbrance_data = {"type": encumbrance_type}
+
+        # 근저당권설정 및 근질권인 경우 금액 추출
+        if encumbrance_type in ["근저당권설정", "근질권"]:
+            amount_pattern = r"금\s*\d{1,3}(?:,\d{3})*원"
+            amount_match = re.search(amount_pattern, text[match.end():])
+            encumbrance_data["amount"] = amount_match.group(0) if amount_match else None
+        
+        # 근저당권자 추출
+        holder_pattern = r"((?!금\s*\d{1,3}(?:,\d{3})*원)\b[가-힣\s]+주식회사)"
+        holder_match = re.search(holder_pattern, text[match.end():])
+        encumbrance_data["holder"] = holder_match.group(0) if holder_match else None
+
+        encumbrance_info.append(encumbrance_data)
+
+    return address, encumbrance_info
+
+
+
+
+# JSON 파일을 문자열로 읽기
+with open(json_file_path, 'r', encoding='utf-8') as file:
+    json_string = file.read()
+
+# 테스트를 위한 텍스트 데이터
+text_data = json_string
+
+# 주소와 근저당 관련 정보 추출
+address, encumbrance_info = extract_address_and_encumbrance(text_data)
+
+# 결과 출력
+print("주소:", address)
+
+
+for item in encumbrance_info:
+    if item['type'] == '근저당권설정' or item['type'] == '근질권' :
+        amount = item['amount'] if item['amount'] else '정보없음'
+        holder = item['holder'] if item['holder'] else '정보없음'
+        print(f"{item['type']} : {amount} {holder}")
+    if item['type'] == '근저당권이전':
+        holder = item['holder'] if item['holder'] else '정보없음'
+
+
+
+
+def fix_quotes(json_str):
+    json_str = re.sub(r"(?<!\\)'", r'"', json_str)  # '를 "로 변환
+    json_str = re.sub(r'\\"', r'\"', json_str)    # \"를 \"로 변환
+    json_str = re.sub(r'&"', r'', json_str)    # &"를 로 변환
+    return json_str
+
 
 now = time.localtime()
 print(f"{now.tm_year}/{now.tm_mon}/{now.tm_mday} {now.tm_hour}:{now.tm_min}:{now.tm_sec}")
