@@ -1,0 +1,78 @@
+<!--DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>결제 성공</h2>
+    <a href="">HOME</a>
+</body>
+</html-->
+
+<!--DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>결제 완료</title>
+</head>
+<body>
+    <h1>결제가 완료되었습니다.</h1>
+    <button onclick="redirectToSuccessPage()">주소 확인</button>
+
+    <script>
+        function redirectToSuccessPage() {
+            var fullAddress = encodeURIComponent(document.getElementById("sample6_address").value) + ' ' +
+                              encodeURIComponent(document.getElementById("sample6_detailAddress").value) + ' ' +
+                              encodeURIComponent(document.getElementById("sample6_extraAddress").value);
+            var successPageUrl = 'http://127.0.0.1:8000/api_app/success/?fullAddress=' + fullAddress;
+            window.location.href = successPageUrl;
+        }
+    </script>
+</body>
+</html-->
+
+<!-- kakaopay/paySuccess.html -->
+<!--DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>결제 성공</title>
+</head>
+<body>
+    <h2>결제 성공</h2>
+    <button onclick="redirectToSuccessPage()">결제 완료</button>
+
+    <script>
+        function redirectToSuccessPage() {
+            var fullAddress = encodeURIComponent('{{ full_address }}'); // 주소 인코딩
+            var redirectUrl = 'http://127.0.0.1:8000/api_app/success/?fullAddress=' + fullAddress;
+            window.location.href = redirectUrl; // URL로 이동
+        }
+    </script>
+</body>
+</html-->
+
+<!-- kakaopay/paySuccess.html -->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>결제 성공</title>
+</head>
+<body>
+    <h2>결제 성공</h2>
+    <button onclick="redirectToSuccessPage()">결제 완료</button>
+
+    <script>
+        function redirectToSuccessPage() {
+            var fullAddress = "{{ full_address }}";
+            window.location.href = 'http://127.0.0.1:8000/api_app/success/?fullAddress=' + encodeURIComponent(fullAddress);
+        }
+    </script>
+</body>
+</html>
